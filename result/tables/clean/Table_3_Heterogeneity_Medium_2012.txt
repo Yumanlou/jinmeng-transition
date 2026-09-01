@@ -1,0 +1,10 @@
+	coal_share_pctg	ln_co2	gtfp_level	gml_index	industrial_so2
+VARIABLES	coal_share_pctg	ln_co2	gtfp_level	gml_index	industrial_so2
+Shanxi DID	-0.0117	-0.0282	1.0828***	0.0639***	-12.6832*
+	(0.0221)	(0.0221)	(0.1634)	(0.0171)	(6.9860)
+Neimenggu DID	0.0590***	0.0595	1.1791***	0.1808***	-34.2803***
+	(0.0414)	(0.0414)	(0.2051)	(0.0143)	(5.7617)
+Obs. (Shanxi)	480	527	510	510	510
+R2 (Shanxi)	0.9335	0.9925	0.7356	0.2594	0.8703
+Obs. (Neimenggu)	480	527	510	510	510
+R2 (Neimenggu)	0.9344	0.9925	0.7363	0.2641	0.8747

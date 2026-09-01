@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"data\": {\"code\": 0, \"message\": \"OK\", \"data\": [{\"meta\": {\"code\": \"S5132642\", \"enName\": \"China: Shanghai: Power Input\", \"name\": \"中国:上海:输入电量\", \"enSource\": \"Wind\", \"source\": \"Wind\", \"enUnit\": \"10000 kwh\", \"unit\": \"万千瓦时\", \"enFreq\": \"month\", \"freq\": \"月\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20260702\"}}, {\"meta\": {\"code\": \"F8912884\", \"enName\": \"China: Shanghai: Energy Available for Consumption: Transfer in From Other Provinces (Cities)\", \"name\": \"上海:可供本地区消费的能源量:外省(市)调入量\", \"enSource\": \"Shanghai Municipal Bureau of Statistics\", \"source\": \"上海市统计局\", \"enUnit\": \"10000 tons of SCE\", \"unit\": \"万吨标准煤\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10k \", \"magnitude\": \"万\", \"updateDate\": \"20260309\"}}, {\"meta\": {\"code\": \"F5834099\", \"enName\": \"China: Shanghai: Energy Available for Consumption: Transfer in From Other Provinces (Cities): Coal\", \"name\": \"上海:可供本地区消费的能源量:外省(市)调入量:煤炭\", \"enSource\": \"Shanghai Municipal Bureau of Statistics\", \"source\": \"上海市统计局\", \"enUnit\": \"10000 tons\", \"unit\": \"万吨\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10k \", \"magnitude\": \"万\", \"updateDate\": \"20250409\"}}, {\"meta\": {\"code\": \"O3567796\", \"enName\": \"China: Shanghai: Energy Available for Consumption: Transfer Out Volume of the City\", \"name\": \"上海:可供本地区消费的能源量:本市调出量\", \"enSource\": \"Shanghai Municipal Bureau of Statistics\", \"source\": \"上海市统计局\", \"enUnit\": \"10000 tons of SCE\", \"unit\": \"万吨标准煤\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10k \", \"magnitude\": \"万\", \"updateDate\": \"20260309\"}}]}, \"error\": null}"
+    }
+  ],
+  "isError": false
+}

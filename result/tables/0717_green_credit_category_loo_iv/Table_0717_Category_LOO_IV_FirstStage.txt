@@ -1,0 +1,38 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)
+VARIABLES	assetW_assetG	outletW_assetG	assetW_outletG	outletW_outletG	assetW_assetCum	outletW_assetCum	assetW_outletCum	outletW_outletCum	assetW_assetCum_post	outletW_assetCum_post	assetW_outletCum_post	outletW_outletCum_post
+												
+iv_assets_assets_growth_loo	-0.2756											
+	(0.1755)											
+iv_outlets_assets_growth_loo		-0.2226										
+		(0.2244)										
+iv_assets_outlets_growth_loo			0.0632									
+			(0.1752)									
+iv_outlets_outlets_growth_loo				0.1071								
+				(0.1761)								
+iv_assets_assets_cum2011_loo					0.2626							
+					(0.3243)							
+iv_outlets_assets_cum2011_loo						0.2822						
+						(0.3050)						
+iv_assets_outlets_cum2011_loo							0.4309**					
+							(0.1734)					
+iv_outlets_outlets_cum2011_loo								0.8635**				
+								(0.3506)				
+iv_aw_acum_post									0.2675			
+									(0.4761)			
+iv_ow_acum_post										0.3301		
+										(0.4529)		
+iv_aw_ocum_post											0.4785**	
+											(0.2054)	
+iv_ow_ocum_post												0.9197**
+												(0.4043)
+Constant	0.5036***	0.4951***	0.4131***	0.4155***	0.7697*	0.7948**	0.4352***	0.4386***	0.4568***	0.4568***	0.4190***	0.4190***
+	(0.0490)	(0.0641)	(0.0145)	(0.0155)	(0.3854)	(0.3635)	(0.0124)	(0.0149)	(0.0124)	(0.0124)	(0.0134)	(0.0132)
+												
+Observations	527	527	465	465	558	558	496	496	558	558	496	496
+R-squared	0.7829	0.7825	0.7984	0.7984	0.7816	0.7824	0.8077	0.8094	0.7801	0.7815	0.8070	0.8076
+Province FE	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Year FE	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+SE	Province clustered	Province clustered	Province clustered	Province clustered	Province clustered	Province clustered	Province clustered	Province clustered	Province clustered	Province clustered	Province clustered	Province clustered
+Excluded-IV F	2.47	0.98	0.13	0.37	0.66	0.86	6.18	6.07	0.32	0.53	5.43	5.17
+Robust standard errors in parentheses												
+*** p<0.01, ** p<0.05, * p<0.1												

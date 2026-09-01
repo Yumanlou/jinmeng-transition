@@ -1,0 +1,44 @@
+[
+  {
+    "meta": {
+      "code": "U1479785",
+      "enName": "China: Hangzhou: Emissions of Pollutants from Exhaust Gases: Industrial Sulfur Dioxide",
+      "name": "中国:杭州:废气中污染物排放量:工业二氧化硫",
+      "enSource": "National Bureau of Statistics of China",
+      "source": "国家统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20251105"
+    }
+  },
+  {
+    "meta": {
+      "code": "D8852477",
+      "enName": "China: Zhejiang: Taizhou: Discharged Volume of Sulphur Dioxide",
+      "name": "浙江:台州:二氧化硫排放量",
+      "enSource": "Taizhou Municipal Bureau of Statistics",
+      "source": "台州市统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20260318"
+    }
+  },
+  {
+    "meta": {
+      "code": "R4305330",
+      "enName": "China: Zhejiang: Huzhou: Discharged Volume of SO₂",
+      "name": "浙江:湖州:二氧化硫排放量",
+      "enSource": "Huzhou Municipal Bureau of Statistics",
+      "source": "湖州市统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20260224"
+    }
+  }
+]

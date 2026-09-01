@@ -1,0 +1,91 @@
+{
+  "source": "Li (2025), PLOS ONE supplementary file",
+  "doi": "10.1371/journal.pone.0324713",
+  "supplement_doi": "10.1371/journal.pone.0324713.s001",
+  "coverage": "31 provincial-level regions, 2003-2023, one report per province-year",
+  "license": "Article and supplementary materials distributed under CC BY 4.0",
+  "interpretation": "Dictionary frequencies measure policy attention, not policy support or semantic direction",
+  "lexicons": {
+    "green_finance": [
+      "绿色金融",
+      "绿色信贷",
+      "绿色贷款",
+      "绿色债券",
+      "转型金融",
+      "碳金融",
+      "绿色保险",
+      "绿色基金",
+      "绿色融资",
+      "绿色担保"
+    ],
+    "fossil_security": [
+      "煤炭",
+      "煤矿",
+      "煤电",
+      "煤化工",
+      "焦化",
+      "能源安全",
+      "能源保供",
+      "稳产保供",
+      "增产保供",
+      "迎峰度夏",
+      "迎峰度冬",
+      "先进产能"
+    ],
+    "coal_retrofit": [
+      "煤炭清洁高效利用",
+      "煤炭清洁利用",
+      "煤电超低排放改造",
+      "煤电节能改造",
+      "煤电灵活性改造",
+      "智能化矿山",
+      "智能化煤矿",
+      "绿色矿山",
+      "煤矸石",
+      "煤层气",
+      "煤炭洗选"
+    ],
+    "pollution_control": [
+      "污染治理",
+      "污染防治",
+      "污染物",
+      "二氧化硫",
+      "氮氧化物",
+      "烟粉尘",
+      "颗粒物",
+      "减污",
+      "超低排放",
+      "大气污染",
+      "工业固废",
+      "固体废物"
+    ],
+    "renewable": [
+      "新能源",
+      "风电",
+      "光伏",
+      "太阳能发电",
+      "可再生能源",
+      "清洁能源",
+      "绿电",
+      "绿色电力",
+      "风光基地",
+      "新能源基地",
+      "沙戈荒"
+    ],
+    "grid_absorption": [
+      "电网",
+      "并网",
+      "消纳",
+      "外送",
+      "特高压",
+      "储能",
+      "源网荷储",
+      "绿电交易",
+      "电力市场",
+      "输电通道",
+      "电网调峰",
+      "抽水蓄能",
+      "电力外送"
+    ]
+  }
+}

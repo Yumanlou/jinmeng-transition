@@ -1,0 +1,17 @@
+	(1)	(2)
+VARIABLES	industrial_so2	nox_total
+		
+did_coal	-72.5887***	-43.9915**
+	(19.6996)	(16.8916)
+Constant	-424.0485*	-640.9555***
+	(223.0461)	(188.0346)
+		
+Observations	510	336
+R-squared	0.8812	0.9223
+Design	Continuous DID: pollution treatment	Continuous DID: pollution treatment
+Policy breakpoint	2012	2012
+Province FE	YES	YES
+Year FE	YES	YES
+Cluster	province_id	province_id
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

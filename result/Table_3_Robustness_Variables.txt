@@ -1,0 +1,12 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	SCM IM gtfp_level (Post=2023)	SCM IM gtfp_level (Post=2023)	SCM IM gtfp_level (Post=2023)	SCM IM gtfp_level (Post=2023)
+				
+post2023	0.6424***	0.6424***	0.6424***	0.6424***
+	(0.1137)	(0.1137)	(0.1137)	(0.1137)
+Constant	-0.4857***	-0.4857***	-0.4857***	-0.4857***
+	(0.1137)	(0.1137)	(0.1137)	(0.1137)
+				
+Observations	19	19	19	19
+R-squared	0.0944	0.0944	0.0944	0.0944
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

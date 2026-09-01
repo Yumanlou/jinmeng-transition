@@ -1,0 +1,64 @@
+{"kind":"slide","id":"sl/2x4nap4r","slide":2,"title":"核心发现","textShapes":8}
+{"kind":"shape","id":"sh/judg7ads","slide":2,"name":"object 9","bbox":[71.84,126.4,249.6,40.8]}
+{"kind":"shape","id":"sh/nyd0z610","slide":2,"name":"object 10","bbox":[505.81,177.07,370.74,131.73]}
+{"kind":"shape","id":"sh/udg7adsj","slide":2,"name":"object 11","bbox":[513.42,324.24,363.13,131.41]}
+{"kind":"textbox","id":"sh/54zidony","slide":2,"name":"object 12","text":"核心发现","textPreview":"核心发现","textChars":4,"textLines":1,"bbox":[579.02,232.02,249.33,14.67]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":2,"name":"object 13","text":"高煤炭暴露地区在政策后显著降低能源和煤炭使用强度。","textPreview":"高煤炭暴露地区在政策后显著降低能源和煤炭使用强度。","textChars":25,"textLines":1,"bbox":[579.02,253.62,249.33,43.2]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":2,"name":"object 14","text":"解释边界","textPreview":"解释边界","textChars":4,"textLines":1,"bbox":[581.12,378.87,249.33,14.53]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":2,"name":"object 15","text":"绿色全要素生产率与全局ML指数不显著，不能写成生产率跃升。","textPreview":"绿色全要素生产率与全局ML指数不显著，不能写成生产率跃升。","textChars":29,"textLines":1,"bbox":[581.12,400.47,249.33,43.2]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":2,"name":"object 16","text":"强度压降","textPreview":"强度压降","textChars":4,"textLines":1,"bbox":[152.18,137.17,77.4,22.4]}
+{"kind":"shape","id":"sh/cvixczed","slide":2,"name":"object 17","bbox":[22.9,18.22,15.79,75.75]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":2,"name":"object 21","bbox":[752.16,0,207.87,156.6]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":2,"name":"object 22","bbox":[706.88,27.07,92.27,92.33]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":2,"name":"object 3","text":"EMPIRICAL RESULTS  /  01","textPreview":"EMPIRICAL RESULTS  /  01","textChars":24,"textLines":1,"bbox":[44.53,32.4,204.73,16.13]}
+{"kind":"textbox","id":"sh/9knih4by","slide":2,"name":"object 4","text":"约束性治理：能源强度压降","textPreview":"约束性治理：能源强度压降","textChars":12,"textLines":1,"bbox":[44.53,49.2,204.73,57.47]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":2,"name":"object 5","text":"结果变量     核心系数（标准误）\n五类能源强度   -0.2895**  (0.1190)\n煤炭终端强度   -0.4262*** (0.0776)\n绿色全要素生产率 -1.0498   (0.7528)\n全局ML指数     -0.1342   (0.0830)\n\n政策后煤炭暴露；省份/年份固定效应\n** p<0.05，*** p<0.01","textPreview":"结果变量     核心系数（标准误） | 五类能源强度   -0.2895**  (0.1190) | 煤炭终端强度   -0.4262*** (0.0776) | 绿色全要素生产率 -1.0498   (0.7528) | 全局ML指数     -0.1342   (0....","textChars":174,"textLines":8,"bbox":[105.27,213.2,345.2,261.73]}
+{"kind":"image","id":"im/5o7qpg3e","slide":2,"name":"图片 23","bbox":[779.98,41.54,155.8,35.66]}
+{"kind":"slide","id":"sl/pg3ex0nu","slide":3,"title":"核心发现","textShapes":8}
+{"kind":"shape","id":"sh/yd0z6103","slide":3,"name":"object 9","bbox":[71.84,126.4,249.6,40.8]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":3,"name":"object 10","bbox":[505.81,177.07,370.74,131.73]}
+{"kind":"shape","id":"sh/lwval87e","slide":3,"name":"object 11","bbox":[513.42,324.24,363.13,131.41]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":3,"name":"object 12","text":"核心发现","textPreview":"核心发现","textChars":4,"textLines":1,"bbox":[579.02,232.02,249.33,14.67]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":3,"name":"object 13","text":"工业二氧化硫、氮氧化物和工业固废显著下降。","textPreview":"工业二氧化硫、氮氧化物和工业固废显著下降。","textChars":21,"textLines":1,"bbox":[579.02,253.62,249.33,43.2]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":3,"name":"object 14","text":"解释边界","textPreview":"解释边界","textChars":4,"textLines":1,"bbox":[581.12,378.87,249.33,14.53]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":3,"name":"object 15","text":"颗粒物与工业废水不稳定，证据集中于煤炭工业相关治理。","textPreview":"颗粒物与工业废水不稳定，证据集中于煤炭工业相关治理。","textChars":26,"textLines":1,"bbox":[581.12,400.47,249.33,43.2]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":3,"name":"object 16","text":"污染治理","textPreview":"污染治理","textChars":4,"textLines":1,"bbox":[152.18,137.17,77.4,22.4]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":3,"name":"object 17","bbox":[22.9,18.22,15.79,75.75]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":3,"name":"object 21","bbox":[752.16,0,207.87,156.6]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":3,"name":"object 22","bbox":[706.88,27.07,92.27,92.33]}
+{"kind":"textbox","id":"sh/7u54zido","slide":3,"name":"object 3","text":"EMPIRICAL RESULTS  /  02","textPreview":"EMPIRICAL RESULTS  /  02","textChars":24,"textLines":1,"bbox":[44.53,32.4,204.73,16.13]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":3,"name":"object 4","text":"约束性治理：污染治理响应","textPreview":"约束性治理：污染治理响应","textChars":12,"textLines":1,"bbox":[44.53,49.2,204.73,57.47]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":3,"name":"object 5","text":"结果变量     核心系数（标准误）\n工业二氧化硫   -72.5887*** (19.6996)\n氮氧化物      -43.9915**  (16.8916)\n工业固废      -47.2683**  (20.0521)\n颗粒物       -10.1339    (28.0627)\n工业废水      -40594.6149 (24203.0698)\n\n政策后煤炭暴露；省份/年份固定效应","textPreview":"结果变量     核心系数（标准误） | 工业二氧化硫   -72.5887*** (19.6996) | 氮氧化物      -43.9915**  (16.8916) | 工业固废      -47.2683**  (20.0521) | 颗粒物       -10.1...","textChars":199,"textLines":8,"bbox":[105.27,213.2,345.2,261.73]}
+{"kind":"image","id":"im/ap4r65wj","slide":3,"name":"图片 23","bbox":[779.98,41.54,155.8,35.66]}
+{"kind":"slide","id":"sl/s72x4nap","slide":4,"title":"过渡信号","textShapes":8}
+{"kind":"shape","id":"sh/z25kb6xk","slide":4,"name":"object 9","bbox":[71.84,126.4,249.6,40.8]}
+{"kind":"shape","id":"sh/vy90je9c","slide":4,"name":"object 10","bbox":[505.81,177.07,370.74,131.73]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":4,"name":"object 11","bbox":[513.42,324.24,363.13,131.41]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":4,"name":"object 12","text":"过渡信号","textPreview":"过渡信号","textChars":4,"textLines":1,"bbox":[579.02,232.02,249.33,14.67]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":4,"name":"object 13","text":"煤炭消费占比显著下降，约束效应已外溢到能源使用比例。","textPreview":"煤炭消费占比显著下降，约束效应已外溢到能源使用比例。","textChars":26,"textLines":1,"bbox":[579.02,253.62,249.33,43.2]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":4,"name":"object 14","text":"结构边界","textPreview":"结构边界","textChars":4,"textLines":1,"bbox":[581.12,378.87,249.33,14.53]}
+{"kind":"textbox","id":"sh/61032lsz","slide":4,"name":"object 15","text":"二氧化碳和火电结构未同步稳定变化，尚非完整结构性去煤。","textPreview":"二氧化碳和火电结构未同步稳定变化，尚非完整结构性去煤。","textChars":27,"textLines":1,"bbox":[581.12,400.47,249.33,43.2]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":4,"name":"object 16","text":"结构边界","textPreview":"结构边界","textChars":4,"textLines":1,"bbox":[152.18,137.17,77.4,22.4]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":4,"name":"object 17","bbox":[22.9,18.22,15.79,75.75]}
+{"kind":"shape","id":"sh/7adsji5s","slide":4,"name":"object 21","bbox":[752.16,0,207.87,156.6]}
+{"kind":"shape","id":"sh/wval87ed","slide":4,"name":"object 22","bbox":[706.88,27.07,92.27,92.33]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":4,"name":"object 3","text":"EMPIRICAL RESULTS  /  03","textPreview":"EMPIRICAL RESULTS  /  03","textChars":24,"textLines":1,"bbox":[44.53,32.4,204.73,16.13]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":4,"name":"object 4","text":"结构性治理边界：比例下降不等于去煤完成","textPreview":"结构性治理边界：比例下降不等于去煤完成","textChars":19,"textLines":1,"bbox":[44.53,49.2,204.73,86.2]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":4,"name":"object 5","text":"结果变量     核心系数（标准误）\n煤炭占比/五类口径 -0.2495*** (0.0754)\n煤炭占比/原口径  -0.1900*** (0.0651)\n二氧化碳排放/对数 -0.0982   (0.1034)\n火电装机占比     0.0517   (0.0945)\n火电发电占比     0.0888   (0.0754)\n\n政策后煤炭暴露；省份/年份固定效应","textPreview":"结果变量     核心系数（标准误） | 煤炭占比/五类口径 -0.2495*** (0.0754) | 煤炭占比/原口径  -0.1900*** (0.0651) | 二氧化碳排放/对数 -0.0982   (0.1034) | 火电装机占比     0.0517   (...","textChars":184,"textLines":8,"bbox":[105.27,213.2,345.2,261.73]}
+{"kind":"image","id":"im/h0fepkzu","slide":4,"name":"图片 23","bbox":[779.98,41.54,155.8,35.66]}
+{"kind":"slide","id":"sl/val87ed8","slide":5,"title":"模型结论","textShapes":8}
+{"kind":"shape","id":"sh/x4nap4r6","slide":5,"name":"object 9","bbox":[71.84,126.4,249.6,40.8]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":5,"name":"object 10","bbox":[505.81,177.07,370.74,131.73]}
+{"kind":"shape","id":"sh/8bat47y1","slide":5,"name":"object 11","bbox":[513.42,324.24,363.13,131.41]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":5,"name":"object 12","text":"模型结论","textPreview":"模型结论","textChars":4,"textLines":1,"bbox":[579.02,232.02,249.33,14.67]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":5,"name":"object 13","text":"三重交互为负且显著，不支持低碳基础自动放大新能源替代。","textPreview":"三重交互为负且显著，不支持低碳基础自动放大新能源替代。","textChars":27,"textLines":1,"bbox":[579.02,253.62,249.33,43.2]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":5,"name":"object 14","text":"案例补充","textPreview":"案例补充","textChars":4,"textLines":1,"bbox":[581.12,378.87,249.33,14.53]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":5,"name":"object 15","text":"晋蒙文本反映政策注意力和后验承接表现，不承担全国因果识别。","textPreview":"晋蒙文本反映政策注意力和后验承接表现，不承担全国因果识别。","textChars":29,"textLines":1,"bbox":[581.12,400.47,249.33,43.2]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":5,"name":"object 16","text":"条件路径","textPreview":"条件路径","textChars":4,"textLines":1,"bbox":[152.18,137.17,77.4,22.4]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":5,"name":"object 17","bbox":[22.9,18.22,15.79,75.75]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":5,"name":"object 21","bbox":[752.16,0,207.87,156.6]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":5,"name":"object 22","bbox":[706.88,27.07,92.27,92.33]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":5,"name":"object 3","text":"EMPIRICAL RESULTS  /  04","textPreview":"EMPIRICAL RESULTS  /  04","textChars":24,"textLines":1,"bbox":[44.53,32.4,204.73,16.13]}
+{"kind":"textbox","id":"sh/z61032ls","slide":5,"name":"object 4","text":"承接条件：低碳禀赋并非充分条件","textPreview":"承接条件：低碳禀赋并非充分条件","textChars":15,"textLines":1,"bbox":[44.53,49.2,204.73,57.47]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":5,"name":"object 5","text":"三重差分关键系数    风电发电   风光发电\n后期低碳禀赋       0.0309    0.0908*\n三重交互         -0.0927** -0.2363**\n\n模型包含后期煤炭暴露及低阶交互项；\n省份/年份固定效应。\n\n晋蒙文本摘录：内蒙古×政策后\n绿色金融词频 0.3062*；煤炭清洁治理\n词频 9.3511***（每万字）。","textPreview":"三重差分关键系数    风电发电   风光发电 | 后期低碳禀赋       0.0309    0.0908* | 三重交互         -0.0927** -0.2363** |  | 模型包含后期煤炭暴露及低阶交互项； | 省份/年份固定效应。 |  | 晋蒙文本...","textChars":174,"textLines":10,"bbox":[105.27,213.2,345.2,292.8]}
+{"kind":"image","id":"im/fyxobm58","slide":5,"name":"图片 23","bbox":[779.98,41.54,155.8,35.66]}

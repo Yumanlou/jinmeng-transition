@@ -1,0 +1,17 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	gtfp_level	gml_index	energy5_int	coalterm_int
+				
+did_coal	-1.0498	-0.1342	-0.2895**	-0.4262***
+	(0.7528)	(0.0830)	(0.1190)	(0.0776)
+Constant	-9.9167**	1.2140	1.7602	1.0233
+	(4.4406)	(0.8268)	(1.6275)	(1.3448)
+				
+Observations	510	510	480	480
+R-squared	0.7644	0.2719	0.9592	0.9237
+Design	Continuous DID: efficiency repair	Continuous DID: efficiency repair	Continuous DID: efficiency repair	Continuous DID: efficiency repair
+Policy breakpoint	2012	2012	2012	2012
+Province FE	YES	YES	YES	YES
+Year FE	YES	YES	YES	YES
+Cluster	province_id	province_id	province_id	province_id
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

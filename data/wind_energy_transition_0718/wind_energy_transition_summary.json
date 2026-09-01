@@ -1,0 +1,11 @@
+{
+  "completion_status": "BLOCKED_QUOTA",
+  "start_year": 2000,
+  "end_year": 2023,
+  "province_count": 31,
+  "discovered_series": 295,
+  "raw_observations": 24534,
+  "combined_panel_rows": 744,
+  "failure_rows": 85,
+  "qa_flag_rows": 8
+}

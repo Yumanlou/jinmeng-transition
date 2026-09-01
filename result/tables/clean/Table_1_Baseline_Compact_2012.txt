@@ -1,0 +1,7 @@
+(1)	(5)	(13)	(15)	(7)
+VARIABLES	ln_co2	gtfp_level	gml_index	industrial_so2
+did	0.0163	1.2138***	0.1308***	-25.0995***
+Observations	527	510	510	510
+Province FE	YES	YES	YES	YES
+Year FE	YES	YES	YES	YES
+Cluster	province_id	province_id	province_id	province_id

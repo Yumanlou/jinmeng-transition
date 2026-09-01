@@ -1,0 +1,5 @@
+variable,bootstrap_repetitions,percentile_2_5,bootstrap_median,percentile_97_5
+lower_threshold_percent,500,57.67,77.375,85.76525
+upper_threshold_percent,500,76.862,89.435,94.03575000000001
+middle_vs_low_coefficient,500,-0.0853999267746204,0.024890821598899094,0.05207878288497784
+high_vs_middle_coefficient,500,-0.05740970218375188,-0.02707205645924407,0.0488488629279389

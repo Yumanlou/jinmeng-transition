@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"data\": {\"code\": 0, \"message\": \"OK\", \"data\": [{\"meta\": {\"code\": \"S5133801\", \"enName\": \"China: Shandong: Cumulative Grid-connected Capacity: Distributed Photovoltaic Power Generation\", \"name\": \"中国:山东:累计并网容量:分布式光伏发电\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"quarterly\", \"freq\": \"季\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20260519\"}}, {\"meta\": {\"code\": \"Y1385228\", \"enName\": \"China: Shandong: New Installed Capacity: New Energy: Solar Power\", \"name\": \"中国:山东:当年新增装机容量:新能源:太阳能\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20240204\"}}, {\"meta\": {\"code\": \"Z7298891\", \"enName\": \"China: Shandong: New Installed Capacity: New Energy: Wind Power\", \"name\": \"中国:山东:当年新增装机容量:新能源:风电\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20240204\"}}]}, \"error\": null}"
+    }
+  ],
+  "isError": false
+}

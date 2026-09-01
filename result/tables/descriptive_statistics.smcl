@@ -1,0 +1,94 @@
+{smcl}
+{txt}{sf}{ul off}{.-}
+      name:  {res}descstat_log
+       {txt}log:  {res}/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/result/tables/descriptive_statistics.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}15 Mar 2026, 14:45:13
+{txt}
+{com}. tabstat ///
+>     sec_pctg coal_share_pctg ///
+>     ln_co2 industrial_so2 industrial_wastewater industrial_solid_waste ///
+>     gtfp_level gml_index ///
+>     credit bond investment insurance equity fund carbon_finance gf_index ///
+>     `controls' treat, ///
+>     statistics(n mean sd min p50 max) columns(statistics)
+
+{txt}{ralign 12:Variable} {...}
+{c |}         N      Mean        SD       Min       p50       Max
+{hline 13}{c +}{hline 60}
+{ralign 12:sec_pctg} {...}
+{c |}{...}
+ {res}      744  .4083569  .0834106   .145581  .4105984  .6133702
+{txt}{ralign 12:coal_share~g} {...}
+{c |}{...}
+ {res}      600  .4176243  .1601458  .0056374  .4288466  .8023124
+{txt}{ralign 12:ln_co2} {...}
+{c |}{...}
+ {res}      744  19.07746  .9150843  16.08109  19.14025  20.88716
+{txt}{ralign 12:industrial~2} {...}
+{c |}{...}
+ {res}      720   45.2034  39.48054      .059   34.9545     171.5
+{txt}{ralign 12:industrial~r} {...}
+{c |}{...}
+ {res}      720  63170.57  57689.85       547   40463.5    296318
+{txt}{ralign 12:industrial~e} {...}
+{c |}{...}
+ {res}      720  40.00162  33.60774      .158    33.098     160.5
+{txt}{ralign 12:gtfp_level} {...}
+{c |}{...}
+ {res}      720  2.210745  1.236649  .9195311  1.859804   9.42234
+{txt}{ralign 12:gml_index} {...}
+{c |}{...}
+ {res}      720  1.067321  .1672672  .5816608  1.045414  3.687002
+{txt}{ralign 12:credit} {...}
+{c |}{...}
+ {res}      744  .0362688  .0081655       .02      .036      .053
+{txt}{ralign 12:bond} {...}
+{c |}{...}
+ {res}      744   .108875  .0238222      .065      .109      .156
+{txt}{ralign 12:investment} {...}
+{c |}{...}
+ {res}      744  .2620672  .4891338      .018     .1075     4.703
+{txt}{ralign 12:insurance} {...}
+{c |}{...}
+ {res}      744   .038797  .0329846      .002      .028      .269
+{txt}{ralign 12:equity} {...}
+{c |}{...}
+ {res}      744  .0561694   .012404      .033      .056       .08
+{txt}{ralign 12:fund} {...}
+{c |}{...}
+ {res}      744  .0495188  .0109196      .029      .049      .073
+{txt}{ralign 12:carbon_fin~e} {...}
+{c |}{...}
+ {res}      744  4.371981  6.208561      .332     2.344    49.121
+{txt}{ralign 12:gf_index} {...}
+{c |}{...}
+ {res}      744  .3028374  .1113966      .088      .287      .783
+{txt}{ralign 12:ln_gdp} {...}
+{c |}{...}
+ {res}      744  9.159277  1.287929  4.778283  9.325324  11.83432
+{txt}{ralign 12:population} {...}
+{c |}{...}
+ {res}      744  4340.044  2806.632       258  3820.975     12706
+{txt}{ralign 12:urbanizati~e} {...}
+{c |}{...}
+ {res}      589  .5560847  .1470127  .2084835  .5529321  .9415162
+{txt}{ralign 12:env_exp_sh~e} {...}
+{c |}{...}
+ {res}      527  .0292531  .0104453  .0084537   .027502    .06814
+{txt}{ralign 12:market_index} {...}
+{c |}{...}
+ {res}      744  6.974349   2.27348     -.161     7.076    11.494
+{txt}{ralign 12:treat} {...}
+{c |}{...}
+ {res}      744  .0645161  .2458354         0         0         1
+{txt}{hline 13}{c BT}{hline 60}
+
+{com}. log close descstat_log
+      {txt}name:  {res}descstat_log
+       {txt}log:  {res}/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/result/tables/descriptive_statistics.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}15 Mar 2026, 14:45:13
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}

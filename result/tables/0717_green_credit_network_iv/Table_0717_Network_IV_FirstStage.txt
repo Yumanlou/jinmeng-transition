@@ -1,0 +1,22 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	policy_network	national_level	national_change	national_dev2011
+				
+z_iv_network_post2012	0.0611**			
+	(0.0254)			
+z_iv_network_national_level		-0.4603**		
+		(0.2136)		
+z_iv_network_national_change			-0.0097**	
+			(0.0038)	
+z_iv_network_national_dev2011				-0.0621**
+				(0.0288)
+Constant	0.6116***	0.5501***	0.5713***	0.5501***
+	(0.0345)	(0.0129)	(0.0177)	(0.0129)
+				
+Observations	558	558	527	558
+R-squared	0.7918	0.7941	0.7825	0.7941
+Province FE	Yes	Yes	Yes	Yes
+Year FE	Yes	Yes	Yes	Yes
+SE	Province clustered	Province clustered	Province clustered	Province clustered
+Excluded-IV F	5.80	4.65	6.60	4.65
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

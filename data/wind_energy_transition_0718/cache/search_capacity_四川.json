@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"data\": {\"code\": 0, \"message\": \"OK\", \"data\": [{\"meta\": {\"code\": \"Z5109240\", \"enName\": \"China: Sichuan: New Installed Capacity: New Energy: Solar Power\", \"name\": \"中国:四川:当年新增装机容量:新能源:太阳能\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20240204\"}}, {\"meta\": {\"code\": \"W6429480\", \"enName\": \"China: Sichuan: New Installed Capacity: New Energy: Wind Power\", \"name\": \"中国:四川:当年新增装机容量:新能源:风电\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20240204\"}}]}, \"error\": null}"
+    }
+  ],
+  "isError": false
+}

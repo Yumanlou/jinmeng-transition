@@ -1,0 +1,4 @@
+﻿technology,release,provinces,scope
+coal,"Global Coal Plant Tracker, January 2026",31,Coal units >=30 MW; Xizang absent and coded zero; province cells rounded to whole MW
+wind,"Global Wind Power Tracker, February 2026",31,Utility-scale wind phases >=10 MW; province cells rounded to whole MW
+solar,"Global Solar Power Tracker, February 2026",31,Utility-scale solar phases >=1 MWac; province cells rounded to whole MWac

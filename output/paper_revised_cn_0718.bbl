@@ -1,0 +1,2140 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{acemogluetal2012}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d849e6f8de178bfb18aa67341c9f8d38}{%
+           family={Acemoglu},
+           familyi={A\bibinitperiod},
+           given={Daron},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c80c989fdd0b446cc5cdac1d9584afe}{%
+           family={Aghion},
+           familyi={A\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=104a6288dd9030ae66a027279f24d85f}{%
+           family={Bursztyn},
+           familyi={B\bibinitperiod},
+           given={Leonardo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bbde1caa3e63405b58a75ccb3976ab7}{%
+           family={Hémous},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb65b2b3855343e444a1cb84b6bff952}
+      \strng{fullhash}{17d097e57961f2729982b3cb962b1415}
+      \strng{fullhashraw}{17d097e57961f2729982b3cb962b1415}
+      \strng{bibnamehash}{17d097e57961f2729982b3cb962b1415}
+      \strng{authorbibnamehash}{17d097e57961f2729982b3cb962b1415}
+      \strng{authornamehash}{bb65b2b3855343e444a1cb84b6bff952}
+      \strng{authorfullhash}{17d097e57961f2729982b3cb962b1415}
+      \strng{authorfullhashraw}{17d097e57961f2729982b3cb962b1415}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{1}
+      \field{title}{The Environment and Directed Technical Change}
+      \field{volume}{102}
+      \field{year}{2012}
+      \field{pages}{131\bibrangedash 166}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1257/aer.102.1.131
+      \endverb
+    \endentry
+    \entry{aghionetal2016}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=7c80c989fdd0b446cc5cdac1d9584afe}{%
+           family={Aghion},
+           familyi={A\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ad9e6e8fecc65ee2d06e9ebd1ad6e28}{%
+           family={Dechezleprêtre},
+           familyi={D\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bbde1caa3e63405b58a75ccb3976ab7}{%
+           family={Hémous},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d44b08786c9cad50c63cc3ac3c2ff277}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f70553b3e26946f6aa958883ea10f035}{%
+           family={Van\bibnamedelima Reenen},
+           familyi={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb729f6ef6c1efba92738ec98909537c}
+      \strng{fullhash}{1b8affc0abdb159ac03d0e1521fe31cf}
+      \strng{fullhashraw}{1b8affc0abdb159ac03d0e1521fe31cf}
+      \strng{bibnamehash}{1b8affc0abdb159ac03d0e1521fe31cf}
+      \strng{authorbibnamehash}{1b8affc0abdb159ac03d0e1521fe31cf}
+      \strng{authornamehash}{fb729f6ef6c1efba92738ec98909537c}
+      \strng{authorfullhash}{1b8affc0abdb159ac03d0e1521fe31cf}
+      \strng{authorfullhashraw}{1b8affc0abdb159ac03d0e1521fe31cf}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{1}
+      \field{title}{Carbon Taxes, Path Dependency, and Directed Technical Change: Evidence from the Auto Industry}
+      \field{volume}{124}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 51}
+      \range{pages}{51}
+      \verb{doi}
+      \verb 10.1086/684581
+      \endverb
+    \endentry
+    \entry{aizawayang2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c0bd7e08bb715bcef63b12f53fbc888c}{%
+           family={Aizawa},
+           familyi={A\bibinitperiod},
+           given={Motoko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ca633f3376910d1f7f851605e3cef99}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chaofei},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{36daa5204ac4bb6519d78b248f717e28}
+      \strng{fullhash}{36daa5204ac4bb6519d78b248f717e28}
+      \strng{fullhashraw}{36daa5204ac4bb6519d78b248f717e28}
+      \strng{bibnamehash}{36daa5204ac4bb6519d78b248f717e28}
+      \strng{authorbibnamehash}{36daa5204ac4bb6519d78b248f717e28}
+      \strng{authornamehash}{36daa5204ac4bb6519d78b248f717e28}
+      \strng{authorfullhash}{36daa5204ac4bb6519d78b248f717e28}
+      \strng{authorfullhashraw}{36daa5204ac4bb6519d78b248f717e28}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Environment \& Development}
+      \field{number}{2}
+      \field{title}{Green Credit, Green Stimulus, Green Revolution? China's Mobilization of Banks for Environmental Cleanup}
+      \field{volume}{19}
+      \field{year}{2010}
+      \field{pages}{119\bibrangedash 144}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1177/1070496510371192
+      \endverb
+    \endentry
+    \entry{arthur1989}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5892ac766ff8f473109e96dcad7f8676}{%
+           family={Arthur},
+           familyi={A\bibinitperiod},
+           given={W.\bibnamedelimi Brian},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5892ac766ff8f473109e96dcad7f8676}
+      \strng{fullhash}{5892ac766ff8f473109e96dcad7f8676}
+      \strng{fullhashraw}{5892ac766ff8f473109e96dcad7f8676}
+      \strng{bibnamehash}{5892ac766ff8f473109e96dcad7f8676}
+      \strng{authorbibnamehash}{5892ac766ff8f473109e96dcad7f8676}
+      \strng{authornamehash}{5892ac766ff8f473109e96dcad7f8676}
+      \strng{authorfullhash}{5892ac766ff8f473109e96dcad7f8676}
+      \strng{authorfullhashraw}{5892ac766ff8f473109e96dcad7f8676}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economic Journal}
+      \field{number}{394}
+      \field{title}{Competing Technologies, Increasing Returns, and Lock-In by Historical Events}
+      \field{volume}{99}
+      \field{year}{1989}
+      \field{pages}{116\bibrangedash 131}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.2307/2234208
+      \endverb
+    \endentry
+    \entry{auty1993}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c8db9fe55f45807cc8d63e2c275033d}{%
+           family={Auty},
+           familyi={A\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{7c8db9fe55f45807cc8d63e2c275033d}
+      \strng{fullhash}{7c8db9fe55f45807cc8d63e2c275033d}
+      \strng{fullhashraw}{7c8db9fe55f45807cc8d63e2c275033d}
+      \strng{bibnamehash}{7c8db9fe55f45807cc8d63e2c275033d}
+      \strng{authorbibnamehash}{7c8db9fe55f45807cc8d63e2c275033d}
+      \strng{authornamehash}{7c8db9fe55f45807cc8d63e2c275033d}
+      \strng{authorfullhash}{7c8db9fe55f45807cc8d63e2c275033d}
+      \strng{authorfullhashraw}{7c8db9fe55f45807cc8d63e2c275033d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sustaining Development in Mineral Economies: The Resource Curse Thesis}
+      \field{year}{1993}
+    \endentry
+    \entry{boschma2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12f9f4943d6f7476e31a3bd23bf8f73b}{%
+           family={Boschma},
+           familyi={B\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{12f9f4943d6f7476e31a3bd23bf8f73b}
+      \strng{fullhash}{12f9f4943d6f7476e31a3bd23bf8f73b}
+      \strng{fullhashraw}{12f9f4943d6f7476e31a3bd23bf8f73b}
+      \strng{bibnamehash}{12f9f4943d6f7476e31a3bd23bf8f73b}
+      \strng{authorbibnamehash}{12f9f4943d6f7476e31a3bd23bf8f73b}
+      \strng{authornamehash}{12f9f4943d6f7476e31a3bd23bf8f73b}
+      \strng{authorfullhash}{12f9f4943d6f7476e31a3bd23bf8f73b}
+      \strng{authorfullhashraw}{12f9f4943d6f7476e31a3bd23bf8f73b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Regional Studies}
+      \field{number}{3}
+      \field{title}{Relatedness as Driver of Regional Diversification: A Research Agenda}
+      \field{volume}{51}
+      \field{year}{2017}
+      \field{pages}{351\bibrangedash 364}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/00343404.2016.1254767
+      \endverb
+    \endentry
+    \entry{campiglio2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2104987a22e2e7a1ea0f8c9b5a8715e7}{%
+           family={Campiglio},
+           familyi={C\bibinitperiod},
+           given={Emanuele},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2104987a22e2e7a1ea0f8c9b5a8715e7}
+      \strng{fullhash}{2104987a22e2e7a1ea0f8c9b5a8715e7}
+      \strng{fullhashraw}{2104987a22e2e7a1ea0f8c9b5a8715e7}
+      \strng{bibnamehash}{2104987a22e2e7a1ea0f8c9b5a8715e7}
+      \strng{authorbibnamehash}{2104987a22e2e7a1ea0f8c9b5a8715e7}
+      \strng{authornamehash}{2104987a22e2e7a1ea0f8c9b5a8715e7}
+      \strng{authorfullhash}{2104987a22e2e7a1ea0f8c9b5a8715e7}
+      \strng{authorfullhashraw}{2104987a22e2e7a1ea0f8c9b5a8715e7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecological Economics}
+      \field{title}{Beyond Carbon Pricing: The Role of Banking and Monetary Policy in Financing the Transition to a Low-Carbon Economy}
+      \field{volume}{121}
+      \field{year}{2016}
+      \field{pages}{220\bibrangedash 230}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.ecolecon.2015.03.020
+      \endverb
+    \endentry
+    \entry{carleyetal2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6debda3a9f174d47af8d8a0e5ca7a5a6}{%
+           family={Carley},
+           familyi={C\bibinitperiod},
+           given={Sanya},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd38d081afd16ac58a6e978824aa1a36}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Tom\bibnamedelima P.},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=228bb8b9e3e59810f6c1df2c1fd11765}{%
+           family={Konisky},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ec4c315159679e5722bb4e2bf7e70fd}
+      \strng{fullhash}{98a53b5589fed72008241629c171ade3}
+      \strng{fullhashraw}{98a53b5589fed72008241629c171ade3}
+      \strng{bibnamehash}{98a53b5589fed72008241629c171ade3}
+      \strng{authorbibnamehash}{98a53b5589fed72008241629c171ade3}
+      \strng{authornamehash}{7ec4c315159679e5722bb4e2bf7e70fd}
+      \strng{authorfullhash}{98a53b5589fed72008241629c171ade3}
+      \strng{authorfullhashraw}{98a53b5589fed72008241629c171ade3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Research \& Social Science}
+      \field{title}{Adaptation, Culture, and the Energy Transition in American Coal Country}
+      \field{volume}{37}
+      \field{year}{2018}
+      \field{pages}{133\bibrangedash 139}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.erss.2017.10.007
+      \endverb
+    \endentry
+    \entry{cbrc2012}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=307772832c228ab1bfb7f0482a230815}{%
+           family={{China Banking Regulatory Commission}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{307772832c228ab1bfb7f0482a230815}
+      \strng{fullhash}{307772832c228ab1bfb7f0482a230815}
+      \strng{fullhashraw}{307772832c228ab1bfb7f0482a230815}
+      \strng{bibnamehash}{307772832c228ab1bfb7f0482a230815}
+      \strng{authorbibnamehash}{307772832c228ab1bfb7f0482a230815}
+      \strng{authornamehash}{307772832c228ab1bfb7f0482a230815}
+      \strng{authorfullhash}{307772832c228ab1bfb7f0482a230815}
+      \strng{authorfullhashraw}{307772832c228ab1bfb7f0482a230815}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{CBRC Notice No. 4 of 2012}
+      \field{note}{Issued 24 February 2012}
+      \field{title}{Green Credit Guidelines}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.gov.cn/gzdt/2012-02/24/content_2076079.htm
+      \endverb
+      \verb{url}
+      \verb https://www.gov.cn/gzdt/2012-02/24/content_2076079.htm
+      \endverb
+    \endentry
+    \entry{cohenlevinthal1990}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6406b25f9988a57876e1b5ebea7f9b37}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Wesley\bibnamedelima M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1897d5404f43188864aa5b0e6c1c3a38}{%
+           family={Levinthal},
+           familyi={L\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df65a78aecbf40f57b9d27ff356b8f0e}
+      \strng{fullhash}{df65a78aecbf40f57b9d27ff356b8f0e}
+      \strng{fullhashraw}{df65a78aecbf40f57b9d27ff356b8f0e}
+      \strng{bibnamehash}{df65a78aecbf40f57b9d27ff356b8f0e}
+      \strng{authorbibnamehash}{df65a78aecbf40f57b9d27ff356b8f0e}
+      \strng{authornamehash}{df65a78aecbf40f57b9d27ff356b8f0e}
+      \strng{authorfullhash}{df65a78aecbf40f57b9d27ff356b8f0e}
+      \strng{authorfullhashraw}{df65a78aecbf40f57b9d27ff356b8f0e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Administrative Science Quarterly}
+      \field{number}{1}
+      \field{title}{Absorptive Capacity: A New Perspective on Learning and Innovation}
+      \field{volume}{35}
+      \field{year}{1990}
+      \field{pages}{128\bibrangedash 152}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.2307/2393553
+      \endverb
+    \endentry
+    \entry{crippaetal2024}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=1bb9a6cbea48a36330d21a1860d24f67}{%
+           family={Crippa},
+           familyi={C\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51612072358843e4b16ab6804105fdff}{%
+           family={Guizzardi},
+           familyi={G\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57bab7cfd62e23b566f0addeaefa15c1}{%
+           family={Pagani},
+           familyi={P\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=208b8eaeabdc1ed5528a945c8dd0d67e}{%
+           family={Schiavina},
+           familyi={S\bibinitperiod},
+           given={Marcello},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e42d6cd1ba3146f9ce8084e7bb53e73}{%
+           family={Melchiorri},
+           familyi={M\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b17d6828fd6ab4bf4969f48bbae4aa3b}{%
+           family={Pisoni},
+           familyi={P\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2dd49ca7df021089d3b0d2c8c6978ca5}{%
+           family={Graziosi},
+           familyi={G\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a2aed85ccdc7709fd8c2a7e009ac1c8}{%
+           family={Muntean},
+           familyi={M\bibinitperiod},
+           given={Marilena},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a8122ef06d1f066ef34e202a7feacc0}{%
+           family={Maes},
+           familyi={M\bibinitperiod},
+           given={Joost},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49173f789634945a853a1597a41de974}{%
+           family={Dijkstra},
+           familyi={D\bibinitperiod},
+           given={Lewis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d3b4824843c158d74f1fdf885cbae6a3}
+      \strng{fullhash}{cba2a60e5f6b6557d671143a49b78f80}
+      \strng{fullhashraw}{cba2a60e5f6b6557d671143a49b78f80}
+      \strng{bibnamehash}{cba2a60e5f6b6557d671143a49b78f80}
+      \strng{authorbibnamehash}{cba2a60e5f6b6557d671143a49b78f80}
+      \strng{authornamehash}{d3b4824843c158d74f1fdf885cbae6a3}
+      \strng{authorfullhash}{cba2a60e5f6b6557d671143a49b78f80}
+      \strng{authorfullhashraw}{cba2a60e5f6b6557d671143a49b78f80}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth System Science Data}
+      \field{title}{Insights into the Spatial Distribution of Global, National, and Subnational Greenhouse Gas Emissions in the Emissions Database for Global Atmospheric Research (EDGAR v8.0)}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{2811\bibrangedash 2830}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.5194/essd-16-2811-2024
+      \endverb
+    \endentry
+    \entry{cuietal2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ca1102531bf10341eae837f1c6140eea}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Yujun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d688545c260795a854339558b67cd36}{%
+           family={Geobey},
+           familyi={G\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad2b43afec102a0395db215e45d64ffa}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64e271819e793de04743dc9e2aa856f9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Haiying},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7b7044d7f478b68fae6a5d6cdaa653e1}
+      \strng{fullhash}{b558f8513f7eeebbefe541babdf68f4d}
+      \strng{fullhashraw}{b558f8513f7eeebbefe541babdf68f4d}
+      \strng{bibnamehash}{b558f8513f7eeebbefe541babdf68f4d}
+      \strng{authorbibnamehash}{b558f8513f7eeebbefe541babdf68f4d}
+      \strng{authornamehash}{7b7044d7f478b68fae6a5d6cdaa653e1}
+      \strng{authorfullhash}{b558f8513f7eeebbefe541babdf68f4d}
+      \strng{authorfullhashraw}{b558f8513f7eeebbefe541babdf68f4d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainability}
+      \field{number}{6}
+      \field{title}{The Impact of Green Lending on Credit Risk in China}
+      \field{volume}{10}
+      \field{year}{2018}
+      \field{pages}{2008}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su10062008
+      \endverb
+    \endentry
+    \entry{david1985}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b622b714a379377cfaf27df6f9901d0}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b622b714a379377cfaf27df6f9901d0}
+      \strng{fullhash}{4b622b714a379377cfaf27df6f9901d0}
+      \strng{fullhashraw}{4b622b714a379377cfaf27df6f9901d0}
+      \strng{bibnamehash}{4b622b714a379377cfaf27df6f9901d0}
+      \strng{authorbibnamehash}{4b622b714a379377cfaf27df6f9901d0}
+      \strng{authornamehash}{4b622b714a379377cfaf27df6f9901d0}
+      \strng{authorfullhash}{4b622b714a379377cfaf27df6f9901d0}
+      \strng{authorfullhashraw}{4b622b714a379377cfaf27df6f9901d0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{2}
+      \field{title}{Clio and the Economics of QWERTY}
+      \field{volume}{75}
+      \field{year}{1985}
+      \field{pages}{332\bibrangedash 337}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1257/aer.75.2.332
+      \endverb
+    \endentry
+    \entry{demeterova2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cb81d2600bf5ff7efeaee1742615e3d3}{%
+           family={Demeterova},
+           familyi={D\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb81d2600bf5ff7efeaee1742615e3d3}
+      \strng{fullhash}{cb81d2600bf5ff7efeaee1742615e3d3}
+      \strng{fullhashraw}{cb81d2600bf5ff7efeaee1742615e3d3}
+      \strng{bibnamehash}{cb81d2600bf5ff7efeaee1742615e3d3}
+      \strng{authorbibnamehash}{cb81d2600bf5ff7efeaee1742615e3d3}
+      \strng{authornamehash}{cb81d2600bf5ff7efeaee1742615e3d3}
+      \strng{authorfullhash}{cb81d2600bf5ff7efeaee1742615e3d3}
+      \strng{authorfullhashraw}{cb81d2600bf5ff7efeaee1742615e3d3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Regional Studies}
+      \field{number}{8}
+      \field{title}{Assessing Regional Capabilities-Oriented Approaches for European Just and Sustainable Transitions}
+      \field{volume}{58}
+      \field{year}{2024}
+      \field{pages}{1530\bibrangedash 1542}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1080/00343404.2023.2242894
+      \endverb
+    \endentry
+    \entry{dikauvolz2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=58334bd4e3c5797663bb2f1f69a87119}{%
+           family={Dikau},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=977baa73ada717d785e0bab2b33a314a}{%
+           family={Volz},
+           familyi={V\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f8828447ec18401688a7ed158ada0ced}
+      \strng{fullhash}{f8828447ec18401688a7ed158ada0ced}
+      \strng{fullhashraw}{f8828447ec18401688a7ed158ada0ced}
+      \strng{bibnamehash}{f8828447ec18401688a7ed158ada0ced}
+      \strng{authorbibnamehash}{f8828447ec18401688a7ed158ada0ced}
+      \strng{authornamehash}{f8828447ec18401688a7ed158ada0ced}
+      \strng{authorfullhash}{f8828447ec18401688a7ed158ada0ced}
+      \strng{authorfullhashraw}{f8828447ec18401688a7ed158ada0ced}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecological Economics}
+      \field{title}{Central Bank Mandates, Sustainability Objectives and the Promotion of Green Finance}
+      \field{volume}{184}
+      \field{year}{2021}
+      \field{pages}{107022}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ecolecon.2021.107022
+      \endverb
+    \endentry
+    \entry{geels2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b902e036942b0487448e0c6619bb9d9}{%
+           family={Geels},
+           familyi={G\bibinitperiod},
+           given={Frank\bibnamedelima W.},
+           giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b902e036942b0487448e0c6619bb9d9}
+      \strng{fullhash}{3b902e036942b0487448e0c6619bb9d9}
+      \strng{fullhashraw}{3b902e036942b0487448e0c6619bb9d9}
+      \strng{bibnamehash}{3b902e036942b0487448e0c6619bb9d9}
+      \strng{authorbibnamehash}{3b902e036942b0487448e0c6619bb9d9}
+      \strng{authornamehash}{3b902e036942b0487448e0c6619bb9d9}
+      \strng{authorfullhash}{3b902e036942b0487448e0c6619bb9d9}
+      \strng{authorfullhashraw}{3b902e036942b0487448e0c6619bb9d9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research Policy}
+      \field{number}{8--9}
+      \field{title}{Technological Transitions as Evolutionary Reconfiguration Processes: A Multi-Level Perspective and a Case-Study}
+      \field{volume}{31}
+      \field{year}{2002}
+      \field{pages}{1257\bibrangedash 1274}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/S0048-7333(02)00062-8
+      \endverb
+    \endentry
+    \entry{grashofbasilico2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=940bf22cd41b503151e2c46ee3795918}{%
+           family={Grashof},
+           familyi={G\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f44749d771f3b712872777efad70a59}{%
+           family={Basilico},
+           familyi={B\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2134c0260a7ea5ef2bcc49bc9ec0e8f0}
+      \strng{fullhash}{2134c0260a7ea5ef2bcc49bc9ec0e8f0}
+      \strng{fullhashraw}{2134c0260a7ea5ef2bcc49bc9ec0e8f0}
+      \strng{bibnamehash}{2134c0260a7ea5ef2bcc49bc9ec0e8f0}
+      \strng{authorbibnamehash}{2134c0260a7ea5ef2bcc49bc9ec0e8f0}
+      \strng{authornamehash}{2134c0260a7ea5ef2bcc49bc9ec0e8f0}
+      \strng{authorfullhash}{2134c0260a7ea5ef2bcc49bc9ec0e8f0}
+      \strng{authorfullhashraw}{2134c0260a7ea5ef2bcc49bc9ec0e8f0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Regional Studies}
+      \field{title}{Divergent Paths for Green Transition: Regional Disparities in Technology Diversification}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1080/00343404.2024.2363327
+      \endverb
+    \endentry
+    \entry{hansencoenen2015}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=55586a8454f8d173489677481948e29d}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Teis},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=990330494ed1319ab7d2272966cf8d8b}{%
+           family={Coenen},
+           familyi={C\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20e6c14d79f7225b0efbba528af8614f}
+      \strng{fullhash}{20e6c14d79f7225b0efbba528af8614f}
+      \strng{fullhashraw}{20e6c14d79f7225b0efbba528af8614f}
+      \strng{bibnamehash}{20e6c14d79f7225b0efbba528af8614f}
+      \strng{authorbibnamehash}{20e6c14d79f7225b0efbba528af8614f}
+      \strng{authornamehash}{20e6c14d79f7225b0efbba528af8614f}
+      \strng{authorfullhash}{20e6c14d79f7225b0efbba528af8614f}
+      \strng{authorfullhashraw}{20e6c14d79f7225b0efbba528af8614f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Innovation and Societal Transitions}
+      \field{title}{The Geography of Sustainability Transitions: Review, Synthesis and Reflections on an Emergent Research Field}
+      \field{volume}{17}
+      \field{year}{2015}
+      \field{pages}{92\bibrangedash 109}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.eist.2014.11.001
+      \endverb
+    \endentry
+    \entry{heetal2019}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=07cde21d8fc484bbbcbda27a7c07d2a9}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Lingyun},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48b00bcd82eacb1e03f0dbe8af3ce68b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lihong},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=406b4a2884c1364da4a2bccb7e5d230d}{%
+           family={Zhong},
+           familyi={Z\bibinitperiod},
+           given={Zhangqi},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=563fbd47b243f81ad907db0ed0e1f4e9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Deqing},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee2b4a15025ecfaafcb95983b2d2623d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0b826b2a55137105ad5ec5c8b98d5b47}
+      \strng{fullhash}{fbd3168a6f52fb7442747c27e8fe068e}
+      \strng{fullhashraw}{fbd3168a6f52fb7442747c27e8fe068e}
+      \strng{bibnamehash}{fbd3168a6f52fb7442747c27e8fe068e}
+      \strng{authorbibnamehash}{fbd3168a6f52fb7442747c27e8fe068e}
+      \strng{authornamehash}{0b826b2a55137105ad5ec5c8b98d5b47}
+      \strng{authorfullhash}{fbd3168a6f52fb7442747c27e8fe068e}
+      \strng{authorfullhashraw}{fbd3168a6f52fb7442747c27e8fe068e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Green Credit, Renewable Energy Investment and Green Economy Development: Empirical Analysis Based on 150 Listed Companies of China}
+      \field{volume}{208}
+      \field{year}{2019}
+      \field{pages}{363\bibrangedash 372}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.jclepro.2018.10.119
+      \endverb
+    \endentry
+    \entry{healybarry2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0a4ff70f51d8aa43aa7660ee1f5cfc2c}{%
+           family={Healy},
+           familyi={H\bibinitperiod},
+           given={Noel},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb516123bb6d60d54957500f9af1922b}{%
+           family={Barry},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a1163ea2ac553e06cec38a4b3690c417}
+      \strng{fullhash}{a1163ea2ac553e06cec38a4b3690c417}
+      \strng{fullhashraw}{a1163ea2ac553e06cec38a4b3690c417}
+      \strng{bibnamehash}{a1163ea2ac553e06cec38a4b3690c417}
+      \strng{authorbibnamehash}{a1163ea2ac553e06cec38a4b3690c417}
+      \strng{authornamehash}{a1163ea2ac553e06cec38a4b3690c417}
+      \strng{authorfullhash}{a1163ea2ac553e06cec38a4b3690c417}
+      \strng{authorfullhashraw}{a1163ea2ac553e06cec38a4b3690c417}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Policy}
+      \field{title}{Politicizing Energy Justice and Energy System Transitions: Fossil Fuel Divestment and a Just Transition}
+      \field{volume}{108}
+      \field{year}{2017}
+      \field{pages}{451\bibrangedash 459}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.enpol.2017.06.014
+      \endverb
+    \endentry
+    \entry{hidalgoetal2007}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=766f75fa2f6e90fc264b64843a1f0604}{%
+           family={Hidalgo},
+           familyi={H\bibinitperiod},
+           given={César\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9a0522b1f7541579d8083c3992f0aa6}{%
+           family={Klinger},
+           familyi={K\bibinitperiod},
+           given={Bailey},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15bacd7ddfc866c5dd96976d4b0244d5}{%
+           family={Barabási},
+           familyi={B\bibinitperiod},
+           given={Albert-László},
+           giveni={A\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3985a0120da059a9b2dc10fff3af15f}{%
+           family={Hausmann},
+           familyi={H\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c4c8b38668ad61d7cc7ae7cb88bfe726}
+      \strng{fullhash}{01b03293313cee52cd99702e992f7edd}
+      \strng{fullhashraw}{01b03293313cee52cd99702e992f7edd}
+      \strng{bibnamehash}{01b03293313cee52cd99702e992f7edd}
+      \strng{authorbibnamehash}{01b03293313cee52cd99702e992f7edd}
+      \strng{authornamehash}{c4c8b38668ad61d7cc7ae7cb88bfe726}
+      \strng{authorfullhash}{01b03293313cee52cd99702e992f7edd}
+      \strng{authorfullhashraw}{01b03293313cee52cd99702e992f7edd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5837}
+      \field{title}{The Product Space Conditions the Development of Nations}
+      \field{volume}{317}
+      \field{year}{2007}
+      \field{pages}{482\bibrangedash 487}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1126/science.1144581
+      \endverb
+    \endentry
+    \entry{hotelling1931}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=628a6bd9bb208bfcbeb8394b69088107}{%
+           family={Hotelling},
+           familyi={H\bibinitperiod},
+           given={Harold},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{628a6bd9bb208bfcbeb8394b69088107}
+      \strng{fullhash}{628a6bd9bb208bfcbeb8394b69088107}
+      \strng{fullhashraw}{628a6bd9bb208bfcbeb8394b69088107}
+      \strng{bibnamehash}{628a6bd9bb208bfcbeb8394b69088107}
+      \strng{authorbibnamehash}{628a6bd9bb208bfcbeb8394b69088107}
+      \strng{authornamehash}{628a6bd9bb208bfcbeb8394b69088107}
+      \strng{authorfullhash}{628a6bd9bb208bfcbeb8394b69088107}
+      \strng{authorfullhashraw}{628a6bd9bb208bfcbeb8394b69088107}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{2}
+      \field{title}{The Economics of Exhaustible Resources}
+      \field{volume}{39}
+      \field{year}{1931}
+      \field{pages}{137\bibrangedash 175}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1086/254195
+      \endverb
+    \endentry
+    \entry{jaffepalmer1997}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1689f4d03efc6b66e1fcab2c1efc1dab}{%
+           family={Jaffe},
+           familyi={J\bibinitperiod},
+           given={Adam\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1aadeec8ec560e76fa0e377926dd073}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3161f814f958823c6745d28d3f9af20b}
+      \strng{fullhash}{3161f814f958823c6745d28d3f9af20b}
+      \strng{fullhashraw}{3161f814f958823c6745d28d3f9af20b}
+      \strng{bibnamehash}{3161f814f958823c6745d28d3f9af20b}
+      \strng{authorbibnamehash}{3161f814f958823c6745d28d3f9af20b}
+      \strng{authornamehash}{3161f814f958823c6745d28d3f9af20b}
+      \strng{authorfullhash}{3161f814f958823c6745d28d3f9af20b}
+      \strng{authorfullhashraw}{3161f814f958823c6745d28d3f9af20b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Economics and Statistics}
+      \field{number}{4}
+      \field{title}{Environmental Regulation and Innovation: A Panel Data Study}
+      \field{volume}{79}
+      \field{year}{1997}
+      \field{pages}{610\bibrangedash 619}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1162/003465397557196
+      \endverb
+    \endentry
+    \entry{johnstoneetal2010}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f2cbb45baaf749f69e0268ba42432209}{%
+           family={Johnstone},
+           familyi={J\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1299ec2fbdef35bdb8c95e6628ae7198}{%
+           family={Haščič},
+           familyi={H\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca9f12870206a3866d760b560775b764}{%
+           family={Popp},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ef45ac4f3551772d1badf4779fe25e29}
+      \strng{fullhash}{abf9a648d9d846f73d6ee4cf6f594096}
+      \strng{fullhashraw}{abf9a648d9d846f73d6ee4cf6f594096}
+      \strng{bibnamehash}{abf9a648d9d846f73d6ee4cf6f594096}
+      \strng{authorbibnamehash}{abf9a648d9d846f73d6ee4cf6f594096}
+      \strng{authornamehash}{ef45ac4f3551772d1badf4779fe25e29}
+      \strng{authorfullhash}{abf9a648d9d846f73d6ee4cf6f594096}
+      \strng{authorfullhashraw}{abf9a648d9d846f73d6ee4cf6f594096}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental and Resource Economics}
+      \field{number}{1}
+      \field{title}{Renewable Energy Policies and Technological Innovation: Evidence Based on Patent Counts}
+      \field{volume}{45}
+      \field{year}{2010}
+      \field{pages}{133\bibrangedash 155}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/s10640-009-9309-1
+      \endverb
+    \endentry
+    \entry{laietal2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=621c2255f48704b245ce482d2f10e4c3}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Jinming},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f1e33032cdd17c1c4c17fe05bd0772d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ed744adcf585a5b4419133e7134732a}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f48298cb85988021558d9ab5eba6c9a}
+      \strng{fullhash}{8d6de8f108d142855e6ae4ae3da46061}
+      \strng{fullhashraw}{8d6de8f108d142855e6ae4ae3da46061}
+      \strng{bibnamehash}{8d6de8f108d142855e6ae4ae3da46061}
+      \strng{authorbibnamehash}{8d6de8f108d142855e6ae4ae3da46061}
+      \strng{authornamehash}{0f48298cb85988021558d9ab5eba6c9a}
+      \strng{authorfullhash}{8d6de8f108d142855e6ae4ae3da46061}
+      \strng{authorfullhashraw}{8d6de8f108d142855e6ae4ae3da46061}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Review of Economics \& Finance}
+      \field{title}{Can Green Credit Policy Increase Corporate Pollution Abatement Efforts? Evidence from China}
+      \field{volume}{94}
+      \field{year}{2024}
+      \field{pages}{103401}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.iref.2024.05.026
+      \endverb
+    \endentry
+    \entry{lietal2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=02821a48003406ef06e1ee4dfa9fca52}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d03d76110feb64538398f18452d1e0a1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhao},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a555ffff8fd4417b254d83a0f56fc25}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Rong},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e71c00de7302133e98b61bf4a7a39902}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yue-Jun},
+           giveni={Y\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8c9f21c9efafcc3cd58a13d256a3db5}
+      \strng{fullhash}{9c6baa5206ca1edc8071844ab6227d43}
+      \strng{fullhashraw}{9c6baa5206ca1edc8071844ab6227d43}
+      \strng{bibnamehash}{9c6baa5206ca1edc8071844ab6227d43}
+      \strng{authorbibnamehash}{9c6baa5206ca1edc8071844ab6227d43}
+      \strng{authornamehash}{b8c9f21c9efafcc3cd58a13d256a3db5}
+      \strng{authorfullhash}{9c6baa5206ca1edc8071844ab6227d43}
+      \strng{authorfullhashraw}{9c6baa5206ca1edc8071844ab6227d43}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Technological Forecasting and Social Change}
+      \field{title}{The Impact of Green Credit Guidelines on Environmental Performance: Firm-Level Evidence from China}
+      \field{volume}{205}
+      \field{year}{2024}
+      \field{pages}{123524}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.techfore.2024.123524
+      \endverb
+    \endentry
+    \entry{machen2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7d25267d423df590ebedbb00c9caf1f2}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1a1803e325c62ed5ea10b319c23e172}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Diandian},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3122858ab3e9df35ab7e591f4f23efcf}
+      \strng{fullhash}{3122858ab3e9df35ab7e591f4f23efcf}
+      \strng{fullhashraw}{3122858ab3e9df35ab7e591f4f23efcf}
+      \strng{bibnamehash}{3122858ab3e9df35ab7e591f4f23efcf}
+      \strng{authorbibnamehash}{3122858ab3e9df35ab7e591f4f23efcf}
+      \strng{authornamehash}{3122858ab3e9df35ab7e591f4f23efcf}
+      \strng{authorfullhash}{3122858ab3e9df35ab7e591f4f23efcf}
+      \strng{authorfullhashraw}{3122858ab3e9df35ab7e591f4f23efcf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Behavior \& Organization}
+      \field{title}{How Green Credit Policies Drive Green Innovation: Evidence from a Natural Experiment in China}
+      \field{volume}{236}
+      \field{year}{2025}
+      \field{pages}{107265}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jebo.2025.107265
+      \endverb
+    \endentry
+    \entry{markardetal2012}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d6019d91aa5cee005d37de72d92529c8}{%
+           family={Markard},
+           familyi={M\bibinitperiod},
+           given={Jochen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=164275eba02ca7b1482bbc04e6185372}{%
+           family={Raven},
+           familyi={R\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c67ecf00280d2b4af02a5b1d5d81e98b}{%
+           family={Truffer},
+           familyi={T\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7b1766b22090d77fe8a100eb5d823f0e}
+      \strng{fullhash}{028a4e2d5c6e7b7512a42a39012a5598}
+      \strng{fullhashraw}{028a4e2d5c6e7b7512a42a39012a5598}
+      \strng{bibnamehash}{028a4e2d5c6e7b7512a42a39012a5598}
+      \strng{authorbibnamehash}{028a4e2d5c6e7b7512a42a39012a5598}
+      \strng{authornamehash}{7b1766b22090d77fe8a100eb5d823f0e}
+      \strng{authorfullhash}{028a4e2d5c6e7b7512a42a39012a5598}
+      \strng{authorfullhashraw}{028a4e2d5c6e7b7512a42a39012a5598}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research Policy}
+      \field{number}{6}
+      \field{title}{Sustainability Transitions: An Emerging Field of Research and Its Prospects}
+      \field{volume}{41}
+      \field{year}{2012}
+      \field{pages}{955\bibrangedash 967}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.respol.2012.02.013
+      \endverb
+    \endentry
+    \entry{neffkeetal2011}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=91fab329e70147338d81cfff93e8c653}{%
+           family={Neffke},
+           familyi={N\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=253049b0872ef0d38193230b596cc548}{%
+           family={Henning},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12f9f4943d6f7476e31a3bd23bf8f73b}{%
+           family={Boschma},
+           familyi={B\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4a13f3a01468099b2f7183bb6bb50c0}
+      \strng{fullhash}{691db137f26eeab29dbbc2cdd70035e4}
+      \strng{fullhashraw}{691db137f26eeab29dbbc2cdd70035e4}
+      \strng{bibnamehash}{691db137f26eeab29dbbc2cdd70035e4}
+      \strng{authorbibnamehash}{691db137f26eeab29dbbc2cdd70035e4}
+      \strng{authornamehash}{b4a13f3a01468099b2f7183bb6bb50c0}
+      \strng{authorfullhash}{691db137f26eeab29dbbc2cdd70035e4}
+      \strng{authorfullhashraw}{691db137f26eeab29dbbc2cdd70035e4}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economic Geography}
+      \field{number}{3}
+      \field{title}{How Do Regions Diversify over Time? Industry Relatedness and the Development of New Growth Paths in Regions}
+      \field{volume}{87}
+      \field{year}{2011}
+      \field{pages}{237\bibrangedash 265}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1111/j.1944-8287.2011.01121.x
+      \endverb
+    \endentry
+    \entry{pengetal2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=68530bbe3d7e0602739be440176ab604}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Changhong},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18c0d512c3b0f2f4a7583e151b4c1f63}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shuqin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70b24954a6b0c2587b34fa5e53202e61}{%
+           family={Rong},
+           familyi={R\bibinitperiod},
+           given={Xueyun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db460231c483a48393569e62db9622e5}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Dongjing},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{25565fe13f385d9d4eb992b320aaa213}
+      \strng{fullhash}{6fd46f5d4a3730185bb911f85652f83c}
+      \strng{fullhashraw}{6fd46f5d4a3730185bb911f85652f83c}
+      \strng{bibnamehash}{6fd46f5d4a3730185bb911f85652f83c}
+      \strng{authorbibnamehash}{6fd46f5d4a3730185bb911f85652f83c}
+      \strng{authornamehash}{25565fe13f385d9d4eb992b320aaa213}
+      \strng{authorfullhash}{6fd46f5d4a3730185bb911f85652f83c}
+      \strng{authorfullhashraw}{6fd46f5d4a3730185bb911f85652f83c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Review of Economics \& Finance}
+      \field{title}{Is China's Green Credit Policy Effective? Based on the Perspective of Enterprise Environmental Performance and Economic Performance}
+      \field{volume}{94}
+      \field{year}{2024}
+      \field{pages}{103410}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.iref.2024.103410
+      \endverb
+    \endentry
+    \entry{perettoetal2025}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5bf1c9c010d32412860e90dc5c7e5937}{%
+           family={Peretto},
+           familyi={P\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07c7a8f8085805b74c42cfe239554217}{%
+           family={Eichhammer},
+           familyi={E\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=554f53dd23caa8f55b7302de4ee8e5e1}{%
+           family={Süsser},
+           familyi={S\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{539196c7b924af2fea8121febf038421}
+      \strng{fullhash}{b4e758bb31f4a22dec884d4ca00dc183}
+      \strng{fullhashraw}{b4e758bb31f4a22dec884d4ca00dc183}
+      \strng{bibnamehash}{b4e758bb31f4a22dec884d4ca00dc183}
+      \strng{authorbibnamehash}{b4e758bb31f4a22dec884d4ca00dc183}
+      \strng{authornamehash}{539196c7b924af2fea8121febf038421}
+      \strng{authorfullhash}{b4e758bb31f4a22dec884d4ca00dc183}
+      \strng{authorfullhashraw}{b4e758bb31f4a22dec884d4ca00dc183}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and Sustainable Energy Transition}
+      \field{title}{Just Energy Transition in Coal Regions: Innovative Framework for Assessing Territorial Just Transition Plans}
+      \field{volume}{7}
+      \field{year}{2025}
+      \field{pages}{100101}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.rset.2024.100101
+      \endverb
+    \endentry
+    \entry{pigou1920}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f4a18010c80e15ed6e79cfff81942cd0}{%
+           family={Pigou},
+           familyi={P\bibinitperiod},
+           given={Arthur\bibnamedelima Cecil},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{fullhash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{fullhashraw}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{bibnamehash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{authorbibnamehash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{authornamehash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{authorfullhash}{f4a18010c80e15ed6e79cfff81942cd0}
+      \strng{authorfullhashraw}{f4a18010c80e15ed6e79cfff81942cd0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Economics of Welfare}
+      \field{year}{1920}
+    \endentry
+    \entry{popp2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca9f12870206a3866d760b560775b764}{%
+           family={Popp},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ca9f12870206a3866d760b560775b764}
+      \strng{fullhash}{ca9f12870206a3866d760b560775b764}
+      \strng{fullhashraw}{ca9f12870206a3866d760b560775b764}
+      \strng{bibnamehash}{ca9f12870206a3866d760b560775b764}
+      \strng{authorbibnamehash}{ca9f12870206a3866d760b560775b764}
+      \strng{authornamehash}{ca9f12870206a3866d760b560775b764}
+      \strng{authorfullhash}{ca9f12870206a3866d760b560775b764}
+      \strng{authorfullhashraw}{ca9f12870206a3866d760b560775b764}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{1}
+      \field{title}{Induced Innovation and Energy Prices}
+      \field{volume}{92}
+      \field{year}{2002}
+      \field{pages}{160\bibrangedash 180}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1257/000282802760015658
+      \endverb
+    \endentry
+    \entry{portervanderlinde1995}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=00fccab37644f65d2479dd0b102db192}{%
+           family={Porter},
+           familyi={P\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70746118329555322f4629188352f8d7}{%
+           family={Linde},
+           familyi={L\bibinitperiod},
+           given={Claas},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{30fa7424c52e11d8f66ca2773b2c8853}
+      \strng{fullhash}{30fa7424c52e11d8f66ca2773b2c8853}
+      \strng{fullhashraw}{30fa7424c52e11d8f66ca2773b2c8853}
+      \strng{bibnamehash}{30fa7424c52e11d8f66ca2773b2c8853}
+      \strng{authorbibnamehash}{30fa7424c52e11d8f66ca2773b2c8853}
+      \strng{authornamehash}{30fa7424c52e11d8f66ca2773b2c8853}
+      \strng{authorfullhash}{30fa7424c52e11d8f66ca2773b2c8853}
+      \strng{authorfullhashraw}{30fa7424c52e11d8f66ca2773b2c8853}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Perspectives}
+      \field{number}{4}
+      \field{title}{Toward a New Conception of the Environment--Competitiveness Relationship}
+      \field{volume}{9}
+      \field{year}{1995}
+      \field{pages}{97\bibrangedash 118}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1257/jep.9.4.97
+      \endverb
+    \endentry
+    \entry{sachswarner2001}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f49fa8d4c5a359424f8d716560c7e2a4}{%
+           family={Sachs},
+           familyi={S\bibinitperiod},
+           given={Jeffrey\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af81ad3ea6e0f021f65807cedec391dd}{%
+           family={Warner},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{62aa9d61c490d83d9d1f0d6becb59dcc}
+      \strng{fullhash}{62aa9d61c490d83d9d1f0d6becb59dcc}
+      \strng{fullhashraw}{62aa9d61c490d83d9d1f0d6becb59dcc}
+      \strng{bibnamehash}{62aa9d61c490d83d9d1f0d6becb59dcc}
+      \strng{authorbibnamehash}{62aa9d61c490d83d9d1f0d6becb59dcc}
+      \strng{authornamehash}{62aa9d61c490d83d9d1f0d6becb59dcc}
+      \strng{authorfullhash}{62aa9d61c490d83d9d1f0d6becb59dcc}
+      \strng{authorfullhashraw}{62aa9d61c490d83d9d1f0d6becb59dcc}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Economic Review}
+      \field{number}{4--6}
+      \field{title}{The Curse of Natural Resources}
+      \field{volume}{45}
+      \field{year}{2001}
+      \field{pages}{827\bibrangedash 838}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/S0014-2921(01)00125-8
+      \endverb
+    \endentry
+    \entry{santoalhaboschma2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1d400326a5b90e1e22fa411f34c32b36}{%
+           family={Santoalha},
+           familyi={S\bibinitperiod},
+           given={Artur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12f9f4943d6f7476e31a3bd23bf8f73b}{%
+           family={Boschma},
+           familyi={B\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b9e4aee11f72bee7325ce02d043a683}
+      \strng{fullhash}{1b9e4aee11f72bee7325ce02d043a683}
+      \strng{fullhashraw}{1b9e4aee11f72bee7325ce02d043a683}
+      \strng{bibnamehash}{1b9e4aee11f72bee7325ce02d043a683}
+      \strng{authorbibnamehash}{1b9e4aee11f72bee7325ce02d043a683}
+      \strng{authornamehash}{1b9e4aee11f72bee7325ce02d043a683}
+      \strng{authorfullhash}{1b9e4aee11f72bee7325ce02d043a683}
+      \strng{authorfullhashraw}{1b9e4aee11f72bee7325ce02d043a683}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Regional Studies}
+      \field{number}{2}
+      \field{title}{Diversifying in Green Technologies in European Regions: Does Political Support Matter?}
+      \field{volume}{55}
+      \field{year}{2021}
+      \field{pages}{182\bibrangedash 195}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/00343404.2020.1744122
+      \endverb
+    \endentry
+    \entry{stiglitzweiss1981}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cb57f4b2aeede8f5865afde7b8453d40}{%
+           family={Stiglitz},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ae2dff1b0ce94b3ea8731fc79d30585}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae151681ffa4dd50b1d5480eac61aba5}
+      \strng{fullhash}{ae151681ffa4dd50b1d5480eac61aba5}
+      \strng{fullhashraw}{ae151681ffa4dd50b1d5480eac61aba5}
+      \strng{bibnamehash}{ae151681ffa4dd50b1d5480eac61aba5}
+      \strng{authorbibnamehash}{ae151681ffa4dd50b1d5480eac61aba5}
+      \strng{authornamehash}{ae151681ffa4dd50b1d5480eac61aba5}
+      \strng{authorfullhash}{ae151681ffa4dd50b1d5480eac61aba5}
+      \strng{authorfullhashraw}{ae151681ffa4dd50b1d5480eac61aba5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{3}
+      \field{title}{Credit Rationing in Markets with Imperfect Information}
+      \field{volume}{71}
+      \field{year}{1981}
+      \field{pages}{393\bibrangedash 410}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.2307/1802787
+      \endverb
+    \endentry
+    \entry{tassikittner2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8bbc55ede4c4d74c883e9984ae915fd4}{%
+           family={Tassi},
+           familyi={T\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5901f8a00d1a4c3b77c003b3164f9e3}{%
+           family={Kittner},
+           familyi={K\bibinitperiod},
+           given={Noah},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{508c765488cd8f080b8af9eafc332fb9}
+      \strng{fullhash}{508c765488cd8f080b8af9eafc332fb9}
+      \strng{fullhashraw}{508c765488cd8f080b8af9eafc332fb9}
+      \strng{bibnamehash}{508c765488cd8f080b8af9eafc332fb9}
+      \strng{authorbibnamehash}{508c765488cd8f080b8af9eafc332fb9}
+      \strng{authornamehash}{508c765488cd8f080b8af9eafc332fb9}
+      \strng{authorfullhash}{508c765488cd8f080b8af9eafc332fb9}
+      \strng{authorfullhashraw}{508c765488cd8f080b8af9eafc332fb9}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{Repurposing Coal Plants: Regional Economic Impacts from Low-Carbon Generation}
+      \field{volume}{199}
+      \field{year}{2024}
+      \field{pages}{114467}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.rser.2024.114467
+      \endverb
+    \endentry
+    \entry{unruh2000}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c59b8727f21cc3e3dc860e1aca93e9f2}{%
+           family={Unruh},
+           familyi={U\bibinitperiod},
+           given={Gregory\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c59b8727f21cc3e3dc860e1aca93e9f2}
+      \strng{fullhash}{c59b8727f21cc3e3dc860e1aca93e9f2}
+      \strng{fullhashraw}{c59b8727f21cc3e3dc860e1aca93e9f2}
+      \strng{bibnamehash}{c59b8727f21cc3e3dc860e1aca93e9f2}
+      \strng{authorbibnamehash}{c59b8727f21cc3e3dc860e1aca93e9f2}
+      \strng{authornamehash}{c59b8727f21cc3e3dc860e1aca93e9f2}
+      \strng{authorfullhash}{c59b8727f21cc3e3dc860e1aca93e9f2}
+      \strng{authorfullhashraw}{c59b8727f21cc3e3dc860e1aca93e9f2}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Policy}
+      \field{number}{12}
+      \field{title}{Understanding Carbon Lock-In}
+      \field{volume}{28}
+      \field{year}{2000}
+      \field{pages}{817\bibrangedash 830}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/S0301-4215(00)00070-7
+      \endverb
+    \endentry
+    \entry{wuetal2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f16c2583d9abd02d089eb43170a7c6c3}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jingjing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b0e5e367d90b682c6ce95eec00c64c0}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Qingxing},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=446e84a6f09f26fc6cf5730853e551ba}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{15a5a7aa6e2ef14fda248f911aa22fa0}
+      \strng{fullhash}{9ca62e340c597043fac874f8f6a731c6}
+      \strng{fullhashraw}{9ca62e340c597043fac874f8f6a731c6}
+      \strng{bibnamehash}{9ca62e340c597043fac874f8f6a731c6}
+      \strng{authorbibnamehash}{9ca62e340c597043fac874f8f6a731c6}
+      \strng{authornamehash}{15a5a7aa6e2ef14fda248f911aa22fa0}
+      \strng{authorfullhash}{9ca62e340c597043fac874f8f6a731c6}
+      \strng{authorfullhashraw}{9ca62e340c597043fac874f8f6a731c6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS ONE}
+      \field{number}{10}
+      \field{title}{Does Green Credit Policy Affect Corporate Innovation Performance? A Quasi-Natural Experiment Based on Green Credit Guidelines}
+      \field{volume}{18}
+      \field{year}{2023}
+      \field{pages}{e0291764}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0291764
+      \endverb
+    \endentry
+    \entry{xuyetal2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=c2c6ff1aa81df99ccd974774b24c7324}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Pei},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=b95a6416fa87b28407a56bd1103cfccd}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Penghao},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06d860fa344e2f78f7efcee2cfe09b09}{%
+           family={Jahanger},
+           familyi={J\bibinitperiod},
+           given={Atif},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5be4486f5192b255ba0c9735cc92fb4}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Siwei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6795e58c21d77d2ffd65b1473b7453d}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{afb54c883204526cf3eb1e0f5d2cc43e}
+      \strng{fullhash}{68a6e070a860bbb9d3b6154c0015443a}
+      \strng{fullhashraw}{68a6e070a860bbb9d3b6154c0015443a}
+      \strng{bibnamehash}{68a6e070a860bbb9d3b6154c0015443a}
+      \strng{authorbibnamehash}{68a6e070a860bbb9d3b6154c0015443a}
+      \strng{authornamehash}{afb54c883204526cf3eb1e0f5d2cc43e}
+      \strng{authorfullhash}{68a6e070a860bbb9d3b6154c0015443a}
+      \strng{authorfullhashraw}{68a6e070a860bbb9d3b6154c0015443a}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Corporate Social Responsibility and Environmental Management}
+      \field{number}{5}
+      \field{title}{Can Green Credit Policy Reduce Corporate Carbon Emission Intensity: Evidence from China's Listed Firms}
+      \field{volume}{30}
+      \field{year}{2023}
+      \field{pages}{2623\bibrangedash 2638}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1002/csr.2506
+      \endverb
+    \endentry
+    \entry{xuli2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=1dfc40aede23869d9fef5bef23851924}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xinkuo},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=f87d8683c034a29718e3c3ff1842f1fa}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jingsi},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{e16bd3790924f11923cd8ba4d313baa2}
+      \strng{fullhash}{e16bd3790924f11923cd8ba4d313baa2}
+      \strng{fullhashraw}{e16bd3790924f11923cd8ba4d313baa2}
+      \strng{bibnamehash}{e16bd3790924f11923cd8ba4d313baa2}
+      \strng{authorbibnamehash}{e16bd3790924f11923cd8ba4d313baa2}
+      \strng{authornamehash}{e16bd3790924f11923cd8ba4d313baa2}
+      \strng{authorfullhash}{e16bd3790924f11923cd8ba4d313baa2}
+      \strng{authorfullhashraw}{e16bd3790924f11923cd8ba4d313baa2}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Asymmetric Impacts of the Policy and Development of Green Credit on the Debt Financing Cost and Maturity of Different Types of Enterprises in China}
+      \field{volume}{264}
+      \field{year}{2020}
+      \field{pages}{121574}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jclepro.2020.121574
+      \endverb
+    \endentry
+    \entry{zhangyangbi2011}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=44d73e639c535123777db68e270b754e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Bing},
+           giveni={B\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=6d0a3d2f0102a4adfb61e16f1efe5471}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5d71e63aaeb93412f6bf66a3b8351a5}{%
+           family={Bi},
+           familyi={B\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c4d5d81b43f214383ca198bbf0988a9}
+      \strng{fullhash}{8005ee8545c478ccc02bf6c44e1ba811}
+      \strng{fullhashraw}{8005ee8545c478ccc02bf6c44e1ba811}
+      \strng{bibnamehash}{8005ee8545c478ccc02bf6c44e1ba811}
+      \strng{authorbibnamehash}{8005ee8545c478ccc02bf6c44e1ba811}
+      \strng{authornamehash}{1c4d5d81b43f214383ca198bbf0988a9}
+      \strng{authorfullhash}{8005ee8545c478ccc02bf6c44e1ba811}
+      \strng{authorfullhashraw}{8005ee8545c478ccc02bf6c44e1ba811}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Environmental Management}
+      \field{number}{4}
+      \field{title}{Tracking the Implementation of Green Credit Policy in China: Top-Down Perspective and Bottom-Up Reform}
+      \field{volume}{92}
+      \field{year}{2011}
+      \field{pages}{1321\bibrangedash 1327}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jenvman.2010.12.019
+      \endverb
+    \endentry
+    \entry{zhangetal2024resource}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=982d8f06539efd2ce18609c28f29b6c7}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiawang},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=5f41d5e21d0d4723e0ee7714cf32915c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Boyang},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63fa73849d07f7895e19cb8d5aacaafd}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Haonan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b6ffaa38f0b0fca3d8eb176a71a59d4}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e8138c601c9e3574efc3ba6c028fc85}
+      \strng{fullhash}{1f9fdf4f28d9ddb880adce05869173d8}
+      \strng{fullhashraw}{1f9fdf4f28d9ddb880adce05869173d8}
+      \strng{bibnamehash}{1f9fdf4f28d9ddb880adce05869173d8}
+      \strng{authorbibnamehash}{1f9fdf4f28d9ddb880adce05869173d8}
+      \strng{authornamehash}{1e8138c601c9e3574efc3ba6c028fc85}
+      \strng{authorfullhash}{1f9fdf4f28d9ddb880adce05869173d8}
+      \strng{authorfullhashraw}{1f9fdf4f28d9ddb880adce05869173d8}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Natural Resource Dependence and Renewable Energy Development: Does Government Policy Support Matter?}
+      \field{volume}{436}
+      \field{year}{2024}
+      \field{pages}{140466}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jclepro.2023.140466
+      \endverb
+    \endentry
+    \entry{zhangetal2024green}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=1,uniquepart=given,hash=da6feee7b2a51b32ea1a2d46f6f44626}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shujing},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=98564e41dec45cdbfaa575917edc3f8d}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dfcf55dc60ac31f81f92741cab8ab3b}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Jinxing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bba5e672ca6948344964703255560680}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Shuyu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cde43970f695cee5ed8253a4937b8cd7}{%
+           family={Cifuentes-Faura},
+           familyi={C\bibinithyphendelim F\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86571ea235f236649f7f6925aa421a7f}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Sihan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29db07e7eb65a84257e58c55260a20ba}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yanchao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44cbb2aeea6ab04f78f0cf29dd42c56b}
+      \strng{fullhash}{1b4e9b8b71eaf81c1e9d52c01765bc92}
+      \strng{fullhashraw}{1b4e9b8b71eaf81c1e9d52c01765bc92}
+      \strng{bibnamehash}{1b4e9b8b71eaf81c1e9d52c01765bc92}
+      \strng{authorbibnamehash}{1b4e9b8b71eaf81c1e9d52c01765bc92}
+      \strng{authornamehash}{44cbb2aeea6ab04f78f0cf29dd42c56b}
+      \strng{authorfullhash}{1b4e9b8b71eaf81c1e9d52c01765bc92}
+      \strng{authorfullhashraw}{1b4e9b8b71eaf81c1e9d52c01765bc92}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Research}
+      \field{title}{Whether the Green Credit Policy Effectively Promotes Green Transition of Enterprises in China? Empirical Analysis and Mechanism Verification}
+      \field{volume}{245}
+      \field{year}{2024}
+      \field{pages}{117910}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.envres.2023.117910
+      \endverb
+    \endentry
+    \entry{zhangetal2025micro}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=7cf81b111784e6b097bc8fc66643e33c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiaoyun},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=f3d79eaa5e218ee4eb4931b0dea3d01e}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Xiaorong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed0a66c28238f806193fb6929e1b6e35}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54b7c4ed61349e4284b747fb40ad5fdd}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuanyuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f8f6e613b7f7521057fd1d8ef0e0ef4}
+      \strng{fullhash}{31e109463be80a5544b177d31c7481a2}
+      \strng{fullhashraw}{31e109463be80a5544b177d31c7481a2}
+      \strng{bibnamehash}{31e109463be80a5544b177d31c7481a2}
+      \strng{authorbibnamehash}{31e109463be80a5544b177d31c7481a2}
+      \strng{authornamehash}{9f8f6e613b7f7521057fd1d8ef0e0ef4}
+      \strng{authorfullhash}{31e109463be80a5544b177d31c7481a2}
+      \strng{authorfullhashraw}{31e109463be80a5544b177d31c7481a2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{Green Credit and Enterprises' Carbon Emission Intensity: Empirical Data from Chinese Microenterprises}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{pages}{13338}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-025-98139-0
+      \endverb
+    \endentry
+    \entry{zhaoetal2026}{report}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=78fe0e5e35ce4b7e1b4cf63624462331}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xiaolei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=365757e166d4158a7baa3817a15e4170}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Lilly\bibnamedelima Lingrun},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5acfaaa4fe226d84b19c23ba80fbafd3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xuemei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=351be8bd748df1d52d1cf0934d616d55}{%
+           family={Vaze},
+           familyi={V\bibinitperiod},
+           given={Vikrant},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {SSRN}%
+      }
+      \strng{namehash}{3aaa7f7cbfba2a5bd742f09c2b2f1484}
+      \strng{fullhash}{0dfb12bc935006ec836ccd8a44a1912c}
+      \strng{fullhashraw}{0dfb12bc935006ec836ccd8a44a1912c}
+      \strng{bibnamehash}{0dfb12bc935006ec836ccd8a44a1912c}
+      \strng{authorbibnamehash}{0dfb12bc935006ec836ccd8a44a1912c}
+      \strng{authornamehash}{3aaa7f7cbfba2a5bd742f09c2b2f1484}
+      \strng{authorfullhash}{0dfb12bc935006ec836ccd8a44a1912c}
+      \strng{authorfullhashraw}{0dfb12bc935006ec836ccd8a44a1912c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Activating the Green Transition: Regional Absorptive Capacity and the Heterogeneous Effects of Industrial Policy}
+      \field{type}{Working Paper}
+      \field{year}{2026}
+      \verb{doi}
+      \verb 10.2139/ssrn.6167306
+      \endverb
+    \endentry
+    \entry{zhengetal2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=48ad67e5cc6a97282b280fa64972331c}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Xinyue},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fd8026f39f498bcc82d1558742b2b35}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yikun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=484dfa2851dcc7f2d2261ca1fd7cee95}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Xinyang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a2f54953cbb6be08f8b32f5fe9e5d26}{%
+           family={Sheng},
+           familyi={S\bibinitperiod},
+           given={Ni},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a64e3e46534c83111d286c64384450a}{%
+           family={Shao},
+           familyi={S\bibinitperiod},
+           given={Xuefeng},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{15122acdc2848b42d9e0f40d0fa8a932}
+      \strng{fullhash}{02b55493662100a27ce7906c497371e0}
+      \strng{fullhashraw}{02b55493662100a27ce7906c497371e0}
+      \strng{bibnamehash}{02b55493662100a27ce7906c497371e0}
+      \strng{authorbibnamehash}{02b55493662100a27ce7906c497371e0}
+      \strng{authornamehash}{15122acdc2848b42d9e0f40d0fa8a932}
+      \strng{authorfullhash}{02b55493662100a27ce7906c497371e0}
+      \strng{authorfullhashraw}{02b55493662100a27ce7906c497371e0}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Environmental Management}
+      \field{title}{Green Credit Guidelines and Financial Resilience: Implications for Green Innovation in Heavily Polluting Enterprises}
+      \field{volume}{373}
+      \field{year}{2025}
+      \field{pages}{124573}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jenvman.2025.124573
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,562 @@
+[
+  {
+    "meta": {
+      "code": "B5697842",
+      "enName": "China: Zhejiang: Hangzhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:杭州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      290.13,
+      287.02,
+      279.19,
+      286.54
+    ]
+  },
+  {
+    "meta": {
+      "code": "Z0533087",
+      "enName": "China: Zhejiang: Ningbo: No. of Employed Persons: Urban Units",
+      "name": "浙江:宁波:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      151.86,
+      161.28,
+      150.83,
+      158.15
+    ]
+  },
+  {
+    "meta": {
+      "code": "U0247684",
+      "enName": "China: Zhejiang: Wenzhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:温州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      104.6,
+      119.11,
+      107.36,
+      99.93
+    ]
+  },
+  {
+    "meta": {
+      "code": "W6009561",
+      "enName": "China: Zhejiang: Jiaxing: No. of Employed Persons: Urban Units",
+      "name": "浙江:嘉兴:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      80.55,
+      79.13,
+      75.26,
+      73.97
+    ]
+  },
+  {
+    "meta": {
+      "code": "N4106193",
+      "enName": "China: Zhejiang: Huzhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:湖州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      50.23,
+      50.38,
+      47.37,
+      48.98
+    ]
+  },
+  {
+    "meta": {
+      "code": "U0688402",
+      "enName": "China: Zhejiang: Shaoxing: No. of Employed Persons: Urban Units",
+      "name": "浙江:绍兴:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      136.83,
+      120.25,
+      115.06,
+      102.95
+    ]
+  },
+  {
+    "meta": {
+      "code": "R2210108",
+      "enName": "China: Zhejiang: Quzhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:衢州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      20.69,
+      20.45,
+      19.33,
+      20.79
+    ]
+  },
+  {
+    "meta": {
+      "code": "D7801846",
+      "enName": "China: Zhejiang: Jinhua: No. of Employed Persons: Urban Units",
+      "name": "浙江:金华:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      92.66,
+      76.49,
+      86.97,
+      69.53
+    ]
+  },
+  {
+    "meta": {
+      "code": "Y2376698",
+      "enName": "China: Zhejiang: Lishui: No. of Employed Persons: Urban Units",
+      "name": "浙江:丽水:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      18.44,
+      19.02,
+      19.01,
+      19.51
+    ]
+  },
+  {
+    "meta": {
+      "code": "L1515516",
+      "enName": "China: Zhejiang: Taizhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:台州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      94.14,
+      101.23,
+      94.95,
+      87.98
+    ]
+  },
+  {
+    "meta": {
+      "code": "T8585044",
+      "enName": "China: Zhejiang: Zhoushan: No. of Employed Persons: Urban Units",
+      "name": "浙江:舟山:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      46.99,
+      18.38,
+      18.14,
+      18.61
+    ]
+  },
+  {
+    "meta": {
+      "code": "N9444254",
+      "enName": "China: Guangdong: Guangzhou: No. of Employed Persons: Urban Units",
+      "name": "广东:广州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      325.23,
+      329.17,
+      348.65,
+      400.22
+    ]
+  },
+  {
+    "meta": {
+      "code": "K9853066",
+      "enName": "China: Guangdong: Shaoguan: No. of Employed Persons: Urban Units",
+      "name": "广东:韶关:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      33.52,
+      32.0,
+      31.27,
+      30.74
+    ]
+  },
+  {
+    "meta": {
+      "code": "F0883989",
+      "enName": "China: Guangdong: Shenzhen: No. of Employed Persons: Urban Units",
+      "name": "广东:深圳:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      456.23,
+      463.79,
+      486.49,
+      495.61
+    ]
+  },
+  {
+    "meta": {
+      "code": "O0759709",
+      "enName": "China: Guangdong: Heyuan: No. of Employed Persons: Urban Units",
+      "name": "广东:河源:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      27.9,
+      28.1,
+      28.9,
+      27.23
+    ]
+  },
+  {
+    "meta": {
+      "code": "A7308565",
+      "enName": "China: Guangdong: Chaozhou: No. of Employed Persons: Urban Units",
+      "name": "广东:潮州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      20.17,
+      18.54,
+      17.92,
+      16.43
+    ]
+  },
+  {
+    "meta": {
+      "code": "P9384320",
+      "enName": "China: Guangdong: Jieyang: No. of Employed Persons: Urban Units",
+      "name": "广东:揭阳:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      41.34,
+      37.86,
+      30.44,
+      23.19
+    ]
+  },
+  {
+    "meta": {
+      "code": "T5428643",
+      "enName": "China: Guangdong: Zhuhai: No. of Employed Persons: Urban Units",
+      "name": "广东:珠海:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      73.12,
+      76.2,
+      77.6,
+      76.08
+    ]
+  },
+  {
+    "meta": {
+      "code": "Y1832086",
+      "enName": "China: Guangdong: Foshan: No. of Employed Persons: Urban Units",
+      "name": "广东:佛山:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      171.72,
+      165.16,
+      163.33,
+      151.64
+    ]
+  },
+  {
+    "meta": {
+      "code": "B4036642",
+      "enName": "China: Guangdong: Meizhou: No. of Employed Persons: Urban Units",
+      "name": "广东:梅州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      28.92,
+      29.13,
+      30.05,
+      28.82
+    ]
+  }
+]

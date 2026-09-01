@@ -1,0 +1,5 @@
+﻿research_dimension,module,variables,coverage,source,empirical_role,status
+清洁与非清洁能源的消费,可再生能源电力消纳,re_cons_sh; nonhydro_re_cons_sh; target shares,"31省, 2015-2023; 消费量至2022",国家能源局可再生能源电力发展监测评价报告,全国面板的实际消纳结果变量,可用
+两类能源的产出稳定性,分能源月度发电波动,therm_month_cv; windsolar_month_cv; allsrc_month_cv,火电31省 2000-2023; 风电30省 2013-2023; 光伏20省 2016-2023,Wind转引国家统计局分省月度累计发电量,技术稳定性的直接描述证据,可用; 1-2月合并值不分摊
+非清洁能源存量运行,煤电机组运行与备用,coal_unit_operating_factor; coal_unit_standby_factor,"30个有煤电机组省份, 2018-2023",国家能源局全国电力可靠性年度报告,煤电存量持续承担运行功能的关联性证据,可用; 非因果识别
+两类能源的项目存量与增量,煤电与风光项目管线快照,operating; construction; pre-construction; announced; retired,"31省, 2026当期状态快照",Global Energy Monitor power trackers,样本期后项目路径的机制展示,不并入2000-2023因果面板

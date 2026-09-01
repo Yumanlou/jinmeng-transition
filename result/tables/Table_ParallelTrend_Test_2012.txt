@@ -1,0 +1,26 @@
+Parallel-trend test with policy breakpoint = 2012
+
+Outcome: coal_share_pctg
+Pre-trend joint test F = 8.614171443392143, p = .0003042759377307
+Rule of thumb: parallel trends look acceptable if pre-period coefficients are individually insignificant and joint p > 0.10
+
+Outcome: ln_co2
+Pre-trend joint test F = 1.027665070241123, p = .3943303800906744
+Rule of thumb: parallel trends look acceptable if pre-period coefficients are individually insignificant and joint p > 0.10
+
+Outcome: gtfp_level
+Pre-trend joint test F = .5780621693018304, p = .6340912243801031
+Rule of thumb: parallel trends look acceptable if pre-period coefficients are individually insignificant and joint p > 0.10
+
+Outcome: gml_index
+Pre-trend joint test F = .4441984704717264, p = .7232178630573443
+Rule of thumb: parallel trends look acceptable if pre-period coefficients are individually insignificant and joint p > 0.10
+
+Outcome: industrial_so2
+Pre-trend joint test F = 1.05622525567585, p = .3827852404275599
+Rule of thumb: parallel trends look acceptable if pre-period coefficients are individually insignificant and joint p > 0.10
+
+Outcome: industrial_wastewater
+Pre-trend joint test F = 10.520509579258, p = .0000754880753796
+Rule of thumb: parallel trends look acceptable if pre-period coefficients are individually insignificant and joint p > 0.10
+

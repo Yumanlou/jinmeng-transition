@@ -1,0 +1,452 @@
+[
+  {
+    "meta": {
+      "code": "M5129768",
+      "enName": "China: Xinjiang: Kashi: GDP",
+      "name": "新疆:喀什:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260409"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5504424",
+      "enName": "China: Xinjiang: Ili: GDP",
+      "name": "新疆:伊犁:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260413"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5129784",
+      "enName": "China: Xinjiang: Tacheng: GDP",
+      "name": "新疆:塔城:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260507"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0027461",
+      "enName": "China: Xinjiang: Urumchi: GDP",
+      "name": "新疆:乌鲁木齐:GDP",
+      "enSource": "National Bureau of Statistics of the People's Republic of China",
+      "source": "国家统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260512"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5129736",
+      "enName": "China: Xinjiang: Hetian Region: GDP",
+      "name": "新疆:和田:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20250122"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5129800",
+      "enName": "China: Xinjiang: Altay: GDP",
+      "name": "新疆:阿勒泰:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260509"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5129752",
+      "enName": "China: Xinjiang: Akesu: GDP",
+      "name": "新疆:阿克苏:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260128"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5504423",
+      "enName": "China: Xinjiang: Bortala: GDP",
+      "name": "新疆:博尔塔拉:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260506"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5504422",
+      "enName": "China: Xinjiang: Changji: GDP",
+      "name": "新疆:昌吉:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260127"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058395",
+      "enName": "China: Xinjiang: Karamay: GDP",
+      "name": "新疆:克拉玛依:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260206"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5006448",
+      "enName": "China: Xinjiang: Wujiaqu City: GDP",
+      "name": "新疆:五家渠市:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 10k",
+      "unit": "万元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260326"
+    }
+  },
+  {
+    "meta": {
+      "code": "M6105594",
+      "enName": "China: Xinjiang: Bayingolin: GDP",
+      "name": "新疆:巴音郭楞:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 10k",
+      "unit": "万元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260513"
+    }
+  },
+  {
+    "meta": {
+      "code": "J7706223",
+      "enName": "China: Xinjiang: Xinxing City (county-level): GDP",
+      "name": "新疆:新星市:GDP",
+      "enSource": "Xinxing City (county-level) People's Government of Xinjiang",
+      "source": "新疆新星市人民政府",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20240403"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5006447",
+      "enName": "China: Xinjiang: Tumxuk City: GDP",
+      "name": "新疆:图木舒克市:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 10k",
+      "unit": "万元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20230614"
+    }
+  },
+  {
+    "meta": {
+      "code": "P6887212",
+      "enName": "China: Xinjiang: Iron Gate: GDP",
+      "name": "新疆:铁门关:GDP",
+      "enSource": "Tiemenguan City (county-level) People's Government of Xinjiang",
+      "source": "新疆铁门关市人民政府",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20250807"
+    }
+  },
+  {
+    "meta": {
+      "code": "F7275668",
+      "enName": "China: Xinjiang: Hu Yanghe: GDP",
+      "name": "新疆:胡杨河:GDP",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260129"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5129816",
+      "enName": "China: Xinjiang: Kizilsu: GDP",
+      "name": "新疆:克孜勒苏:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260407"
+    }
+  },
+  {
+    "meta": {
+      "code": "M6105548",
+      "enName": "China: Xinjiang: Hami City: GDP",
+      "name": "新疆:哈密:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 10k",
+      "unit": "万元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260210"
+    }
+  },
+  {
+    "meta": {
+      "code": "M6105544",
+      "enName": "China: Xinjiang: Turpan City: GDP",
+      "name": "新疆:吐鲁番:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 10k",
+      "unit": "万元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260423"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5006446",
+      "enName": "China: Xinjiang: Alaer City: GDP",
+      "name": "新疆:阿拉尔市:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 10k",
+      "unit": "万元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20250430"
+    }
+  },
+  {
+    "meta": {
+      "code": "T2127210",
+      "enName": "China: Xinjiang: Altay: Beitun: GDP",
+      "name": "新疆:阿勒泰地区:北屯:GDP",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260129"
+    }
+  },
+  {
+    "meta": {
+      "code": "V2151787",
+      "enName": "China: Xinjiang: Altay: Shuanghe: GDP",
+      "name": "新疆:阿勒泰地区:双河:GDP",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260608"
+    }
+  },
+  {
+    "meta": {
+      "code": "M6105543",
+      "enName": "China: Xinjiang: Shihezi: GDP",
+      "name": "新疆:石河子:GDP",
+      "enSource": "Xinjiang Provincial Bureau of Statistics",
+      "source": "新疆统计局",
+      "enUnit": "CNY 10k",
+      "unit": "万元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20250819"
+    }
+  },
+  {
+    "meta": {
+      "code": "L1210015",
+      "enName": "China: Xinjiang: Kekedala City (county-level): GDP",
+      "name": "新疆:可克达拉市:GDP",
+      "enSource": "Kokdala City (county-level) People's Government of Xinjiang",
+      "source": "新疆可克达拉市人民政府",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20230614"
+    }
+  },
+  {
+    "meta": {
+      "code": "P9361492",
+      "enName": "China: Xinjiang: Kunyu City (county-level): GDP",
+      "name": "新疆:昆玉市:GDP",
+      "enSource": "Kunyu City (county-level) People's Government of Xinjiang",
+      "source": "新疆昆玉市人民政府",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20230606"
+    }
+  }
+]

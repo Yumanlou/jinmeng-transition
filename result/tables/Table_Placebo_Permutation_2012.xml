@@ -1,0 +1,7 @@
+<?xml version=1.0 encoding=UTF-8?><?mso-application progid=Excel.Sheet?><Workbook xmlns=urn:schemas-microsoft-com:office:spreadsheet xmlns:ss=urn:schemas-microsoft-com:office:spreadsheet><Worksheet ss:Name=Placebo><Table>
+<Row><Cell><Data ss:Type=String>outcome</Data></Cell><Cell><Data ss:Type=String>beta_actual</Data></Cell><Cell><Data ss:Type=String>placebo_mean</Data></Cell><Cell><Data ss:Type=String>placebo_sd</Data></Cell><Cell><Data ss:Type=String>empirical_p</Data></Cell></Row>
+<Row><Cell><Data ss:Type=String>gml_index</Data></Cell><Cell><Data ss:Type=Number>   0.1308</Data></Cell><Cell><Data ss:Type=Number>   0.0005</Data></Cell><Cell><Data ss:Type=Number>   0.0419</Data></Cell><Cell><Data ss:Type=Number>   0.0050</Data></Cell></Row>
+<Row><Cell><Data ss:Type=String>gtfp_level</Data></Cell><Cell><Data ss:Type=Number>   1.2138</Data></Cell><Cell><Data ss:Type=Number>  -0.0085</Data></Cell><Cell><Data ss:Type=Number>   0.4243</Data></Cell><Cell><Data ss:Type=Number>   0.0030</Data></Cell></Row>
+<Row><Cell><Data ss:Type=String>industrial_so2</Data></Cell><Cell><Data ss:Type=Number> -25.0995</Data></Cell><Cell><Data ss:Type=Number>  -0.3302</Data></Cell><Cell><Data ss:Type=Number>  13.8798</Data></Cell><Cell><Data ss:Type=Number>   0.0480</Data></Cell></Row>
+<Row><Cell><Data ss:Type=String>ln_co2</Data></Cell><Cell><Data ss:Type=Number>   0.0163</Data></Cell><Cell><Data ss:Type=Number>   0.0019</Data></Cell><Cell><Data ss:Type=Number>   0.0962</Data></Cell><Cell><Data ss:Type=Number>   0.7640</Data></Cell></Row>
+</Table></Worksheet></Workbook>

@@ -1,0 +1,15 @@
+	(1)	(2)	(3)
+VARIABLES	ln_co2	coal_share_pctg	gtfp_level
+			
+did	0.0114	0.0152	1.1034***
+	(0.0440)	(0.0298)	(0.2151)
+Constant	17.7499***	1.0243	-22.6872***
+	(0.6787)	(0.6881)	(5.0626)
+			
+Observations	527	480	510
+R-squared	0.9925	0.9336	0.7373
+Province FE	YES	YES	YES
+Year FE	YES	YES	YES
+Cluster	province_id	province_id	province_id
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

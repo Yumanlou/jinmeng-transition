@@ -1,0 +1,1541 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/pg3ex0nu",
+    "id": "pg3ex0nu",
+    "slide": 3,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Two Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 540
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Arial",
+        "complexScriptTypeface": "Arial"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Arial",
+        "complexScriptTypeface": "Arial"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "微软雅黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Two Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Holder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/3",
+          "id": "3",
+          "name": "Holder 3",
+          "bbox": [
+            48,
+            124.2,
+            417.6,
+            356.4
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Holder 4",
+          "bbox": [
+            494.4,
+            124.2,
+            417.6,
+            356.4
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Holder 5",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/6",
+          "id": "6",
+          "name": "Holder 6",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Holder 7",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "bg1",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Holder 2",
+          "bbox": [
+            47.43,
+            54.78,
+            865.13,
+            24
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Holder 3",
+          "bbox": [
+            32.79,
+            141.44,
+            894.43,
+            291.87
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Holder 4",
+          "bbox": [
+            326.4,
+            502.2,
+            307.2,
+            27
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Holder 5",
+          "bbox": [
+            48,
+            502.2,
+            220.8,
+            27
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Holder 6",
+          "bbox": [
+            691.2,
+            502.2,
+            220.8,
+            27
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd0z6103",
+      "id": "9",
+      "name": "object 9",
+      "bbox": [
+        71.84,
+        126.4,
+        249.6,
+        40.8
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#001F5F"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wb2hwfyx",
+      "id": "10",
+      "name": "object 10",
+      "bbox": [
+        505.81,
+        177.07,
+        370.74,
+        131.73
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image.png",
+        "contentType": "image/png",
+        "byteLength": 12172
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwval87e",
+      "id": "11",
+      "name": "object 11",
+      "bbox": [
+        513.42,
+        324.24,
+        363.13,
+        131.41
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 12747
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9cvixcz",
+      "id": "12",
+      "name": "object 12",
+      "bbox": [
+        579.02,
+        232.02,
+        249.33,
+        14.67
+      ],
+      "geometry": "rect",
+      "text": "核心发现",
+      "textPreview": "核心发现",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "核心发现"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "核心发现",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 100000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "核心发现",
+              "fontSize": 12,
+              "typeface": "微软雅黑",
+              "color": "#404040"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3q5o7qpg",
+      "id": "13",
+      "name": "object 13",
+      "bbox": [
+        579.02,
+        253.62,
+        249.33,
+        43.2
+      ],
+      "geometry": "rect",
+      "text": "工业二氧化硫、氮氧化物和工业固废显著下降。",
+      "textPreview": "工业二氧化硫、氮氧化物和工业固废显著下降。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工业二氧化硫、氮氧化物和工业固废显著下降"
+          },
+          {
+            "index": 2,
+            "text": "。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工业二氧化硫、氮氧化物和工业固废显著下降。",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "工业二氧化硫、氮氧化物和工业固废显著下降。",
+              "fontSize": 12,
+              "typeface": "微软雅黑",
+              "color": "#404040"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3m94fu1",
+      "id": "14",
+      "name": "object 14",
+      "bbox": [
+        581.12,
+        378.87,
+        249.33,
+        14.53
+      ],
+      "geometry": "rect",
+      "text": "解释边界",
+      "textPreview": "解释边界",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "解释边界"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "解释边界",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 100000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "解释边界",
+              "fontSize": 12,
+              "typeface": "微软雅黑",
+              "color": "#404040"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/loj2t83i",
+      "id": "15",
+      "name": "object 15",
+      "bbox": [
+        581.12,
+        400.47,
+        249.33,
+        43.2
+      ],
+      "geometry": "rect",
+      "text": "颗粒物与工业废水不稳定，证据集中于煤炭工业相关治理。",
+      "textPreview": "颗粒物与工业废水不稳定，证据集中于煤炭工业相关治理。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "颗粒物与工业废水不稳定，证据集中于煤炭工"
+          },
+          {
+            "index": 2,
+            "text": "业相关治理。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "颗粒物与工业废水不稳定，证据集中于煤炭工业相关治理。",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "颗粒物与工业废水不稳定，证据集中于煤炭工业相关治理。",
+              "fontSize": 12,
+              "typeface": "微软雅黑",
+              "color": "#404040"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex0nuxc3",
+      "id": "16",
+      "name": "object 16",
+      "bbox": [
+        152.18,
+        137.17,
+        77.4,
+        22.4
+      ],
+      "geometry": "rect",
+      "text": "污染治理",
+      "textPreview": "污染治理",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "污染治理"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "污染治理",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 100000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "污染治理",
+              "fontSize": 18.67,
+              "typeface": "微软雅黑",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3itgfmlk",
+      "id": "17",
+      "name": "object 17",
+      "bbox": [
+        22.9,
+        18.22,
+        15.79,
+        75.75
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image3.png",
+        "contentType": "image/png",
+        "byteLength": 1132
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wra5gbq1",
+      "id": "21",
+      "name": "object 21",
+      "bbox": [
+        752.16,
+        0,
+        207.87,
+        156.6
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#091F5F"
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36hcrmhk",
+      "id": "22",
+      "name": "object 22",
+      "bbox": [
+        706.88,
+        27.07,
+        92.27,
+        92.33
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#091F5F"
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ap4r65wj",
+      "id": "28",
+      "name": "图片 23",
+      "bbox": [
+        779.98,
+        41.54,
+        155.8,
+        35.66
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image4.png",
+        "contentType": "image/png",
+        "byteLength": 7318
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image4.png",
+        "contentType": "image/png",
+        "byteLength": 7318
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7u54zido",
+      "id": "26",
+      "name": "object 3",
+      "bbox": [
+        44.53,
+        32.4,
+        204.73,
+        16.13
+      ],
+      "geometry": "rect",
+      "text": "EMPIRICAL RESULTS  /  02",
+      "textPreview": "EMPIRICAL RESULTS  /  02",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "EMPIRICAL RESULTS  /  02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "EMPIRICAL RESULTS  /  02",
+          "marginLeft": 12700,
+          "runs": [
+            {
+              "index": 1,
+              "text": "EMPIRICAL RESULTS  /  02",
+              "fontSize": 14,
+              "typeface": "微软雅黑"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8bat47",
+      "id": "27",
+      "name": "object 4",
+      "bbox": [
+        44.53,
+        49.2,
+        204.73,
+        57.47
+      ],
+      "geometry": "rect",
+      "text": "约束性治理：污染治理响应",
+      "textPreview": "约束性治理：污染治理响应",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 24,
+        "typeface": "微软雅黑",
+        "color": "#404040",
+        "bold": true,
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "约束性治理：污染"
+          },
+          {
+            "index": 2,
+            "text": "治理响应"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "约束性治理：污染治理响应",
+          "marginLeft": 12700,
+          "runs": [
+            {
+              "index": 1,
+              "text": "约束性治理：污染治理响应"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/eloj2t83",
+      "id": "23",
+      "name": "object 5",
+      "bbox": [
+        92,
+        426,
+        386,
+        28.8
+      ],
+      "geometry": "rect",
+      "text": "注：括号内为标准误；控制省份和年份固定效应。",
+      "textPreview": "注：括号内为标准误；控制省份和年份固定效应。",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 10,
+        "typeface": "微软雅黑",
+        "color": "#536273",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "注：括号内为标准误；控制省份和年份固定效应。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "注：括号内为标准误；控制省份和年份固定效应。",
+          "marginLeft": 12700,
+          "indent": 0,
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "注：括号内为标准误；控制省份和年份固定效应。",
+              "fontSize": 10,
+              "typeface": "微软雅黑",
+              "color": "#536273"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/fil0rqd4",
+      "id": "29",
+      "bbox": [
+        92,
+        216,
+        386,
+        198
+      ],
+      "text": "结果变量 | 核心系数 | 标准误\n工业二氧化硫 | -72.5887*** | (19.6996)\n氮氧化物 | -43.9915** | (16.8916)\n工业固废 | -47.2683** | (20.0521)\n颗粒物 | -10.1339 | (28.0627)\n工业废水 | -40594.6149 | (24203.0698)",
+      "textPreview": "结果变量 | 核心系数 | 标准误 | 工业二氧化硫 | -72.5887*** | (19.6996) | 氮氧化物 | -43.9915** | (16.8916) | 工业固废 | -47.2683** | (20.0521) | 颗粒物 | -10.1339 | (...",
+      "rows": 6,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            92,
+            216,
+            172,
+            33
+          ],
+          "text": "结果变量",
+          "textPreview": "结果变量",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "结果变量",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "结果变量"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            264,
+            216,
+            119,
+            33
+          ],
+          "text": "核心系数",
+          "textPreview": "核心系数",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "核心系数",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "核心系数"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            383,
+            216,
+            95,
+            33
+          ],
+          "text": "标准误",
+          "textPreview": "标准误",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "标准误",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "标准误"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            92,
+            249,
+            172,
+            33
+          ],
+          "text": "工业二氧化硫",
+          "textPreview": "工业二氧化硫",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "工业二氧化硫",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "工业二氧化硫"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            264,
+            249,
+            119,
+            33
+          ],
+          "text": "-72.5887***",
+          "textPreview": "-72.5887***",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "-72.5887***",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "-72.5887***"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            383,
+            249,
+            95,
+            33
+          ],
+          "text": "(19.6996)",
+          "textPreview": "(19.6996)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(19.6996)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(19.6996)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            92,
+            282,
+            172,
+            33
+          ],
+          "text": "氮氧化物",
+          "textPreview": "氮氧化物",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "氮氧化物",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "氮氧化物"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            264,
+            282,
+            119,
+            33
+          ],
+          "text": "-43.9915**",
+          "textPreview": "-43.9915**",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "-43.9915**",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "-43.9915**"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            383,
+            282,
+            95,
+            33
+          ],
+          "text": "(16.8916)",
+          "textPreview": "(16.8916)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(16.8916)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(16.8916)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            92,
+            315,
+            172,
+            33
+          ],
+          "text": "工业固废",
+          "textPreview": "工业固废",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "工业固废",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "工业固废"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            264,
+            315,
+            119,
+            33
+          ],
+          "text": "-47.2683**",
+          "textPreview": "-47.2683**",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "-47.2683**",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "-47.2683**"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            383,
+            315,
+            95,
+            33
+          ],
+          "text": "(20.0521)",
+          "textPreview": "(20.0521)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(20.0521)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(20.0521)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            92,
+            348,
+            172,
+            33
+          ],
+          "text": "颗粒物",
+          "textPreview": "颗粒物",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "颗粒物",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "颗粒物"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            264,
+            348,
+            119,
+            33
+          ],
+          "text": "-10.1339",
+          "textPreview": "-10.1339",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "-10.1339",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "-10.1339"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            383,
+            348,
+            95,
+            33
+          ],
+          "text": "(28.0627)",
+          "textPreview": "(28.0627)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(28.0627)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(28.0627)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            92,
+            381,
+            172,
+            33
+          ],
+          "text": "工业废水",
+          "textPreview": "工业废水",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "工业废水",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "工业废水"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            264,
+            381,
+            119,
+            33
+          ],
+          "text": "-40594.6149",
+          "textPreview": "-40594.6149",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "-40594.6149",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "-40594.6149"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            383,
+            381,
+            95,
+            33
+          ],
+          "text": "(24203.0698)",
+          "textPreview": "(24203.0698)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(24203.0698)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(24203.0698)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

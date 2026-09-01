@@ -1,0 +1,434 @@
+[
+  {
+    "meta": {
+      "code": "G0005820",
+      "enName": "China: Guangdong: Shenzhen City: GDP",
+      "name": "广东:深圳:GDP:当季值",
+      "enSource": "Shenzhen Municipal Bureau of Statistics",
+      "source": "深圳市统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "quarterly",
+      "freq": "季",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20231120"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0027241",
+      "enName": "China: Guangdong: Guangzhou City: GDP",
+      "name": "广东:广州:GDP",
+      "enSource": "National Bureau of Statistics of China",
+      "source": "国家统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260204"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058314",
+      "enName": "China: Guangdong: Foshan City: GDP",
+      "name": "广东:佛山:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260206"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058325",
+      "enName": "China: Guangdong: Dongguan City: GDP",
+      "name": "广东:东莞:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260204"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058312",
+      "enName": "China: Guangdong: Zhuhai City: GDP",
+      "name": "广东:珠海:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260131"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058319",
+      "enName": "China: Guangdong: Huizhou City: GDP",
+      "name": "广东:惠州:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260514"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058326",
+      "enName": "China: Guangdong: Zhongshan City: GDP",
+      "name": "广东:中山:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260203"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058315",
+      "enName": "China: Guangdong: Jiangmen City: GDP",
+      "name": "广东:江门:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260206"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5430920",
+      "enName": "China: Guangdong: Zhaoqing: GDP",
+      "name": "广东:肇庆:GDP:当季值",
+      "enSource": "Zhaoqing Municipal Bureau of Statistics",
+      "source": "肇庆市统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "quarterly",
+      "freq": "季",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20230524"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058318",
+      "enName": "China: Guangdong: Zhaoqing City: GDP",
+      "name": "广东:肇庆:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260202"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058316",
+      "enName": "China: Guangdong: Zhanjiang City: GDP",
+      "name": "广东:湛江:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260204"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058313",
+      "enName": "China: Guangdong: Shantou City: GDP",
+      "name": "广东:汕头:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260213"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058328",
+      "enName": "China: Guangdong: Jieyang City: GDP",
+      "name": "广东:揭阳:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260203"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058317",
+      "enName": "China: Guangdong: Maoming City: GDP",
+      "name": "广东:茂名:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260608"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058327",
+      "enName": "China: Guangdong: Chaozhou City: GDP",
+      "name": "广东:潮州:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260203"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058324",
+      "enName": "China: Guangdong: Qingyuan City: GDP",
+      "name": "广东:清远:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260104"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058321",
+      "enName": "China: Guangdong: Shanwei City: GDP",
+      "name": "广东:汕尾:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260204"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058322",
+      "enName": "China: Guangdong: Heyuan City: GDP",
+      "name": "广东:河源:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260130"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058323",
+      "enName": "China: Guangdong: Yangjiang City: GDP",
+      "name": "广东:阳江:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260508"
+    }
+  },
+  {
+    "meta": {
+      "code": "M5429463",
+      "enName": "China: Guangdong: Shaoguan: GDP",
+      "name": "广东:韶关:GDP:当季值",
+      "enSource": "Shaoguan City People's Government",
+      "source": "韶关市人民政府",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "quarterly",
+      "freq": "季",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260427"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058311",
+      "enName": "China: Guangdong: Shaoguan City: GDP",
+      "name": "广东:韶关:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260205"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058320",
+      "enName": "China: Guangdong: Meizhou City: GDP",
+      "name": "广东:梅州:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260131"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058329",
+      "enName": "China: Guangdong: Yunfu City: GDP",
+      "name": "广东:云浮:GDP",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260130"
+    }
+  },
+  {
+    "meta": {
+      "code": "W3450629",
+      "enName": "China: Guangdong: Shenzhen: GDP",
+      "name": "广东:深圳:GDP",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260319"
+    }
+  }
+]

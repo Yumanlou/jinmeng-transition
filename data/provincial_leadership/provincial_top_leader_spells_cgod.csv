@@ -1,0 +1,961 @@
+﻿province,role,Name,start_year,source_terms
+Anhui,government,曾希圣,1952,1952.08-1955.03
+Anhui,government,黄岩,1955,1955.02-文革初
+Anhui,government,李德生,1968,1968.04-1974.12
+Anhui,government,宋佩璋,1974,1974.12-1978.01
+Anhui,government,万里,1978,1978.01-1979.12
+Anhui,government,张劲夫,1979,1979.12-1981.03
+Anhui,government,周子健,1981,1981.03-1983.04
+Anhui,government,王郁昭,1983,1983.04-1987.06
+Anhui,government,卢荣景,1987,1987.06-1988.02 | 1988.02-1989.04
+Anhui,government,傅锡寿,1989,1989.04-1994.12
+Anhui,government,回良玉,1994,1994.12-1995.02 | 1995.02-1998.10
+Anhui,government,王太华,1998,1998.10-1999.02 | 1999.02-2000.01
+Anhui,government,许仲林,2000,2000.01-2002.10
+Anhui,government,王金山,2002,2002.10-2003.01 | 2003.01-2007.12
+Anhui,government,王三运,2007,2007.12-2008.01 | 2008.01-2011.12
+Anhui,government,李斌,2011,2011.12-2012.02 | 2012.02-2013.03
+Anhui,government,王学军,2013,2013.03-2013.06 | 2013.06-2015.06
+Anhui,government,李锦斌,2015,2015.06-2015.07 | 2015.07-2016.08
+Anhui,government,李国英,2016,2016.09-2017.01 | 2017.01-至今
+Anhui,party,曾希圣,1952,1952.01-1962.02
+Anhui,party,李葆华,1962,1962.02-文革初
+Anhui,party,李德生,1971,1971.01-1974.12
+Anhui,party,宋佩璋,1975,1975.05-1977.06
+Anhui,party,万里,1977,1977.06-1980.03
+Anhui,party,张劲夫,1980,1980.03-1982.04
+Anhui,party,周子健,1982,1982.04-1983.03
+Anhui,party,黄璜,1983,1983.03-1986.04
+Anhui,party,李贵鲜,1986,1986.04-1988.04
+Anhui,party,卢荣景,1988,1988.04-1998.08
+Anhui,party,回良玉,1998,1998.09-1999.12
+Anhui,party,王太华,1999,1999.12-2004.12
+Anhui,party,郭金龙,2004,2004.12-2007.12
+Anhui,party,王金山,2007,2007.12-2010.05
+Anhui,party,张宝顺,2010,2010.05-2015.06
+Anhui,party,王学军,2015,2015.06-2016.08
+Anhui,party,李锦斌,2016,2016.08-至今
+Beijing,government,聂荣臻,1949,1949.08-1951.02
+Beijing,government,彭真,1951,1951.02-1966.05
+Beijing,government,吴德,1966,1966.06-1967.04 | 1972.05-1978.10
+Beijing,government,谢富治,1967,1967.04-1972.03
+Beijing,government,林乎加,1978,1978.10-1981.01
+Beijing,government,焦若愚,1981,1981.01-1983.03
+Beijing,government,陈希同,1983,1983.04-1993.02
+Beijing,government,李其炎,1993,1993.02-1996.10
+Beijing,government,贾庆林,1996,1996.10-1997.02 | 1997.02-1999.02
+Beijing,government,刘淇,1999,1999.02-2003.01
+Beijing,government,孟学农,2003,2003.01-2003.04
+Beijing,government,王歧山,2003,2003.04-2004.02 | 2004.02-2007.11
+Beijing,government,郭金龙,2007,2007.11-2008.01 | 2008.01-2012.07
+Beijing,government,王安顺,2012,2012.07-2013.01 | 2013.01-2016.10
+Beijing,government,蔡奇,2016,2016.-2017.
+Beijing,government,陈吉宁,2017,2017.05-2018.01 | 2018.01-至今
+Beijing,party,彭真,1948,1948.12-1966.05
+Beijing,party,李雪峰,1966,1966.05-1967.01
+Beijing,party,谢富治,1967,1967.01-1972.03
+Beijing,party,吴德,1972,1972.04-1978.10
+Beijing,party,林乎加,1978,1978.10-1981.01
+Beijing,party,段君毅,1981,1981.01-1984.05
+Beijing,party,李锡铭,1984,1984.08-1992.12
+Beijing,party,陈希同,1992,1992.12-1995.04
+Beijing,party,尉健行,1995,1995.04-1997.08
+Beijing,party,贾庆林,1997,1997.08-2002.10
+Beijing,party,刘淇,2002,2002.10-2012.07
+Beijing,party,郭金龙,2012,2012.07-2017.
+Beijing,party,蔡奇,2017,2017.-2017.
+Chongqing,government,陈锡联,1949,1949.12-1950.09
+Chongqing,government,曹荻秋,1951,1951.01-1955.01
+Chongqing,government,任白戈,1955,1955.01-1966.07
+Chongqing,government,蓝亦农,1967,1967.05-1968.12
+Chongqing,government,段思英,1968,1968.12-1969上半年
+Chongqing,government,何云峰,1969,1969年上半年-1973.12
+Chongqing,government,鲁大东,1973,1973.12-1978.05
+Chongqing,government,丁长河,1978,1978.08-1980.03
+Chongqing,government,钱敏,1978,1978.05-1978.08
+Chongqing,government,于汉卿,1980,1980.03-1985.05
+Chongqing,government,肖秧,1985,1985.05-1988.08
+Chongqing,government,孙同川,1988,1988.08-1993.04
+Chongqing,government,刘志忠,1993,1993.05-1996.09
+Chongqing,government,蒲海清,1996,1996.09-1997.06 | 1997.06-1999.06
+Chongqing,government,包叙定,1999,1999.06-2000.01 | 2000.01-2002.10
+Chongqing,government,王鸿举,2002,2002.10-2003.01 | 2003.01-2009.12
+Chongqing,government,黄奇帆,2009,2009.11-2010.01 | 2010.01-2016.12
+Chongqing,government,张国清,2016,2016.12-2017.01 | 2017.01-2017.12
+Chongqing,government,唐良智,2018,2018.01-至今
+Chongqing,party,陈锡联,1949,1949.12-1950.09
+Chongqing,party,张霖之,1950,1950.12-1952.08
+Chongqing,party,曹荻秋,1952,1952.09-1956.06
+Chongqing,party,阎红彦,1956,1956.06-1959.09
+Chongqing,party,任白戈,1959,1959.09-1967.05
+Chongqing,party,蓝亦农,1967,1967.05-1968.12
+Chongqing,party,段思英,1968,1968.12-1969年上半年
+Chongqing,party,何云峰,1969,1969年上半年-1973.12
+Chongqing,party,鲁大东,1973,1973.12-1977.12
+Chongqing,party,钱敏,1977,1977.03-1978.08
+Chongqing,party,丁长河,1978,1978.08-1980.03
+Chongqing,party,王谦,1981,1981.09-1985.02
+Chongqing,party,廖伯康,1985,1985.02-1988.08
+Chongqing,party,肖秧,1988,1988.08-1993.04
+Chongqing,party,孙同川,1993,1993.04-1995.10
+Chongqing,party,张德邻,1995,1995.10-1999.06
+Chongqing,party,贺国强,1999,1999.06-2002.10
+Chongqing,party,黄镇东,2002,2002.10-2005.12
+Chongqing,party,汪洋,2005,2005.12-2007.12
+Chongqing,party,薄熙来,2007,2007.11-2012.03
+Chongqing,party,孙政才,2012,2012.11-2017.
+Chongqing,party,张德江,2012,2012.03-2012.11
+Chongqing,party,陈敏尔,2017,2017.-至今
+Fujian,government,张鼎丞,1949,1949.08-1954.10
+Fujian,government,叶飞,1954,1954.10-1955.02 | 1955.02-1959.01
+Fujian,government,江一真,1959,1959.01-1962.12
+Fujian,government,魏金水,1962,1962.12-1968.08
+Fujian,government,韩先楚,1968,1968.08-1973.12
+Fujian,government,廖志高,1974,1974.11-1979.12
+Fujian,government,马兴元,1979,1979.12-1983.01
+Fujian,government,胡平,1983,1983.01-1983.04 | 1983.04-1987.09
+Fujian,government,王兆国,1987,1987.09-1988.01 | 1988.01-1990.11
+Fujian,government,贾庆林,1990,1990.11-1991.04 | 1991.04-1994.04
+Fujian,government,陈明义,1994,1994.04-1996.10
+Fujian,government,贺国强,1996,1996.10-1997.04 | 1997.04-1999.08
+Fujian,government,习近平,1999,1999.08-2000.01 | 2000.01-2002.10
+Fujian,government,卢展工,2002,2002.10-2003.01 | 2003.01-2004.12
+Fujian,government,黄小晶,2004,2004.12-2005.01 | 2005.01-2011.04
+Fujian,government,苏树林,2011,2011.04-2011.07 | 2011.07-2015.10
+Fujian,government,于伟国,2015,2015.11-2016.01 | 2016.01-2018.01
+Fujian,government,唐登杰,2018,2018.01-至今
+Fujian,party,张鼎丞,1949,1949.06-1955.04
+Fujian,party,叶飞,1955,1955.04-文革
+Fujian,party,江一真,1958,1958.07-1970.04
+Fujian,party,韩先楚,1971,1971.04-1973.12
+Fujian,party,廖志高,1974,1974.11-1982.02
+Fujian,party,项南,1982,1982.02-1985.07 | 1985.07-1986.03
+Fujian,party,陈光毅,1986,1986.03-1993.12
+Fujian,party,贾庆林,1993,1993.12-1996.10
+Fujian,party,陈明义,1996,1996.10-2000.12
+Fujian,party,宋德福,2000,2000.12-2004.02
+Fujian,party,卢展工,2004,2004.02-2004.12 | 2004.12-2009.11
+Fujian,party,孙春兰,2009,2009.11-2012.11
+Fujian,party,尤权,2012,2012.12-2017.
+Fujian,party,于伟国,2017,2017.10-至今
+Gansu,government,王世泰,1949,1949.07-1950.01
+Gansu,government,邓宝姗,1950,1950.01-1967.05
+Gansu,government,冼恒汉,1967,1967.05-1977.06
+Gansu,government,宋平,1977,1977.06-1979.12
+Gansu,government,冯纪新,1979,1979.12-1981.01
+Gansu,government,李登瀛,1981,1981.01-1983.04
+Gansu,government,陈光毅,1983,1983.05-1986.03
+Gansu,government,贾志杰,1986,1986.03-1992.12
+Gansu,government,张吾乐,1993,1993.09-1994.04 | 1994.04-1996.06
+Gansu,government,阎海旺,1993,1993.01-1993.09
+Gansu,government,孙英,1996,1996.07-1997.01 | 1997.01-1998.03
+Gansu,government,宋照肃,1998,1998.04-1999.01 | 1999.01-2001.01
+Gansu,government,陆浩,2000,2000.12-2001.01 | 2001.01-2006.10
+Gansu,government,徐守盛,2006,2006.10-2007.01 | 2007.01-2010.05
+Gansu,government,刘伟平,2010,2010.07-2011.01 | 2011.01-2016.03
+Gansu,government,林铎,2016,2016.04-2016.05 | 2016.05-2017.05
+Gansu,government,唐仁健,2017,2017.04-2017.05 | 2017.05-至今
+Gansu,party,张德生,1949,1949.07-1954.05
+Gansu,party,张仲良,1954,1954.05-1961.01
+Gansu,party,汪锋,1961,1961.01-1967.02
+Gansu,party,胡继宗,1966,1966.11-1967.02
+Gansu,party,冼恒汉,1971,1971.02-1977.06
+Gansu,party,宋平,1977,1977.06-1981.01
+Gansu,party,冯纪新,1981,1981.01-1982.03 | 1982.03-1983.03
+Gansu,party,李子奇,1983,1983.03-1990.11
+Gansu,party,顾金池,1990,1990.11-1993.09
+Gansu,party,阎海旺,1993,1993.09-1998.03
+Gansu,party,孙英,1998,1998.03-2000.12
+Gansu,party,宋照肃,2001,2001.01-2003.08
+Gansu,party,苏荣,2003,2003.08-2006.07
+Gansu,party,陆浩,2006,2006.06-2011.12
+Gansu,party,王三运,2011,2011.12-2017.04
+Gansu,party,林铎,2017,2017.04-至今
+Guangdong,government,叶剑英,1949,1949.11-1955.02
+Guangdong,government,陶铸,1953,1953.02-1953.09 | 1953.09-1957.07
+Guangdong,government,陈郁,1957,1957.07-1968.02
+Guangdong,government,林李明,1965,1965.12-1968.02
+Guangdong,government,黄永胜,1968,1968.02-1969.06
+Guangdong,government,刘兴元,1969,1969.06-1972.03
+Guangdong,government,丁盛,1972,1972.03-1974.04
+Guangdong,government,赵紫阳,1974,1974.04-1975.11
+Guangdong,government,韦国清,1975,1975.11-1979.01
+Guangdong,government,习仲勋,1979,1979.01-1980.11
+Guangdong,government,刘田夫,1981,1981.02-1983.04
+Guangdong,government,梁灵光,1983,1983.04-1985.08
+Guangdong,government,叶选平,1985,1985.08-1991.05
+Guangdong,government,朱森林,1991,1991.05-1992.01 | 1992.01-1996.02
+Guangdong,government,卢瑞华,1996,1996.02-2003.01
+Guangdong,government,黄华华,2003,2003.01-2011.11
+Guangdong,government,朱小丹,2011,2011.11-2012.01 | 2012.01-2016.
+Guangdong,government,马兴瑞,2016,2016.-2017. | 2017.-至今
+Guangdong,party,叶剑英,1949,1949.08-1955.07
+Guangdong,party,陶铸,1955,1955.07-1965.02
+Guangdong,party,赵紫阳,1965,1965.02-1967.03 | 1974.04-1975.10
+Guangdong,party,黄永胜,1968,1968.02-1969.11
+Guangdong,party,刘兴元,1969,1969.11-1972.03
+Guangdong,party,丁盛,1972,1972.03-1973.12
+Guangdong,party,韦国清,1975,1975.10-1978.12
+Guangdong,party,习仲勋,1978,1978.12-1980.11
+Guangdong,party,任仲夷,1980,1980.11-1985.07
+Guangdong,party,林若,1982,1982.12-1991.01
+Guangdong,party,谢非,1991,1991.01-1998.03
+Guangdong,party,李长春,1998,1998.03-2002.11
+Guangdong,party,张德江,2002,2002.11-2007.12
+Guangdong,party,汪洋,2007,2007.12-2012.12
+Guangdong,party,胡春华,2012,2012.12-2017.
+Guangdong,party,李希,2017,2017.10-至今
+Guangxi,government,张云逸,1949,1949.12-1955.02
+Guangxi,government,韦国清,1955,1955.02-1977.12
+Guangxi,government,乔晓光,1977,1977.12-1979.12
+Guangxi,government,覃应机,1979,1979.12-1983.04
+Guangxi,government,韦纯束,1983,1983.04-1990.01
+Guangxi,government,成克杰,1990,1990.01-1990.04 | 1990.04-1998.01
+Guangxi,government,李兆焯,1998,1998.01-2003.04
+Guangxi,government,陆兵,2003,2003.04-2004.01 | 2004.01-2007.12
+Guangxi,government,马飚,2007,2007.12-2008.01 | 2008.01-2013.03
+Guangxi,government,陈武,2013,2013.03-2013.04 | 2013.04-至今
+Guangxi,party,张云逸,1949,1949.08-1956.01
+Guangxi,party,陈漫远,1956,1956.01-1957.06
+Guangxi,party,刘建勋,1957,1957.06-1961.07
+Guangxi,party,韦国清,1961,1961.07-1975.10
+Guangxi,party,安平生,1975,1975.10-1977.02
+Guangxi,party,乔晓光,1977,1977.02-1985.06
+Guangxi,party,陈辉光,1985,1985.06-1990.10
+Guangxi,party,赵富林,1990,1990.10-1997.07
+Guangxi,party,曹伯纯,1997,1997.07-2006.06
+Guangxi,party,刘奇葆,2006,2006.06-2007.12
+Guangxi,party,郭声琨,2007,2007.12-2012.12
+Guangxi,party,彭清华,2012,2012.12-2018.
+Guangxi,party,鹿心社,2018,2018.03-至今
+Guizhou,government,杨勇,1949,1949.12-1954.12
+Guizhou,government,周林,1955,1955.02-1965.07
+Guizhou,government,李立,1965,1965.07-1967.01
+Guizhou,government,李再合,1967,1967.02-1971.05
+Guizhou,government,蓝亦农,1971,1971.05-1973.09
+Guizhou,government,鲁瑞林,1973,1973.09-1977.02
+Guizhou,government,马力,1977,1977.02-1979.09
+Guizhou,government,苏钢,1980,1980.01-1983.01
+Guizhou,government,王朝文,1983,1983.01-1983.04 | 1983.04-1993.01
+Guizhou,government,陈士能,1993,1993.01-1996.07
+Guizhou,government,吴亦侠,1996,1996.07-1997.01 | 1997.01-1998.10
+Guizhou,government,钱运录,1998,1998.12-1999.01 | 1999.01-2001.01
+Guizhou,government,石秀诗,2001,2001.01-2001.01 | 2001.01-2006.06
+Guizhou,government,林树森,2006,2006.07-2007.01 | 2007.01-2010.08
+Guizhou,government,赵克志,2010,2010.08-2010.09 | 2010.09-2012.12
+Guizhou,government,陈敏尔,2012,2012.12-2013.01 | 2013.01-2015.10
+Guizhou,government,孙志刚,2015,2015.10-2016.01
+Guizhou,government,谌贻琴,2017,2017.09-2018.01 | 2018.01-至今
+Guizhou,party,苏振华,1949,1949.12-1954.05
+Guizhou,party,周林,1954,1954.11-1964.10
+Guizhou,party,李大章,1964,1964.11-1965.04
+Guizhou,party,贾启允,1965,1965.05-1967.12
+Guizhou,party,李再合,1967,1967.12-1969.10
+Guizhou,party,蓝亦农,1969,1969.10-1971.05 | 1971.05-1973.09
+Guizhou,party,鲁瑞林,1973,1973.09-1977.02
+Guizhou,party,马力,1977,1977.02-1979.09
+Guizhou,party,池必卿,1979,1979.09-1980.06 | 1980.06-1985.03
+Guizhou,party,朱厚泽,1985,1985.03-1985.07
+Guizhou,party,胡锦涛,1985,1985.07-1988.12
+Guizhou,party,刘正威,1988,1988.12-1993.07
+Guizhou,party,刘方仁,1993,1993.07-2001.01
+Guizhou,party,钱运录,2001,2001.01-2005.12
+Guizhou,party,石宗源,2005,2005.12-2010.08
+Guizhou,party,栗战书,2010,2010.08-2012.07
+Guizhou,party,赵克志,2012,2012.07-2015.07
+Guizhou,party,陈敏尔,2015,2015.07-2017.07
+Guizhou,party,孙志刚,2017,2017.07-至今
+Hainan,government,梁湘,1988,1988.04-1989.09
+Hainan,government,刘剑峰,1989,1989.09-1993.02
+Hainan,government,阮崇武,1993,1993.02-1998.02
+Hainan,government,汪啸风,1998,1998.02-1998.04 | 1998.04-2003.10
+Hainan,government,卫留成,2003,2003.10-2004.02 | 2004.02-2007.01
+Hainan,government,罗保铭,2007,2007.01-2007.02 | 2007.02-2011.08
+Hainan,government,蒋定之,2011,2011.08-2012.02 | 2012.02-2015.01
+Hainan,government,刘赐贵,2015,2015.01-2015.02 | 2015.02-2017.04
+Hainan,government,沈晓明,2017,2017.04-2017.05 | 2017.05-至今
+Hainan,party,许世杰,1988,1988.02-1990.06
+Hainan,party,邓鸿勋,1990,1990.06-1993.01
+Hainan,party,阮崇武,1993,1993.01-1998.02
+Hainan,party,杜青林,1998,1998.02-2001.08
+Hainan,party,白克明,2001,2001.08-2002.11
+Hainan,party,王岐山,2002,2002.11-2003.04
+Hainan,party,汪啸风,2003,2003.04-2006.12
+Hainan,party,卫留成,2007,2007.02-2011.08
+Hainan,party,罗保铭,2011,2011.08-2017.03
+Hainan,party,刘赐贵,2017,2017.03-至今
+Hebei,government,杨秀峰,1949,1949.08-1952.12
+Hebei,government,林铁,1952,1952.11-1958.04
+Hebei,government,刘子厚,1958,1958.04-文革 | 1971.02-1979.12
+Hebei,government,李雪峰,1968,1968.02-1970.12
+Hebei,government,李尔重,1980,1980.01-1982.08
+Hebei,government,刘秉彦,1982,1982.08-1983.04
+Hebei,government,解峰,1986,1986.05-1988.05
+Hebei,government,岳歧峰,1988,1988.05-1990.06
+Hebei,government,程维高,1990,1990.07-1991.04 | 1991.04-1993.05
+Hebei,government,叶连松,1993,1993.05-1998.11
+Hebei,government,钮茂生,1998,1998.11-1999.02 | 1999.02-2002.12
+Hebei,government,季允石,2002,2002.12-2003.01 | 2003.01-2006.09
+Hebei,government,郭庚茂,2006,2006.10-2007.01 | 2007.01-2008.03
+Hebei,government,胡春华,2008,2008.04-2009.01 | 2009.01-2009.11
+Hebei,government,陈全国,2009,2009.12-2010.01 | 2010.01-2011.08
+Hebei,government,张庆伟,2011,2011.08-2012.01 | 2012.01-2017.03
+Hebei,government,许勤,2017,2017.04-至今
+Hebei,party,林铁,1949,1949.08-1966.08
+Hebei,party,刘子厚,1966,1966.08-1979.12
+Hebei,party,江一真,1979,1979.12-1982.06
+Hebei,party,高扬,1982,1982.06-1985.05
+Hebei,party,张曙光,1983,1983.04-1986.03
+Hebei,party,邢崇智,1985,1985.05-1993.01
+Hebei,party,程维高,1993,1993.01-1998.10
+Hebei,party,叶连松,1998,1998.10-2000.06
+Hebei,party,王旭东,2000,2000.06-2002.11
+Hebei,party,白克明,2002,2002.11-2007.08
+Hebei,party,张云川,2007,2007.08-2011.08
+Hebei,party,张庆黎,2011,2011.08-2013.03
+Hebei,party,周本顺,2013,2013.03-2015.07
+Hebei,party,赵克志,2015,2015.07-2017.
+Hebei,party,王东峰,2017,2017.10-2018.01
+Heilongjiang,government,于毅夫,1949,1949.10-1952.11
+Heilongjiang,government,赵德尊,1952,1952.11-1953.12
+Heilongjiang,government,陈雷,1953,1953.12-1954.08 | 1979.12-1985.05
+Heilongjiang,government,韩光,1954,1954.07-1956.05
+Heilongjiang,government,欧阳钦,1956,1956.06-1958.09
+Heilongjiang,government,李范五,1958,1958.09-文革初期
+Heilongjiang,government,潘复生,1967,1967.03-1971.08
+Heilongjiang,government,汪家道,1971,1971.08-1974.12
+Heilongjiang,government,刘光涛,1977,1977.02-1977.12
+Heilongjiang,government,杨易辰,1977,1977.12-1979.12
+Heilongjiang,government,侯捷,1985,1985.05-1988.12
+Heilongjiang,government,邵奇惠,1989,1989.01-1989.03 | 1989.03-1994.05
+Heilongjiang,government,田凤山,1994,1994.05-1995.02 | 1995.02-2000.01
+Heilongjiang,government,宋法棠,2000,2000.01-2000.02 | 2000.02-2003.04
+Heilongjiang,government,张左已,2003,2003.04-2003.04 | 2003.04-2007.12
+Heilongjiang,government,栗战书,2007,2007.12-2008.01 | 2008.01-2010.08
+Heilongjiang,government,王宪魁,2010,2010.08-2010.11 | 2010.11-2013.03
+Heilongjiang,government,陆昊,2013,2013.03-2013.06 | 2013.06-2018.03
+Heilongjiang,government,王文涛,2018,2018.03-至今
+Heilongjiang,party,张启龙,1949,1949.05-1950.03
+Heilongjiang,party,赵德尊,1950,1950.03-1953.04
+Heilongjiang,party,冯纪新,1953,1953.04-1954.07
+Heilongjiang,party,欧阳钦,1954,1954.07-1965.10
+Heilongjiang,party,潘复生,1965,1965.10-1971.06
+Heilongjiang,party,汪家道,1971,1971.08-1974.12
+Heilongjiang,party,刘光涛,1977,1977.02-1977.12
+Heilongjiang,party,杨易辰,1977,1977.12-1983.01
+Heilongjiang,party,李力安,1983,1983.01-1985.10
+Heilongjiang,party,孙维本,1985,1985.10一1994.04
+Heilongjiang,party,岳歧峰,1994,1994.04-1997.07
+Heilongjiang,party,徐有芳,1997,1997.07-2003.04
+Heilongjiang,party,宋法棠,2003,2003.03-2005.12
+Heilongjiang,party,钱运录,2005,2005.12-2008.04
+Heilongjiang,party,吉炳轩,2008,2008.04-2013.03
+Heilongjiang,party,王宪魁,2013,2013.03-2017.03
+Heilongjiang,party,张庆伟,2017,2017.03-至今
+Henan,government,吴芝圃,1949,1949.05-1962.07
+Henan,government,张玺,1949,1949.10-1952.11
+Henan,government,潘复生,1952,1952.11-1958.08
+Henan,government,刘建勋,1961,1961.07-文革 | 1971.03-1978.10
+Henan,government,段君毅,1978,1978.10-1981.01
+Henan,government,刘杰,1981,1981.01-1985.05
+Henan,government,于明涛,1982,1982.12-1983.02
+Henan,government,杨析综,1985,1985.05-1990.03
+Henan,government,侯宗宾,1990,1990.03-1992.10
+Henan,government,李长春,1992,1992.12-1998.02
+Henan,government,马忠臣,1992,1992.12-1998.07
+Henan,government,陈奎元,2000,2000.10-2002.12
+Henan,government,李克强,2002,2002.12-2004.12
+Henan,government,李成玉,2004,2004.12-2008.04
+Henan,government,郭庚茂,2008,2008.04-2009.01 | 2009.01-2013.03
+Henan,government,谢伏瞻,2013,2013.04-2016.04
+Henan,government,陈润儿,2016,2016.04-至今
+Henan,party,吴芝圃,1958,1958.08-1961.07
+Henan,party,文敏生,1962,1962.07-1968.01
+Henan,party,刘建勋,1968,1968.01-1978.10
+Henan,party,段君毅,1978,1978.10-1979.09
+Henan,party,刘杰,1979,1979.09-1980.12
+Henan,party,戴苏理,1981,1981.01-1982.12
+Henan,party,于明涛,1982,1982.12-1983.04
+Henan,party,何竹康,1983,1983.03-1987.07
+Henan,party,程维高,1987,1987.07-1990.07
+Henan,party,李长春,1990,1990.07-1992.12
+Henan,party,李克强,1998,1998.07-2003.01
+Henan,party,马忠臣,1998,1998.02-2000.10
+Henan,party,李成玉,2003,2003.01-2008.04
+Henan,party,卢展工,2009,2009.11-2013.03
+Henan,party,郭庚茂,2013,2013.03-2016.03 | 2013.03-2016.03
+Henan,party,谢伏瞻,2016,2016.03-2018.03
+Henan,party,王国生,2018,2018.03-至今
+Hubei,government,李先念,1949,1949.05-1954.05
+Hubei,government,刘子厚,1954,1954.08-1956.01
+Hubei,government,张体学,1956,1956.01-文革
+Hubei,government,曾思玉,1968,1968.01-1974.03
+Hubei,government,赵辛初,1974,1974.03-1978.08
+Hubei,government,陈丕显,1978,1978.08-1980.01
+Hubei,government,韩宁夫,1979,1979.12-1983.04
+Hubei,government,黄知真,1983,1983.04-1986.01
+Hubei,government,郭振乾,1986,1986.01-1986.05 | 1986.05-1990.03
+Hubei,government,郭树言,1990,1990.02-1990.05 | 1990.05-1992.12
+Hubei,government,贾志杰,1992,1992.12-1993.05 | 1993.05-1995.02
+Hubei,government,蒋祝平,1995,1995.02-2000.12
+Hubei,government,张国光,2001,2001.01-2001.02 | 2001.02-2002.05
+Hubei,government,罗清泉,2002,2002.10-2003.01 | 2003.01-2007.12
+Hubei,government,李鸿忠,2007,2007.12-2008.01 | 2008.01-2010.12
+Hubei,government,王国生,2010,2010.12-2011.02 | 2011.02-2016.06
+Hubei,government,王晓东,2016,2016.09-2017.01 | 2017.01-至今
+Hubei,government,许达哲,2016,2016.09-2016.12 | 2016.12-至今
+Hubei,party,李先念,1949,1949.05-1954.05
+Hubei,party,王任重,1954,1954.05-1966.08
+Hubei,party,曾思玉,1966,1966.08-1973.12
+Hubei,party,赵辛初,1973,1973.12-1978.08
+Hubei,party,陈丕显,1978,1978.08-1982.08
+Hubei,party,关广富,1983,1983.02-1994.12
+Hubei,party,贾志杰,1994,1994.12-2001.01
+Hubei,party,蒋祝平,2000,2000.12-2001.12
+Hubei,party,俞正声,2001,2001.12-2007.10
+Hubei,party,罗清泉,2007,2007.10-2010.12
+Hubei,party,李鸿忠,2010,2010.12-2016.09
+Hubei,party,蒋超良,2016,2016.10-至今
+Hunan,government,陈明仁,1949,1949.08-1950.04
+Hunan,government,王首道,1950,1950.04-1952.03
+Hunan,government,程潜,1952,1952.12-文革初期
+Hunan,government,黎原,1968,1968.04-1970.05
+Hunan,government,华国锋,1970,1970.05-1977.11
+Hunan,government,毛致用,1977,1977.11-1979.12
+Hunan,government,孙治国,1979,1979.12-1983.04
+Hunan,government,刘正,1983,1983.02-1985.06
+Hunan,government,熊清泉,1985,1985.07-1989.02
+Hunan,government,陈邦柱,1989,1989.02-1989.05 | 1989.05-1995.01
+Hunan,government,杨正午,1995,1995.01-1995.02 | 1995.02-1998.10
+Hunan,government,储波,1998,1998.10-1999.02 | 1999.02-2001.08
+Hunan,government,张云川,2001,2001.08-2002.02 | 2002.02-2003.03
+Hunan,government,周伯华,2003,2003.03-2004.01 | 2004.01-2006.09
+Hunan,government,周强,2006,2006.09-2007.02 | 2007.02-2010.09
+Hunan,government,徐守盛,2010,2010.09-2013.04
+Hunan,government,杜家毫,2013,2013.04-2013.05 | 2013.05-2016.09
+Hunan,party,黄克诚,1949,1949.08-1952.09
+Hunan,party,金明,1952,1952.09-1953.10
+Hunan,party,周小舟,1953,1953.10-1959.09
+Hunan,party,张平化,1959,1959.09-1967.08
+Hunan,party,王延春,1966,1966.06-文革初期
+Hunan,party,华国锋,1970,1970.11-1977.06
+Hunan,party,毛致用,1977,1977.06-1988.04
+Hunan,party,熊清泉,1988,1988.04-1993.09
+Hunan,party,王茂林,1993,1993.09-1998.09
+Hunan,party,杨正午,1998,1998.09-2006.01
+Hunan,party,张春贤,2005,2005.12-2010.04
+Hunan,party,周强,2010,2010.09-2013.03
+Hunan,party,徐守盛,2013,2013.03-2016.08
+Hunan,party,杜家毫,2016,2016.08-至今
+Jiangsu,government,谭振林,1953,1953.01-1955.02
+Jiangsu,government,惠浴宇,1955,1955.02-文革 | 1979.12-1982.07
+Jiangsu,government,许世友,1968,1968.03-1973.12
+Jiangsu,government,彭冲,1974,1974.01-1977.02
+Jiangsu,government,许家屯,1977,1977.02-1979.12
+Jiangsu,government,韩培信,1982,1982.07-1983.05
+Jiangsu,government,顾秀莲,1983,1983.05-1989.04
+Jiangsu,government,陈焕友,1989,1989.04-1994.09
+Jiangsu,government,郑斯林,1994,1994.09-1995.02 | 1995.02-1998.10
+Jiangsu,government,季允石,1998,1998.09-1999.02 | 1999.02-2002.12
+Jiangsu,government,梁保华,2002,2002.12-2003.02 | 2003.02-2008.01
+Jiangsu,government,罗志军,2008,2008.02-2010.12
+Jiangsu,government,李学勇,2010,2010.12-2011.02 | 2011.02-2015.12
+Jiangsu,government,石泰峰,2015,2015.12-2016.01 | 2016.01-2017.04
+Jiangsu,government,吴政隆,2017,2017.05-2017.07 | 2017.07-至今
+Jiangsu,party,柯庆施,1952,1952.11-1954.08
+Jiangsu,party,江渭清,1954,1954.08-文革
+Jiangsu,party,许世友,1970,1970.12-1973.12
+Jiangsu,party,彭冲,1974,1974.01-1977.02
+Jiangsu,party,许家屯,1977,1977.02-1983.04
+Jiangsu,party,韩培信,1983,1983.03-1989.12
+Jiangsu,party,沈达人,1989,1989.12-1993.09
+Jiangsu,party,陈焕友,1993,1993.09-2000.01
+Jiangsu,party,回良玉,2000,2000.01-2002.12
+Jiangsu,party,李源潮,2002,2002.12-2007.10
+Jiangsu,party,梁保华,2007,2007.10-2010.12
+Jiangsu,party,罗志军,2010,2010.12-2016.06
+Jiangsu,party,李强,2016,2016.-2017.
+Jiangsu,party,娄勤俭,2017,2017.10-至今
+Jiangxi,government,邵式平,1949,1949.06-1965.03
+Jiangxi,government,方志纯,1965,1965.04-文革
+Jiangxi,government,程世清,1968,1968.01-1972.06
+Jiangxi,government,江渭清,1974,1974.12-1979.12
+Jiangxi,government,白栋材,1979,1979.12-1982.08
+Jiangxi,government,赵益增,1982,1982.08-1985.07
+Jiangxi,government,倪献策,1985,1985.07-1986.10
+Jiangxi,government,吴官正,1986,1986.10-1995.04
+Jiangxi,government,舒圣佑,1995,1995.04-1996.02 | 1996.02-2001.04
+Jiangxi,government,黄智权,2001,2001.04-2001.05 | 2001.05-2006.10
+Jiangxi,government,吴新雄,2006,2006.10-2007.01 | 2007.01-2011.06
+Jiangxi,government,鹿心社,2011,2011.06-2012.02 | 2012.02-2016.06 | 2016.06-2018.03
+Jiangxi,party,陈正人,1949,1949.06-1952.11
+Jiangxi,party,杨尚奎,1952,1952.11-文革
+Jiangxi,party,程世清,1970,1970.12-1972.06
+Jiangxi,party,佘积德,1972,1972.04-1974.12
+Jiangxi,party,江渭清,1974,1974.12-1982.08
+Jiangxi,party,白栋材,1982,1982.08-1985.06
+Jiangxi,party,万绍芬,1985,1985.06-1988.04
+Jiangxi,party,毛致用,1988,1988.04-1995.04
+Jiangxi,party,吴官正,1995,1995.04-1997.04
+Jiangxi,party,舒惠国,1997,1997.04-2001.04
+Jiangxi,party,孟建柱,2001,2001.04-2007.11
+Jiangxi,party,苏荣,2007,2007.11-2013.03
+Jiangxi,party,强卫,2013,2013.03-2016.06
+Jiangxi,party,刘奇,2016,2016.07-2016.09 | 2016.09-至今 | 2018.03-至今
+Jilin,government,周持衡,1950,1950.04-1952.03
+Jilin,government,栗又文,1952,1952.04-文革
+Jilin,government,王维湘,1968,1968.03-1977.02
+Jilin,government,王恩茂,1977,1977.02-1980.04
+Jilin,government,于克,1980,1980.04-1982.06
+Jilin,government,张根生,1982,1982.01-1983.04
+Jilin,government,赵修,1983,1983.04-1985.05
+Jilin,government,高德占,1985,1985.06-1987.06
+Jilin,government,何竹康,1987,1987.06-1988.01 | 1988.01-1989.01
+Jilin,government,王忠禹,1989,1989.01-1989.03 | 1989.03-1992.03
+Jilin,government,高严,1992,1992.03-1995.06
+Jilin,government,王云坤,1995,1995.06-1996.02 | 1996.02-1998.09
+Jilin,government,洪虎,1998,1998.09-1999.02 | 1999.02-2004.10
+Jilin,government,王珉,2004,2004.10-2005.01 | 2005.01-2006.11
+Jilin,government,韩长赋,2006,2006.12-2007.01 | 2007.01-2009.11
+Jilin,government,王儒林,2009,2009.12-2010.01 | 2010.01-2012.12
+Jilin,government,巴音朝鲁,2012,2012.12-2013.01 | 2013.01-2014.09
+Jilin,government,蒋超良,2014,2014.09-2014.10 | 2014.10-2016.10
+Jilin,government,景俊海,2018,2018.01-至今
+Jilin,party,刘锡五,1949,1949.10-1952.04
+Jilin,party,李梦龄,1952,1952.06-1955.03
+Jilin,party,吴德,1955,1955.02-1966.06
+Jilin,party,赵林,1966,1966.07-1967.01
+Jilin,party,王维湘,1971,1971.03-1977.02
+Jilin,party,王恩茂,1977,1977.02-1981.10
+Jilin,party,强晓初,1981,1981.10-1985.05
+Jilin,party,高狄,1985,1985.05-1988.04
+Jilin,party,何竹康,1988,1988.04-1993.06
+Jilin,party,张德江,1995,1995.-1998.09
+Jilin,party,王云坤,1998,1998.08-2006.12
+Jilin,party,王珉,2006,2006.11-2009.11
+Jilin,party,孙政才,2009,2009.11-2012.11
+Jilin,party,王儒林,2012,2012.12-2014.08
+Jilin,party,巴音朝鲁,2014,2014.09-至今
+Liaoning,government,杜青衡,1954,1954.08-1958.12
+Liaoning,government,黄欧东,1958,1958.10-1966.
+Liaoning,government,陈锡联,1968,1968.05-1973.07
+Liaoning,government,曾绍山,1975,1975.07-1978.09
+Liaoning,government,任仲夷,1978,1978.09-1980.01
+Liaoning,government,陈璞如,1980,1980.01-1983.04
+Liaoning,government,全树仁,1983,1983.04-1986.07
+Liaoning,government,李长春,1986,1986.07-1987.03 | 1987.03-1990.07
+Liaoning,government,岳歧峰,1990,1990.07-1991.03 | 1991.03-1994.04
+Liaoning,government,闻世震,1994,1994.05-1995.02 | 1995.02-1998.01
+Liaoning,government,张国光,1998,1998.01-2000.11
+Liaoning,government,薄熙来,2000,2000.12-2001.02 | 2001.02-2004.02
+Liaoning,government,张文岳,2004,2004.02-2004.02 | 2004.02-2007.12
+Liaoning,government,陈政高,2007,2007.12-2008.01 | 2008.01-2014.04
+Liaoning,government,李希,2014,2014.05-2014.10 | 2014.10-2015.04
+Liaoning,government,陈求发,2015,2015.05-2015.06 | 2015.06-2017.10
+Liaoning,government,唐一军,2017,2017.10-2018.01 | 2018.01-至今
+Liaoning,party,黄欧东,1954,1954.07-1958.06
+Liaoning,party,黄火青,1959,1959.09-文革
+Liaoning,party,陈锡联,1971,1971.01-1973.12
+Liaoning,party,曾绍山,1975,1975.09-1978.09
+Liaoning,party,任仲夷,1978,1978.09-1980.11
+Liaoning,party,郭峰,1980,1980.11-1985.06
+Liaoning,party,李贵鲜,1985,1985.06-1986.04
+Liaoning,party,全树仁,1986,1986.04-1993.10
+Liaoning,party,顾金池,1993,1993.09-1997.08
+Liaoning,party,闻世震,1997,1997.08-2004.12
+Liaoning,party,李克强,2004,2004.12-2007.10
+Liaoning,party,张文岳,2007,2007.10-2009.11
+Liaoning,party,王珉,2009,2009.11-2015.04
+Liaoning,party,李希,2015,2015.05-2017.
+Liaoning,party,陈求发,2017,2017.10-至今
+Neimenggu,government,乌兰夫,1947,1947.05-1967.11
+Neimenggu,government,滕海清,1967,1967.11-1971.05
+Neimenggu,government,尤太忠,1971,1971.05-1978.10
+Neimenggu,government,孔飞,1978,1978.10-1982.12
+Neimenggu,government,布赫,1982,1982.12-1993.05
+Neimenggu,government,乌力吉,1993,1993.05-1998.01
+Neimenggu,government,云布龙,1998,1998.01-2000.06
+Neimenggu,government,乌云其木格,2000,2000.08-2003.03
+Neimenggu,government,杨晶,2003,2003.04-2008.04
+Neimenggu,government,巴特尔,2008,2008.04-2009.01 | 2009.01-2016.03
+Neimenggu,government,布小林,2016,2016.03-2016.04 | 2016.04-至今
+Neimenggu,party,乌兰夫,1947,1947.07-1966.08
+Neimenggu,party,解学恭,1966,1966.08-1971.05
+Neimenggu,party,尤太忠,1971,1971.05-1978.10
+Neimenggu,party,周惠,1978,1978.10-1986.03
+Neimenggu,party,张曙光,1986,1986.03-1987.09
+Neimenggu,party,王群,1987,1987.08-1994.08
+Neimenggu,party,刘明祖,1994,1994.08-2001.08
+Neimenggu,party,储波,2001,2001.08-2009.11
+Neimenggu,party,胡春华,2009,2009.11-2012.12
+Neimenggu,party,王君,2012,2012.12-2016.08
+Neimenggu,party,李纪恒,2016,2016.08-2017.01
+Ningxia,government,潘自力,1949,1949.10-1951.10
+Ningxia,government,邢肇棠,1952,1952.01-1954.08
+Ningxia,government,刘格平,1954,1954.08-1960.09
+Ningxia,government,杨静仁,1960,1960.09-文革初期
+Ningxia,government,康健民,1968,1968.04-1977.01
+Ningxia,government,霍士廉,1977,1977.01-1979.02
+Ningxia,government,马信,1979,1979.02-1983.02
+Ningxia,government,黑伯理,1983,1983.02-1986.07
+Ningxia,government,白立忱,1986,1986.07-1997.09
+Ningxia,government,马启智,1997,1997.12-1998.05 | 1998.05-2007.04
+Ningxia,government,王正伟,2007,2007.05-2008.01 | 2008.01-2013.03
+Ningxia,government,刘慧,2013,2013.03-2013.04 | 2013.04-2016.06
+Ningxia,government,咸辉,2016,2016.07-2016.09 | 2016.09-至今
+Ningxia,party,潘自力,1949,1949.10-1951.10
+Ningxia,party,朱敏,1951,1951.10-1953.01
+Ningxia,party,李景林,1953,1953.01-1954.09
+Ningxia,party,汪锋,1958,1958.04-1961.01
+Ningxia,party,杨静仁,1961,1961.01-文革初期
+Ningxia,party,康健民,1970,1970.03-1977.01
+Ningxia,party,霍士廉,1977,1977.01-1979.02
+Ningxia,party,李学智,1979,1979.02-1986.12
+Ningxia,party,沈达人,1986,1986.12-1989.12
+Ningxia,party,黄璜,1989,1989.12-1997.08
+Ningxia,party,毛如柏,1997,1997.08-2002.04
+Ningxia,party,陈建国,2002,2002.03-2010.07
+Ningxia,party,张毅,2010,2010.07-2013.03
+Ningxia,party,李建华,2013,2013.03-2017.04
+Ningxia,party,石泰峰,2017,2017.04-至今
+Qinghai,government,赵寿山,1950,1950.01-1952.10
+Qinghai,government,张仲良,1952,1952.11-1954.06
+Qinghai,government,孙作宾,1954,1954.06-1958.03
+Qinghai,government,孙君一,1958,1958.03-1958.06
+Qinghai,government,袁任远,1958,1958.06-1962.06
+Qinghai,government,王昭,1961,1961.-文革
+Qinghai,government,刘贤权,1967,1967.08-1977.02
+Qinghai,government,谭启龙,1977,1977.02-1979.04
+Qinghai,government,张国声,1979,1979.04-1982.12
+Qinghai,government,黄静波,1982,1982.09-1983.04 | 1983.04-1985.08
+Qinghai,government,宋瑞祥,1985,1985.07-1989.09
+Qinghai,government,金基鹏,1989,1989.11-1990.04 | 1990.04-1992.12
+Qinghai,government,田成平,1992,1992.11-1993.01 | 1993.01-1997.02
+Qinghai,government,白恩培,1997,1997.04-1998.01 | 1998.01-1999.06
+Qinghai,government,赵乐际,1999,1999.08-2000.01 | 2000.01-2003.10
+Qinghai,government,杨传堂,2003,2003.10-2004.01 | 2004.01-2004.12
+Qinghai,government,宋秀岩,2004,2004.12-2005.01 | 2005.01-2010.01
+Qinghai,government,骆惠宁,2010,2010.01-2013.03
+Qinghai,government,郝鹏,2013,2013.03-2013.04 | 2013.04-2016.12
+Qinghai,government,王建军,2017,2017.01-至今
+Qinghai,party,张仲良,1949,1949.09-1954.05
+Qinghai,party,高峰,1954,1954.06-1961.08
+Qinghai,party,王昭,1961,1961.08-1962.11
+Qinghai,party,杨植霖,1962,1962.01-文革
+Qinghai,party,刘贤权,1971,1971.03-1977.02
+Qinghai,party,谭启龙,1977,1977.02-1979.12
+Qinghai,party,梁步庭,1979,1979.12-1982.12
+Qinghai,party,赵海峰,1982,1982.12-1985.07
+Qinghai,party,尹克升,1985,1985.07-1997.03
+Qinghai,party,田成平,1997,1997.02-1999.06
+Qinghai,party,白恩培,1999,1999.06-2001.10
+Qinghai,party,苏荣,2001,2001.10-2003.08
+Qinghai,party,赵乐际,2003,2003.08-2007.03
+Qinghai,party,强卫,2007,2007.03-2013.03
+Qinghai,party,骆惠宁,2013,2013.03-2016.06
+Qinghai,party,王国生,2016,2016.06-2018.03
+Shaanxi,government,马明方,1950,1950.01-1952.11
+Shaanxi,government,赵寿山,1952,1952.11-1959.07
+Shaanxi,government,赵伯平,1959,1959.07-1963.03
+Shaanxi,government,李启明,1963,1963.03-文革初期
+Shaanxi,government,李瑞山,1968,1968.01-1978.12
+Shaanxi,government,王任重,1978,1978.12-1978.12
+Shaanxi,government,于明涛,1979,1979.02-1979.12 | 1979.12-1983.02
+Shaanxi,government,李庆伟,1983,1983.02-1986.12
+Shaanxi,government,张勃兴,1986,1986.12-1987.08
+Shaanxi,government,侯宗宾,1987,1987.08-1990.03
+Shaanxi,government,白清才,1990,1990.03-1994.11
+Shaanxi,government,程安东,1994,1994.11-1995.01 | 1995.01-2002.05
+Shaanxi,government,贾治邦,2002,2002.05-2003.01 | 2003.01-2004.10
+Shaanxi,government,陈德铭,2004,2004.10-2005.02 | 2005.02-2006.05
+Shaanxi,government,袁纯清,2006,2006.05-2010.06
+Shaanxi,government,赵正永,2010,2010.06-2011.01 | 2011.01-2012.12
+Shaanxi,government,娄勤俭,2012,2012.12-2013.01 | 2013.01-2016.04
+Shaanxi,government,胡和平,2016,2016.04-2017.10
+Shaanxi,party,马明方,1950,1950.01-1952.10
+Shaanxi,party,潘自力,1952,1952.10-1954.10
+Shaanxi,party,张德生,1954,1954.10-1965.03
+Shaanxi,party,胡耀邦,1965,1965.03-1965.10
+Shaanxi,party,霍士廉,1965,1965.10-文革初期
+Shaanxi,party,李瑞山,1971,1971.03-1978.12
+Shaanxi,party,王任重,1978,1978.12-1978.12
+Shaanxi,party,马文瑞,1978,1978.12-1984.08
+Shaanxi,party,白纪年,1984,1984.08-1987.08
+Shaanxi,party,张勃兴,1987,1987.08-1994.11
+Shaanxi,party,安启元,1994,1994.11-1997.08
+Shaanxi,party,李建国,1997,1997.08-2007.03
+Shaanxi,party,赵乐际,2007,2007.03-2012.12
+Shaanxi,party,赵正永,2012,2012.12-2016.03
+Shaanxi,party,娄勤俭,2016,2016.03-2017.10
+Shaanxi,party,胡和平,2017,2017.10-至今
+Shandong,government,康生,1949,1949.03-1950.03
+Shandong,government,赵健民,1955,1955.03-1958.11
+Shandong,government,谭启龙,1958,1958.11-1963.12
+Shandong,government,白如冰,1963,1963.12-1967.01 | 1974.11-1979.12
+Shandong,government,王效禹,1967,1967.03-1971.03
+Shandong,government,杨得志,1971,1971.03-1974.11
+Shandong,government,苏毅然,1979,1979.12-1982.12
+Shandong,government,梁步庭,1982,1982.12-1983.04 | 1983.04-1985.06
+Shandong,government,李昌安,1985,1985.06-1987.07
+Shandong,government,姜春云,1987,1987.07-1988.02
+Shandong,government,赵志浩,1989,1989.03-1995.02
+Shandong,government,李春亭,1995,1995.02-2001.12
+Shandong,government,张高丽,2001,2001.12-2002.03 | 2002.03-2003.01
+Shandong,government,韩寓群,2003,2003.01-2003.04 | 2003.04-2007.06
+Shandong,government,姜大明,2007,2007.06-2008.01 | 2008.01-2013.03
+Shandong,government,郭树清,2013,2013.03-2013.06 | 2013.06-2017.02
+Shandong,government,龚正,2017,2017.04-至今
+Shandong,party,康生,1949,1949.03-1954.08
+Shandong,party,舒同,1954,1954.08-1960.10
+Shandong,party,曾希圣,1960,1960.10-1961.04
+Shandong,party,谭启龙,1961,1961.04-1967.02
+Shandong,party,杨得志,1971,1971.04-1974.11
+Shandong,party,白如冰,1974,1974.11-1982.12
+Shandong,party,苏毅然,1982,1982.12-1985.06
+Shandong,party,梁步庭,1985,1985.06-1988.12
+Shandong,party,姜春云,1988,1988.12-1994.10
+Shandong,party,赵志浩,1994,1994.10-1997.04
+Shandong,party,吴官正,1997,1997.04-2002.11
+Shandong,party,张高丽,2002,2002.11-2007.03
+Shandong,party,李建国,2007,2007.03-2008.03
+Shandong,party,姜异康,2008,2008.03-2017.03
+Shandong,party,刘家义,2017,2017.03-至今
+Shanghai,government,陈毅,1949,1949.05-1958.11
+Shanghai,government,柯庆施,1958,1958.11-1965.04
+Shanghai,government,曹荻秋,1965,1965.04-1968.06
+Shanghai,government,张春桥,1967,1967.02-1976.10
+Shanghai,government,苏振华,1976,1976.10-1979.01
+Shanghai,government,彭冲,1979,1979.01-1979.12 | 1979.12-1980.04
+Shanghai,government,汪道涵,1980,1980.10-1981.04 | 1981.04-1985.07
+Shanghai,government,江泽民,1985,1985.07-1988.04
+Shanghai,government,朱镕基,1988,1988.04-1991.04
+Shanghai,government,黄菊,1991,1991.04-1995.02
+Shanghai,government,徐匡迪,1995,1995.02-2001.12
+Shanghai,government,陈良宇,2001,2001.12-2002.02 | 2002.02-2003.02
+Shanghai,government,韩正,2003,2003.02-2012.12
+Shanghai,government,杨雄,2012,2012.12-2013.01 | 2013.01-2017.01
+Shanghai,government,应勇,2017,2017.01-至今
+Shanghai,party,饶漱石,1949,1949.01-1950.03
+Shanghai,party,陈毅,1950,1950.03-1954.10
+Shanghai,party,柯庆施,1954,1954.10-1965.04
+Shanghai,party,陈丕显,1965,1965.11-1967.01
+Shanghai,party,张春桥,1971,1971.01-1976.10
+Shanghai,party,苏振华,1976,1976.10-1979.01
+Shanghai,party,彭冲,1979,1979.01-1980.04
+Shanghai,party,陈国栋,1980,1980.04-1985.06
+Shanghai,party,芮杏文,1985,1985.06-1987.11
+Shanghai,party,江泽民,1987,1987.11-1989.08
+Shanghai,party,朱镕基,1989,1989.09-1991.04
+Shanghai,party,吴邦国,1991,1991.04-1994.10
+Shanghai,party,黄菊,1994,1994.10-2002.10
+Shanghai,party,陈良宇,2002,2002.10-2006.09
+Shanghai,party,韩正,2006,2006.09-2007.03 | 2012.11-2017.
+Shanghai,party,习近平,2007,2007.03-2007.10
+Shanghai,party,俞正声,2007,2007.10-2012.11
+Shanghai,party,李强,2017,2017.10-至今
+Shanxi,government,程子华,1949,1949.07-1951.02
+Shanxi,government,赖若愚,1951,1951.02-1952.05
+Shanxi,government,裴丽生,1952,1952.05-1956.04
+Shanxi,government,王世英,1956,1956.04-1958.12
+Shanxi,government,卫恒,1958,1958.12-1965.12
+Shanxi,government,王谦,1965,1965.12-1967.01 | 1975.05-1979.12
+Shanxi,government,刘格平,1967,1967.03-1971.04
+Shanxi,government,谢振华,1971,1971.04-1975.05
+Shanxi,government,罗贵波,1979,1979.12-1983.04
+Shanxi,government,王森浩,1983,1983.04-1992.08
+Shanxi,government,胡富国,1992,1992.07-1993.01 | 1993.01-1993.09
+Shanxi,government,孙文盛,1993,1993.09-1994.03 | 1994.03-1999.06
+Shanxi,government,刘振华,1999,1999.07-2000.01 | 2000.01-2004.01
+Shanxi,government,张宝顺,2004,2004.01-2004.02 | 2004.02-2005.07
+Shanxi,government,于幼军,2005,2005.07-2006.01 | 2006.01-2007.08
+Shanxi,government,孟学农,2007,2007.09-2008.01 | 2008.01-2008.09
+Shanxi,government,王君,2008,2008.09-2009.01 | 2009.01-2012.12
+Shanxi,government,李小鹏,2012,2012.12-2013.01 | 2013.01-2016.08
+Shanxi,government,楼阳生,2016,2016.08-2016.11 | 2016.11-至今
+Shanxi,party,程子华,1949,1949.08-1950.09
+Shanxi,party,赖若愚,1950,1950.09-1952.01
+Shanxi,party,解学恭,1952,1952.02-1952.07
+Shanxi,party,高克林,1952,1952.07-1953.04
+Shanxi,party,陶鲁笳,1953,1953.04-1965.08
+Shanxi,party,卫恒,1965,1965.08-文革初
+Shanxi,party,谢振华,1971,1971.04-1975.05
+Shanxi,party,王谦,1975,1975.05-1980.10
+Shanxi,party,霍士廉,1980,1980.10-1983.03
+Shanxi,party,李立功,1983,1983.03-1991.03
+Shanxi,party,王茂林,1991,1991.03-1993.09
+Shanxi,party,胡富国,1993,1993.09-1999.06
+Shanxi,party,田成平,1999,1999.06-2005.06
+Shanxi,party,张宝顺,2005,2005.07-2010.05
+Shanxi,party,袁纯清,2010,2010.05-2014.08
+Shanxi,party,王儒林,2014,2014.08-2016.06
+Shanxi,party,骆惠宁,2016,2016.06-至今
+Sichuan,government,李井泉,1952,1952.09-1955.01
+Sichuan,government,李大章,1955,1955.01-1967.01
+Sichuan,government,张国华,1968,1968.12-1972.02
+Sichuan,government,刘兴元,1972,1972.03-1975.10
+Sichuan,government,赵紫阳,1975,1975.10-1979.12
+Sichuan,government,鲁大东,1979,1979.12-1982.12
+Sichuan,government,杨析综,1983,1983.04-1985.05
+Sichuan,government,蒋民宽,1985,1985.05-1988.01
+Sichuan,government,张皓若,1988,1988.01-1993.02
+Sichuan,government,肖秧,1993,1993.02-1996.02
+Sichuan,government,宋宝瑞,1996,1996.02-1999.05
+Sichuan,government,张中伟,2000,2000.01-2007.01
+Sichuan,government,蒋巨峰,2007,2007.01-2013.01
+Sichuan,government,魏宏,2013,2013.01-2016.01
+Sichuan,government,尹力,2016,2016.01-至今
+Sichuan,party,李井泉,1952,1952.09-1965.02
+Sichuan,party,廖志高,1965,1965.02-1967.01
+Sichuan,party,张国华,1969,1969.12-1972.02
+Sichuan,party,刘兴元,1972,1972.03-1975.10
+Sichuan,party,赵紫阳,1975,1975.10-1980.03
+Sichuan,party,谭启龙,1980,1980.03-1982.12
+Sichuan,party,杨汝岱,1982,1982.12-1993.03
+Sichuan,party,谢世杰,1993,1993.03-2000.01
+Sichuan,party,周永康,1999,1999.-2002.12
+Sichuan,party,张学忠,2002,2002.12-2006.12
+Sichuan,party,杜青林,2006,2006.12-2007.12
+Sichuan,party,刘奇葆,2007,2007.12-2012.11
+Sichuan,party,王东明,2012,2012.11-2018.
+Sichuan,party,彭清华,2018,2018.03-至今
+Tianjin,government,黄敬,1949,1949.01-1952.08
+Tianjin,government,吴德,1952,1952.08-1955.01
+Tianjin,government,黄火青,1955,1955.01-1958.06
+Tianjin,government,李耕涛,1958,1958.06-1963.09
+Tianjin,government,胡昭衡,1963,1963.09-文革
+Tianjin,government,解学恭,1967,1967.12-1978.06
+Tianjin,government,林乎加,1978,1978.06-1978.10
+Tianjin,government,陈伟达,1978,1978.10-1980.06
+Tianjin,government,胡启立,1980,1980.06-1982.04
+Tianjin,government,李瑞环,1982,1982.05-1989.11
+Tianjin,government,聂璧初,1989,1989.11-1993.05
+Tianjin,government,张立昌,1993,1993.06-1998.05
+Tianjin,government,李盛霖,1998,1998.05-2002.12
+Tianjin,government,戴相龙,2002,2002.12-2003.01 | 2003.01-2007.12
+Tianjin,government,黄兴国,2007,2007.12-2008.01 | 2008.01-2016.09
+Tianjin,government,王东峰,2016,2016.09-2016.11 | 2016.11-2017.10
+Tianjin,government,张国清,2018,2018.01-
+Tianjin,party,黄克诚,1949,1949.01-1949.06
+Tianjin,party,黄敬,1949,1949.06-1953.04
+Tianjin,party,黄火青,1953,1953.04-1958.06
+Tianjin,party,万晓塘,1958,1958.06-1966.09
+Tianjin,party,解学恭,1967,1967.01-1978.06
+Tianjin,party,林乎加,1978,1978.06-1978.10
+Tianjin,party,陈伟达,1978,1978.10-1984.10
+Tianjin,party,倪志福,1984,1984.10-1987.09
+Tianjin,party,李瑞环,1987,1987.09-1989.10
+Tianjin,party,谭绍文,1989,1989.10-1993.02
+Tianjin,party,聂璧初,1993,1993.02-1993.03
+Tianjin,party,高德占,1993,1993.03-1997.08
+Tianjin,party,张立昌,1997,1997.08-2007.03
+Tianjin,party,张高丽,2007,2007.03-2012.11
+Tianjin,party,孙春兰,2012,2012.11-2014.12
+Tianjin,party,黄兴国,2014,2014.12-2016.09
+Tianjin,party,李鸿忠,2016,2016.-至今
+Xinjiang,government,包尔汉,1949,1949.02-1955.09
+Xinjiang,government,赛福鼎·艾则孜,1955,1955.09-文革 | 1973.06-1978.01
+Xinjiang,government,龙书金,1968,1968.09-1972.12
+Xinjiang,government,汪锋,1978,1978.01-1979.09
+Xinjiang,government,司马义·艾买提,1979,1979.09-1985.12
+Xinjiang,government,铁木尔·达瓦买提,1985,1985.12-1993.12
+Xinjiang,government,阿不来提·阿不都热西提,1993,1993.12-1994.03 | 1994.03-2003.01
+Xinjiang,government,司马义·铁力瓦尔地,2003,2003.01-2007.12
+Xinjiang,government,努尔·白克力,2007,2007.12-2008.01 | 2008.01-2014.12
+Xinjiang,government,雪克来提·扎克尔,2014,2014.12-2015.01 | 2015.01-至今
+Xinjiang,party,王震,1949,1949.10-1952.06
+Xinjiang,party,王恩茂,1952,1952.06-文革 | 1981.10-1985.07
+Xinjiang,party,龙书金,1971,1971.05-1972.07
+Xinjiang,party,赛福鼎·艾则孜,1972,1972.07-1978.01
+Xinjiang,party,汪锋,1978,1978.01-1981.10
+Xinjiang,party,宋汉良,1985,1985.10-1995.12
+Xinjiang,party,王乐泉,1994,1994.09-1995.12 | 1995.12-2010.04
+Xinjiang,party,张春贤,2010,2010.04-2016.
+Xinjiang,party,陈全国,2016,2016.-至今
+Xizang,government,达赖·丹增嘉措,1956,1956.04-1959.03
+Xizang,government,班禅·却吉坚赞,1959,1959.03-1964.12
+Xizang,government,阿沛·阿旺晋美,1964,1964.12-文革初期 | 1981.04-1983.05
+Xizang,government,曾雍雅,1968,1968.09-1970.11
+Xizang,government,任荣,1970,1970.11-1979.08
+Xizang,government,天宝,1979,1979.08-1981.04
+Xizang,government,多杰才旦,1983,1983.01-1985.12
+Xizang,government,多吉才让,1985,1985.12-1986.05 | 1986.05-1990.05
+Xizang,government,江村罗布,1990,1990.05-1998.05
+Xizang,government,列确,1998,1998.05-2003.05
+Xizang,government,向巴平措,2003,2003.05-2010.01
+Xizang,government,白玛赤林,2010,2010.01-2013.01
+Xizang,government,洛桑江村,2012,2012.12-2013.01 | 2013.01-2017.01
+Xizang,government,齐扎拉,2017,2017.01-至今
+Xizang,party,张国华,1950,1950.01-1951.06 | 1965.09-1967.02
+Xizang,party,范明,1951,1951.06-1951.12
+Xizang,party,张经武,1952,1952.03-1965.08
+Xizang,party,任荣,1971,1971.08-1980.03
+Xizang,party,阴法唐,1980,1980.03-1985.06
+Xizang,party,伍精华,1985,1985.06-1988.12
+Xizang,party,胡锦涛,1988,1988.12-1992.11
+Xizang,party,陈奎元,1992,1992.11-2000.09
+Xizang,party,郭金龙,2000,2000.09-2004.12
+Xizang,party,杨传堂,2004,2004.12-2006.05
+Xizang,party,张庆黎,2005,2005.11-2006.05 | 2006.05-2011.08
+Xizang,party,陈全国,2011,2011.08-2016.08
+Xizang,party,吴英杰,2016,2016.08-至今
+Yunnan,government,陈赓,1950,1950.03-1955.02
+Yunnan,government,郭影秋,1955,1955.02-1958.11
+Yunnan,government,丁一川,1958,1958.11-1964.08
+Yunnan,government,刘明辉,1964,1964.08-1965.02 | 1979.12-1983.04
+Yunnan,government,周兴,1965,1965.02-1967.02 | 1970.10-1975.10
+Yunnan,government,谭甫仁,1968,1968.08-1970.10
+Yunnan,government,贾启允,1975,1975.10-1977.02
+Yunnan,government,安平生,1977,1977.02-1979.12
+Yunnan,government,普朝柱,1983,1983.04-1985.08
+Yunnan,government,和志强,1985,1985.08-1998.01
+Yunnan,government,李嘉廷,1998,1998.01-2001.06
+Yunnan,government,徐荣凯,2001,2001.06-2002.01 | 2002.01-2006.11
+Yunnan,government,秦光荣,2006,2006.11-2011.08
+Yunnan,government,李纪恒,2011,2011.08-2012.02 | 2012.02-2014.10
+Yunnan,government,陈豪,2014,2014.10-2015.01 | 2015.01-2016.12
+Yunnan,government,阮成发,2016,2016.12-2017.01 | 2017.01-至今
+Yunnan,party,宋任穷,1950,1950.02-1952.07
+Yunnan,party,谢富治,1952,1952.07-1959.08
+Yunnan,party,阎红彦,1959,1959.08-1967.01
+Yunnan,party,谭甫仁,1968,1968.08-1971.06
+Yunnan,party,周兴,1971,1971.06-1975.10
+Yunnan,party,贾启允,1975,1975.10-1977.02
+Yunnan,party,安平生,1977,1977.02-1985.07
+Yunnan,party,普朝柱,1985,1985.07-1995.08
+Yunnan,party,高严,1995,1995.06-1997.08
+Yunnan,party,令狐安,1997,1997.08-2001.10
+Yunnan,party,白恩培,2001,2001.10-2011.08
+Yunnan,party,秦光荣,2011,2011.08-2014.10
+Yunnan,party,李纪恒,2014,2014.10-2016.08
+Yunnan,party,陈豪,2016,2016.08-至今
+Zhejiang,government,谭震林,1949,1949.08-1955.01
+Zhejiang,government,沙文汉,1955,1955.01-1957.11
+Zhejiang,government,霍士廉,1957,1957.11-1958.01
+Zhejiang,government,周建人,1958,1958.01-文革
+Zhejiang,government,南萍,1968,1968.03-1973.05
+Zhejiang,government,谭启龙,1973,1973.05-1977.02
+Zhejiang,government,铁瑛,1977,1977.02-1979.12
+Zhejiang,government,李丰平,1979,1979.12-1983.04
+Zhejiang,government,薛驹,1983,1983.03-1987.03
+Zhejiang,government,葛洪升,1990,1990.11-1991.03 | 1991.03-1993.01
+Zhejiang,government,万学远,1993,1993.01-1997.04
+Zhejiang,government,柴松岳,1997,1997.04-1998.01 | 1998.01-2002.10
+Zhejiang,government,习近平,2002,2002.11-2003.01
+Zhejiang,government,吕祖善,2003,2003.01-2011.08
+Zhejiang,government,夏宝龙,2011,2011.08-2012.12
+Zhejiang,government,李强,2012,2012.12-2013.01 | 2013.01-2016.06
+Zhejiang,government,车俊,2016,2016.07-2017.01 | 2017.01-2017.04
+Zhejiang,government,袁家军,2017,2017.04-2017.07 | 2017.07-至今
+Zhejiang,party,谭震林,1949,1949.05-1952.09
+Zhejiang,party,谭启龙,1952,1952.09-1954.08 | 1973.05-1977.02
+Zhejiang,party,江华,1954,1954.08-1967.01
+Zhejiang,party,南萍,1971,1971.01-1973.05
+Zhejiang,party,铁瑛,1977,1977.02-1983.03
+Zhejiang,party,王芳,1983,1983.03-1987.03
+Zhejiang,party,薛驹,1987,1987.03-1988.12
+Zhejiang,party,李泽民,1988,1988.12-1998.09
+Zhejiang,party,张德江,1998,1998.09-2002.11
+Zhejiang,party,习近平,2002,2002.11-2007.03
+Zhejiang,party,赵洪祝,2007,2007.03-2012.12
+Zhejiang,party,夏宝龙,2012,2012.12-2017.04
+Zhejiang,party,车俊,2017,2017.04-至今

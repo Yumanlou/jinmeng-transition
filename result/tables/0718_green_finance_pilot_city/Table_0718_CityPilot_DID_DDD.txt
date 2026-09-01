@@ -1,0 +1,19 @@
+	(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	DID ln_gdp	DID ln_so2	DID ln_so2_per_gdp	DDD ln_gdp	DDD ln_so2	DDD ln_so2_per_gdp
+						
+pilot_post2017	0.0322	-0.2118	-0.2234	0.0353	0.2727***	-0.0003
+	(0.0901)	(0.4999)	(0.1501)	(0.0685)	(0.0759)	(0.0578)
+post_resource				-0.1548	-1.6821	-3.5656
+				(0.2812)	(2.7278)	(2.0769)
+pilot_post_resource				0.0588		
+				(0.2678)		
+Constant	7.3679***	9.5812***	2.4244***	7.4291***	9.4372***	2.1650***
+	(0.0043)	(0.0473)	(0.0146)	(0.0174)	(0.2332)	(0.1761)
+						
+Observations	633	74	72	500	68	66
+R-squared	0.9937	0.8380	0.9274	0.9955	0.8730	0.9455
+City FE	Yes	Yes	Yes	Yes	Yes	Yes
+Province-Year FE	Yes	Yes	Yes	Yes	Yes	Yes
+Cluster	City	City	City	City	City	City
+Robust standard errors in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						

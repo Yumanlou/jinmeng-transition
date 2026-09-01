@@ -1,0 +1,17 @@
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	coalshare5	coal_share_pctg	ln_co2	therm_cap_sh	therm_gen_sh
+					
+did_coal	-0.2495***	-0.1900***	-0.0982	0.0517	0.0888
+	(0.0754)	(0.0651)	(0.1034)	(0.0945)	(0.0754)
+Constant	0.6304	0.9041	17.6608***	-0.8553	0.0513
+	(0.6849)	(0.5699)	(1.0142)	(0.8036)	(0.7497)
+					
+Observations	480	480	510	510	507
+R-squared	0.9224	0.9382	0.9904	0.9368	0.9478
+Design	Continuous DID: structural lock-in	Continuous DID: structural lock-in	Continuous DID: structural lock-in	Continuous DID: structural lock-in	Continuous DID: structural lock-in
+Policy breakpoint	2012	2012	2012	2012	2012
+Province FE	YES	YES	YES	YES	YES
+Year FE	YES	YES	YES	YES	YES
+Cluster	province_id	province_id	province_id	province_id	province_id
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

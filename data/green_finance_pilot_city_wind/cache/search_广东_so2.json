@@ -1,0 +1,282 @@
+[
+  {
+    "meta": {
+      "code": "X2954620",
+      "enName": "China: Guangdong: Zhaoqing: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:肇庆:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "D4910351",
+      "enName": "China: Guangdong: Yunfu: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:云浮:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "C7464692",
+      "enName": "China: Guangdong: Yangjiang: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:阳江:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "D1225842",
+      "enName": "China: Guangdong: Qingyuan: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:清远:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "R1114525",
+      "enName": "China: Guangdong: Meizhou: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:梅州:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "R6799979",
+      "enName": "China: Guangdong: Jieyang: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:揭阳:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "O1354315",
+      "enName": "China: Guangdong: Jiangmen: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:江门:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "L9854140",
+      "enName": "China: Guangdong: Zhongshan: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:中山:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "U9961126",
+      "enName": "China: Guangdong: Chaozhou: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:潮州:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "Q0885406",
+      "enName": "China: Guangdong: Zhanjiang: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:湛江:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "L8662593",
+      "enName": "China: Guangdong: Shanwei: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:汕尾:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "Q6270982",
+      "enName": "China: Guangdong: Shenzhen: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:深圳:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "H9105012",
+      "enName": "China: Guangdong: Huizhou: Sulfur Dioxide Emissions",
+      "name": "广东:惠州:二氧化硫排放量",
+      "enSource": "Huizhou Municipal Bureau of Statistics",
+      "source": "惠州市统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20260602"
+    }
+  },
+  {
+    "meta": {
+      "code": "W0785239",
+      "enName": "China: Guangdong: Foshan: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:佛山:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "W8188876",
+      "enName": "China: Guangdong: Shaoguan: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:韶关:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "U1020790",
+      "enName": "China: Guangdong: Heyuan: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:河源:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "W3859304",
+      "enName": "China: Guangdong: Dongguan: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:东莞:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "L1499467",
+      "enName": "China: Guangdong: Guangzhou: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:广州:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "V2563025",
+      "enName": "China: Guangdong: Zhuhai: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:珠海:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  },
+  {
+    "meta": {
+      "code": "R3301066",
+      "enName": "China: Guangdong: Shantou: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:汕头:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    }
+  }
+]

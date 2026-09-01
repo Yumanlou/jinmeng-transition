@@ -1,0 +1,11 @@
+{
+  "source": "China Local Government Official Database (CGOD), Kaggle mirror",
+  "source_url": "https://www.kaggle.com/datasets/bulter22/china-local-government-official-database",
+  "license": "CC0: Public Domain",
+  "source_last_updated": "2020-11-26",
+  "retrieved": "2026-07-21",
+  "coverage_used": "31 provinces, 2000-2018; 2019-2023 intentionally left missing",
+  "construction": "Turnover equals one in the first calendar year of a new provincial party secretary or governor/chair/mayor spell. Acting and formal appointments of the same person are combined.",
+  "interpretation": "Use as descriptive or robustness evidence. Leadership replacement is not assumed exogenous, and the public archive misses known 2019 changes despite its 2020 upload date.",
+  "output_panel": "data/final_data.1.3.4_did_full_resource_v2_credit_greencredit_natural_cleanproxy_tide_absorption_monthly_reliability_policyworkreports_projectlifecycle_leadership_0721.csv"
+}

@@ -1,0 +1,29 @@
+{
+  "source_file": "2005-2022年绿色信贷水平.XLSX",
+  "source_sha256": "452cddb7a7727366a74da23d770d89a45516b39b71fe55ffeae1f073e3c79e4c",
+  "source_sheet": "绿色信贷-计算结果",
+  "source_measure": "六大高耗能行业利息费用/规模以上工业企业利息费用",
+  "positive_proxy_formula": "1 - green_credit_high_energy_interest_share",
+  "years": [
+    2005,
+    2022
+  ],
+  "province_n": 31,
+  "province_year_n": 558,
+  "interpolated_year": 2017,
+  "reconciliation": {
+    "2021": {
+      "province_n": 31,
+      "maximum_absolute_difference": 4.440892098500626e-16
+    },
+    "2022": {
+      "province_n": 31,
+      "maximum_absolute_difference": 5.551115123125783e-16
+    }
+  },
+  "notes": [
+    "The source workbook calls the high-energy interest share a green-credit result.",
+    "Higher green_credit_proxy means a lower financing share for six energy-intensive industries.",
+    "This is an indirect industrial-interest proxy, not disclosed provincial green-loan balance."
+  ]
+}

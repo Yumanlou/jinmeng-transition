@@ -1,0 +1,16 @@
+{
+  "wind": {
+    "citation": "He, G. and Kammen, D. M. (2014). Where, when and how much wind is available? A provincial-scale wind resource assessment for China. Energy Policy 74, 116-122.",
+    "doi": "10.1016/j.enpol.2014.07.003",
+    "data_url": "https://www.researchgate.net/publication/273258314_Where_when_and_how_much_wind_is_available_A_provincial-scale_wind_resource_assessment_for_China_Dataset",
+    "table": "Table 2",
+    "resource_period": "2001-2010"
+  },
+  "solar": {
+    "citation": "He, G. and Kammen, D. M. (2016). Where, when and how much solar is available? A provincial-scale solar resource assessment for China. Renewable Energy 85, 74-82.",
+    "doi": "10.1016/j.renene.2015.06.027",
+    "data_url": "https://www.researchgate.net/publication/278679097_Where_when_and_how_much_solar_is_available_A_provincial-scale_solar_resource_assessment_for_China_Dataset",
+    "table": "Table 4",
+    "resource_period": "2001-2010"
+  }
+}

@@ -1,0 +1,50 @@
+﻿variable,definition,unit,source,nonmissing_observations,covered_provinces,total_provinces,first_year,last_year
+mining_employment_10k_person,Mining employment,"10,000 persons",Wind EDB; provincial statistical bureaus,650,31,31,2003,2023
+urban_nonprivate_employment_10k_person,Urban non-private employment,"10,000 persons",Wind EDB; provincial statistical bureaus,651,31,31,2003,2023
+coal_mining_assets_10k_cny,Coal mining and washing industry assets,"CNY 10,000",Wind EDB; provincial statistical bureaus,465,26,31,2000,2023
+industrial_assets_10k_cny,Industrial enterprise assets,"CNY 10,000",Wind EDB; provincial statistical bureaus,644,30,31,2000,2023
+state_owned_industrial_assets_10k_cny,State-controlled industrial enterprise assets,"CNY 10,000",Wind EDB; provincial statistical bureaus,628,31,31,2000,2023
+resource_tax_revenue_10k_cny,Resource tax revenue,"CNY 10,000",Wind EDB; provincial statistical bureaus,705,31,31,2000,2023
+mining_tax_revenue_10k_cny,Mining-sector tax revenue,"CNY 10,000",Wind EDB; State Taxation Administration,434,31,31,2010,2023
+public_budget_revenue_10k_cny,General public budget revenue,"CNY 10,000",Wind EDB; provincial statistical bureaus,698,31,31,2000,2023
+mining_employment_share,Mining employment / urban non-private employment,ratio,Constructed,650,31,31,2003,2023
+coal_mining_asset_share,Coal mining assets / industrial assets,ratio,Constructed,433,25,31,2005,2023
+resource_tax_share,Resource tax revenue / general public budget revenue,ratio,Constructed,674,30,31,2000,2023
+mining_tax_gdp_ratio,Mining-sector tax revenue / provincial GDP,ratio,Constructed,434,31,31,2010,2023
+state_owned_industrial_asset_share,State-controlled industrial assets / industrial assets,ratio,Constructed,575,30,31,2000,2023
+pre_mining_employment_share_0811,2008-2011 mean mining employment share,ratio,Constructed,744,31,31,2000,2023
+pre_coal_mining_asset_share_0811,2008-2011 mean coal mining asset share,ratio,Constructed,600,25,31,2000,2023
+pre_resource_tax_share_0811,2008-2011 mean resource tax share,ratio,Constructed,672,28,31,2000,2023
+pre_state_owned_industrial_asset_share_0811,2008-2011 mean state-controlled industrial asset share,ratio,Constructed,720,30,31,2000,2023
+resdep_soe_z,Standardized pre-policy state-controlled industrial asset share,z-score,Constructed; institutional lock-in dimension,720,30,31,2000,2023
+post_resdep_soe_z,Post-2012 x standardized state-controlled industrial asset share,interaction,Constructed,720,30,31,2000,2023
+coalexp_resdep_soe_z,Coal exposure x standardized state-controlled industrial asset share,interaction,Constructed; absorbed by province fixed effects,696,29,31,2000,2023
+ddd_resdep_soe_z,Post-2012 x coal exposure x standardized state-controlled industrial asset share,interaction,Constructed,696,29,31,2000,2023
+pre_mining_tax_gdp_ratio_1011,2010-2011 mean mining-sector tax revenue / GDP,ratio,Constructed; fiscal dependence dimension,744,31,31,2000,2023
+resdep_fisc_z,Standardized pre-policy mining-sector tax revenue / GDP,z-score,Constructed; fiscal dependence dimension,744,31,31,2000,2023
+post_resdep_fisc_z,Post-2012 x standardized fiscal dependence,interaction,Constructed,744,31,31,2000,2023
+coalexp_resdep_fisc_z,Coal exposure x standardized fiscal dependence,interaction,Constructed; absorbed by province fixed effects,720,30,31,2000,2023
+ddd_resdep_fisc_z,Post-2012 x coal exposure x standardized fiscal dependence,interaction,Constructed,720,30,31,2000,2023
+power_output_jan_nov_10k_kwh,"Interprovincial power output, January-November cumulative","10,000 kWh",Wind EDB,277,31,31,2015,2023
+wind_utilization_hours,Annual average utilization hours of wind-power equipment,hours,Wind EDB,186,31,31,2018,2023
+solar_utilization_hours_jan_nov,"Solar-power average utilization hours, January-November cumulative",hours,Wind EDB,186,31,31,2018,2023
+wind_utilization_rate,Actual wind-power utilization rate,ratio,National Energy Administration annual monitoring report,124,31,31,2020,2023
+wind_curtailment_rate,One minus actual wind-power utilization rate,ratio,Constructed from National Energy Administration data,124,31,31,2020,2023
+solar_utilization_rate,Actual solar-power utilization rate,ratio,National Energy Administration annual monitoring report,124,31,31,2020,2023
+solar_curtailment_rate,One minus actual solar-power utilization rate,ratio,Constructed from National Energy Administration data,124,31,31,2020,2023
+early_power_export_ratio_2015_approx,2015 Jan-Nov power output / 2015 annual power generation,approximate ratio,Constructed; reporting windows differ,720,30,31,2000,2023
+grid_export_pre16_z,Standardized early power-export proxy,z-score,Constructed; supplementary infrastructure condition,720,30,31,2000,2023
+post16_grid_export_z,Post-2016 x standardized early power-export proxy,interaction,Constructed,720,30,31,2000,2023
+coalexp_grid_export_z,Coal exposure x standardized early power-export proxy,interaction,Constructed; absorbed by province fixed effects,696,29,31,2000,2023
+ddd_grid_export16_z,Post-2016 x coal exposure x standardized early power-export proxy,interaction,Constructed,696,29,31,2000,2023
+resource_dependence_index_pre0811,Mean standardized pre-policy resource-dependence components; at least two required,z-score mean,Constructed,720,30,31,2000,2023
+resdep_pre,Stata-safe alias of resource_dependence_index_pre0811,z-score mean,Constructed,720,30,31,2000,2023
+post2012_x_resource_dependence,Post-2012 indicator x pre-policy resource-dependence index,interaction,Constructed,720,30,31,2000,2023
+post_resdep,Stata-safe alias of post2012_x_resource_dependence,interaction,Constructed,720,30,31,2000,2023
+coalexp_x_resource_dependence,Pre-policy coal exposure x pre-policy resource-dependence index,interaction,Constructed; absorbed by province fixed effects,696,29,31,2000,2023
+coalexp_resdep,Stata-safe alias of coalexp_x_resource_dependence,interaction,Constructed; absorbed by province fixed effects,696,29,31,2000,2023
+post2012_x_coalexp_x_resource_dependence,Post-2012 x pre-policy coal exposure x pre-policy resource-dependence index,interaction,Constructed,696,29,31,2000,2023
+ddd_resdep,Stata-safe alias of post2012_x_coalexp_x_resource_dependence,interaction,Constructed,696,29,31,2000,2023
+gfr_pilot2017_prov,Province containing a first-batch 2017 green-finance reform and innovation pilot zone,0/1,2017 State Council first-batch list,744,31,31,2000,2023
+gfr_did2017,First-batch pilot province x post-2017,0/1,Constructed,744,31,31,2000,2023
+gfr_ddd_resdep,First-batch pilot province x post-2017 x pre-policy resource dependence,interaction,Constructed,720,30,31,2000,2023

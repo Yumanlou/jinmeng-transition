@@ -1,0 +1,9 @@
+	ln_co2	gtfp_level	gml_index	industrial_so2
+VARIABLES	ln_co2	gtfp_level	gml_index	industrial_so2
+did	0.0578	1.2601***	0.1861***	-35.3251***
+	(0.0427)	(0.2172)	(0.0174)	(6.2098)
+ddd	-0.0823***	-0.0917	-0.1095***	20.2417***
+	(0.0276)	(0.1766)	(0.0163)	(5.0397)
+Province FE	YES	YES	YES	YES
+Year FE	YES	YES	YES	YES
+Cluster	province_id	province_id	province_id	province_id

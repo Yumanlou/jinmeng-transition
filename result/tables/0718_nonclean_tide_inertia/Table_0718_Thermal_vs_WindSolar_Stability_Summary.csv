@@ -1,0 +1,2 @@
+period,provinces,mean_thermal_absolute_residual,mean_windsolar_absolute_residual,windsolar_minus_thermal_mean,province_bootstrap_ci_2_5,province_bootstrap_ci_97_5,provinces_windsolar_more_volatile
+2018-2023,31,0.05823052890574983,0.0838142163669287,0.025583687461178863,0.009342154920530303,0.04042792898403087,24

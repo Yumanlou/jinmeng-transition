@@ -1,0 +1,13 @@
+block,outcome,term,b,se,p,N,r2
+monthly_stability,windsolar_minus_thermal_cv,mean_difference,.1359960311619331,.014294409,2.0189007e-10,327,.19108696
+monthly_stability,allsrc_month_cv,L.thermal_generation_share,-.0742767846077225,.068210281,.2848517,524,.57676244
+renewable_absorption,re_cons_sh,post16_pretherm_z,.030571204797718,.011142989,.010157877,279,.97528803
+renewable_absorption,re_cons_sh,post16_endow,-.0145419332702662,.010265256,.16689597,279,.97528803
+renewable_absorption,re_cons_sh,ddd_pretherm_endow,-.0124742224819547,.0061052525,.049903009,279,.97528803
+renewable_absorption,nonhydro_re_cons_sh,post16_pretherm_z,-.0006794823692283,.0048988215,.89061159,279,.93527615
+renewable_absorption,nonhydro_re_cons_sh,post16_endow,-.0114055366951918,.0082334327,.17618421,279,.93527615
+renewable_absorption,nonhydro_re_cons_sh,ddd_pretherm_endow,-.0093503581262348,.0041141035,.030369213,279,.93527615
+coal_reliability,coal_unit_operating_factor,pretherm_gen_z,.0539953820961639,.020471243,.013281679,180,.35915878
+coal_reliability,coal_unit_operating_factor,natural_wind_solar_endowment,.0092609308750131,.028000714,.74321938,180,.35915878
+coal_reliability,coal_unit_standby_factor,pretherm_gen_z,-.0538008472623889,.020726448,.01465993,180,.35869861
+coal_reliability,coal_unit_standby_factor,natural_wind_solar_endowment,-.0057629737594073,.028330212,.84022629,180,.35869861

@@ -1,0 +1,354 @@
+[
+  {
+    "meta": {
+      "code": "B5697842",
+      "enName": "China: Zhejiang: Hangzhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:杭州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "P0442576",
+      "enName": "China: Zhejiang: Hangzhou: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:杭州:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "A2597746",
+      "enName": "China: Zhejiang: Ningbo: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:宁波:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "Z0533087",
+      "enName": "China: Zhejiang: Ningbo: No. of Employed Persons: Urban Units",
+      "name": "浙江:宁波:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "R0323818",
+      "enName": "China: Zhejiang: Wenzhou: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:温州:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "U0247684",
+      "enName": "China: Zhejiang: Wenzhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:温州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "T0086241",
+      "enName": "China: Zhejiang: Jiaxing: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:嘉兴:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "W6009561",
+      "enName": "China: Zhejiang: Jiaxing: No. of Employed Persons: Urban Units",
+      "name": "浙江:嘉兴:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "J2162554",
+      "enName": "China: Zhejiang: Huzhou: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:湖州:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "N4106193",
+      "enName": "China: Zhejiang: Huzhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:湖州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "U0688402",
+      "enName": "China: Zhejiang: Shaoxing: No. of Employed Persons: Urban Units",
+      "name": "浙江:绍兴:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "U6970975",
+      "enName": "China: Zhejiang: Shaoxing: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:绍兴:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "R2210108",
+      "enName": "China: Zhejiang: Quzhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:衢州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "T2578659",
+      "enName": "China: Zhejiang: Quzhou: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:衢州:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "D7801846",
+      "enName": "China: Zhejiang: Jinhua: No. of Employed Persons: Urban Units",
+      "name": "浙江:金华:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "J0935021",
+      "enName": "China: Zhejiang: Jinhua: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:金华:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "Y2376698",
+      "enName": "China: Zhejiang: Lishui: No. of Employed Persons: Urban Units",
+      "name": "浙江:丽水:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "R5999323",
+      "enName": "China: Zhejiang: Lishui: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:丽水:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "O7529759",
+      "enName": "China: Zhejiang: Taizhou: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:台州:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "L1515516",
+      "enName": "China: Zhejiang: Taizhou: No. of Employed Persons: Urban Units",
+      "name": "浙江:台州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "A7171024",
+      "enName": "China: Zhejiang: Zhoushan: Number of Employees: Urban Non Private Sector",
+      "name": "浙江:舟山:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240604"
+    }
+  },
+  {
+    "meta": {
+      "code": "T8585044",
+      "enName": "China: Zhejiang: Zhoushan: No. of Employed Persons: Urban Units",
+      "name": "浙江:舟山:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "provider": "Wind Financial Data Service",
+  "green_loan_query": "工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行2012年至2022年各年绿色贷款余额",
+  "total_loan_query": "工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行2012年至2022年各年客户贷款总额",
+  "green_loan_rows": 62,
+  "total_loan_rows": 66,
+  "complete_core_banks": [
+    "工商银行",
+    "农业银行",
+    "中国银行",
+    "建设银行",
+    "交通银行"
+  ],
+  "complete_years": [
+    2012,
+    2022
+  ],
+  "post_bank_missing_green_loan_years": [
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "intended_use": "Bank-year shock component for a bank-network shift-share IV",
+  "missing_component": "Province-by-bank pre-policy branch or loan shares around 2011"
+}

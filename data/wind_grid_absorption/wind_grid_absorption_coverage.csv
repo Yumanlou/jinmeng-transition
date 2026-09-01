@@ -1,0 +1,4 @@
+﻿series_type,variable,reference_month,series_count,covered_provinces,annual_observations,first_year,last_year
+power_output,power_output_jan_nov_10k_kwh,11,31,31,277,2015,2023
+wind_utilization_hours,wind_utilization_hours,12,31,31,186,2018,2023
+solar_utilization_hours,solar_utilization_hours_jan_nov,11,31,31,186,2018,2023

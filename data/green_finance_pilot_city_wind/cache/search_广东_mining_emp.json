@@ -1,0 +1,334 @@
+[
+  {
+    "meta": {
+      "code": "H2346540",
+      "enName": "China: Guangdong: Jiangmen: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:江门:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "A0711432",
+      "enName": "China: Guangdong: Zhanjiang: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:湛江:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "N7729345",
+      "enName": "China: Guangdong: Zhaoqing: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:肇庆:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "R0068118",
+      "enName": "China: Guangdong: Huizhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:惠州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "P5700673",
+      "enName": "China: Guangdong: Meizhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:梅州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "R4681375",
+      "enName": "China: Guangdong: Shanwei: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:汕尾:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "J4474507",
+      "enName": "China: Guangdong: Shaoguan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:韶关:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "B6472617",
+      "enName": "China: Guangdong: Guangzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:广州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "R8667297",
+      "enName": "China: Guangzhou: No. of Employed Persons: Urban Non-private Units: Mining",
+      "name": "广州:就业人员数:城镇非私营单位:采矿业",
+      "enSource": "Guangzhou Municipal Bureau of Statistics",
+      "source": "广州市统计局",
+      "enUnit": "person",
+      "unit": "人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20240531"
+    }
+  },
+  {
+    "meta": {
+      "code": "O3714404",
+      "enName": "China: Guangdong: Zhuhai: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:珠海:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "U3511483",
+      "enName": "China: Guangdong: Foshan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:佛山:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "V1073652",
+      "enName": "China: Guangdong: Yangjiang: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:阳江:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "A3180786",
+      "enName": "China: Guangdong: Qingyuan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:清远:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "Q1687303",
+      "enName": "China: Guangdong: Qingyuan City: No. of Employed Persons: Urban Non-private Units: Mining",
+      "name": "广东:清远:就业人员数:城镇非私营单位:采矿业",
+      "enSource": "Qingyuan Municipal Bureau of Statistics",
+      "source": "清远市统计局",
+      "enUnit": "person",
+      "unit": "人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20240918"
+    }
+  },
+  {
+    "meta": {
+      "code": "Q9558373",
+      "enName": "China: Guangdong: Dongguan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:东莞:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "B3669186",
+      "enName": "China: Guangdong: Chaozhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:潮州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "R1107461",
+      "enName": "China: Guangdong: Jieyang: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:揭阳:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "C5775102",
+      "enName": "China: Guangdong: Yunfu: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:云浮:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "Z5582485",
+      "enName": "China: Guangdong: Heyuan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:河源:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "O9308928",
+      "enName": "China: Guangdong: Shenzhen: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:深圳:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "Q5802327",
+      "enName": "China: Guangdong: Shantou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:汕头:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+﻿variable,chinese_name,unit,definition_and_boundary
+wind_resource_cf_0110,风能资源容量因子,ratio,2001-2010年省级陆上风电平均容量因子；先天资源质量
+wind_technical_capacity_gw_lower,风电技术潜在装机,GW,文献下限情景；受省域面积影响，不作为主禀赋质量指标
+wind_technical_output_twh_lower,风电技术潜在发电量,TWh,文献下限情景；受省域面积影响
+solar_resource_cf_0110,太阳能资源容量因子,ratio,2001-2010年固定式光伏省级平均容量因子；先天资源质量
+solar_technical_capacity_gw_lower,光伏技术潜在装机,GW,文献下限情景；受省域面积影响
+solar_technical_output_twh_lower,光伏技术潜在发电量,TWh,文献下限情景；受省域面积影响
+wind_resource_cf_z,标准化风能资源禀赋,z-score,风能容量因子跨省标准化
+solar_resource_cf_z,标准化太阳能资源禀赋,z-score,太阳能容量因子跨省标准化
+natural_wind_solar_endowment,风光自然禀赋指数,z-score mean,风能与太阳能容量因子z值均值；稳健性综合指标
+clean_generation_billion_kwh,风光发电量,billion kWh,风电与光伏发电量合计；物理产出
+clean_generation_component_n,风光发电分项覆盖数,count,风电、光伏两个分项中当年可用的数量
+clean_generation_share_recalc,风光发电占比,ratio,风光发电量/总发电量
+clean_generation_lq,清洁电力发电区位商,ratio,本省风光发电占比/全国风光发电占比；显性专业化
+clean_generation_kwh_per_cny_gdp,清洁电力产出强度,kWh/CNY GDP,风光发电量/GDP；不是清洁能源增加值
+clean_capacity_10k_kw,风光装机容量,"10,000 kW",风电与光伏装机合计
+clean_capacity_component_n,风光装机分项覆盖数,count,风电、光伏两个分项中当年可用的数量
+clean_capacity_share_recalc,风光装机占比,ratio,风光装机/总装机
+clean_capacity_lq,清洁电力装机区位商,ratio,本省风光装机占比/全国风光装机占比
+clean_capacity_addition_10k_kw,风光新增装机,"10,000 kW",风电与光伏装机存量差分合计；负差分按口径断点置缺失
+clean_capacity_addition_component_n,新增装机分项覆盖数,count,风电、光伏两个存量差分中当年可用的数量
+clean_capacity_addition_per_gdp,风光新增装机强度,"10,000 kW per 100m CNY GDP",新增装机/GDP；不是货币投资额
+clean_capacity_addition_data_break_flag,新增装机口径断点标记,binary,任一风电或光伏装机存量差分为负时取1
+pre_clean_generation_lq_0811,政策前清洁电力专业化,ratio,2008-2011年清洁电力发电区位商均值；覆盖不足，仅用于缺口审计
+pre_clean_generation_lq_0811_n,政策前专业化有效年份,count,2008-2011年清洁电力发电区位商有效年份数
+early_clean_generation_lq_1316,早期清洁电力专业化,ratio,2013-2016年清洁电力发电区位商均值；属于政策后早期实现基础
+early_clean_generation_lq_1316_n,早期专业化有效年份,count,2013-2016年清洁电力发电区位商有效年份数

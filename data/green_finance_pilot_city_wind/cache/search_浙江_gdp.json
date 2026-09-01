@@ -1,0 +1,200 @@
+[
+  {
+    "meta": {
+      "code": "M0027021",
+      "enName": "China: Zhejiang: Hangzhou City: GDP",
+      "name": "浙江:杭州:GDP",
+      "enSource": "National Bureau of Statistics of China",
+      "source": "国家统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260129"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058218",
+      "enName": "China: Zhejiang: Shaoxing City: GDP",
+      "name": "浙江:绍兴:GDP",
+      "enSource": "Zhejiang Provincial Bureau of Statistics",
+      "source": "浙江省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260203"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058222",
+      "enName": "China: Zhejiang: Taizhou City: GDP",
+      "name": "浙江:台州:GDP",
+      "enSource": "Zhejiang Provincial Bureau of Statistics",
+      "source": "浙江省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260203"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058216",
+      "enName": "China: Zhejiang: Jiaxing City: GDP",
+      "name": "浙江:嘉兴:GDP",
+      "enSource": "Zhejiang Provincial Bureau of Statistics",
+      "source": "浙江省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260209"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058219",
+      "enName": "China: Zhejiang: Jinhua City: GDP",
+      "name": "浙江:金华:GDP",
+      "enSource": "Zhejiang Provincial Bureau of Statistics",
+      "source": "浙江省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260128"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058215",
+      "enName": "China: Zhejiang: Wenzhou City: GDP",
+      "name": "浙江:温州:GDP",
+      "enSource": "Zhejiang Provincial Bureau of Statistics",
+      "source": "浙江省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260127"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058217",
+      "enName": "China: Zhejiang: Huzhou City: GDP",
+      "name": "浙江:湖州:GDP",
+      "enSource": "Zhejiang Provincial Bureau of Statistics",
+      "source": "浙江省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260209"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058221",
+      "enName": "China: Zhejiang: Zhoushan City: GDP",
+      "name": "浙江:舟山:GDP",
+      "enSource": "Zhejiang Provincial Bureau of Statistics",
+      "source": "浙江省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260128"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058220",
+      "enName": "China: Zhejiang: Quzhou City: GDP",
+      "name": "浙江:衢州:GDP",
+      "enSource": "Zhejiang Provincial Bureau of Statistics",
+      "source": "浙江省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260202"
+    }
+  },
+  {
+    "meta": {
+      "code": "M0058223",
+      "enName": "China: Zhejiang: Lishui City: GDP",
+      "name": "浙江:丽水:GDP",
+      "enSource": "Zhejiang Provincial Bureau of Statistics",
+      "source": "浙江省统计局",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260209"
+    }
+  },
+  {
+    "meta": {
+      "code": "L5494133",
+      "enName": "China: Zhejiang: Ningbo: GDP",
+      "name": "浙江:宁波:GDP",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "CNY 100mn",
+      "unit": "亿元",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "100mn ",
+      "magnitude": "亿",
+      "enCurrency": "人民币",
+      "currency": "人民币",
+      "updateDate": "20260319"
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "meta": {
+      "code": "O9211532",
+      "enName": "China: Zhejiang: Jinhua: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:金华:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.03,
+      0.01,
+      0.01,
+      0.02
+    ]
+  },
+  {
+    "meta": {
+      "code": "V5773309",
+      "enName": "China: Zhejiang: Huzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:湖州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.11,
+      0.11,
+      0.08,
+      0.09
+    ]
+  },
+  {
+    "meta": {
+      "code": "K4387878",
+      "enName": "China: Zhejiang: Wenzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:温州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.06,
+      0.05,
+      0.01,
+      0.04
+    ]
+  },
+  {
+    "meta": {
+      "code": "D8801958",
+      "enName": "China: Zhejiang: Shaoxing: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:绍兴:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.18,
+      0.17,
+      0.15,
+      0.06
+    ]
+  },
+  {
+    "meta": {
+      "code": "A9930590",
+      "enName": "China: Zhejiang: Quzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:衢州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.02,
+      0.03,
+      0.03,
+      0.03
+    ]
+  },
+  {
+    "meta": {
+      "code": "N0982931",
+      "enName": "China: Zhejiang: Zhoushan: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:舟山:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.11,
+      0.03,
+      0.03,
+      0.03
+    ]
+  },
+  {
+    "meta": {
+      "code": "U2213872",
+      "enName": "China: Zhejiang: Taizhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:台州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.01,
+      0.01,
+      0.01,
+      0.02
+    ]
+  },
+  {
+    "meta": {
+      "code": "L9980903",
+      "enName": "China: Zhejiang: Ningbo: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:宁波:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20191231"
+    ],
+    "value": [
+      0.1,
+      0.0
+    ]
+  },
+  {
+    "meta": {
+      "code": "P3962771",
+      "enName": "China: Zhejiang: Lishui: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:丽水:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.03,
+      0.02,
+      0.04,
+      0.04
+    ]
+  },
+  {
+    "meta": {
+      "code": "Y9060563",
+      "enName": "China: Zhejiang: Hangzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:杭州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.1,
+      0.06,
+      0.07,
+      0.12
+    ]
+  },
+  {
+    "meta": {
+      "code": "H2346540",
+      "enName": "China: Guangdong: Jiangmen: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:江门:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ]
+  },
+  {
+    "meta": {
+      "code": "A0711432",
+      "enName": "China: Guangdong: Zhanjiang: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:湛江:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.59,
+      0.41,
+      0.64,
+      0.34
+    ]
+  },
+  {
+    "meta": {
+      "code": "N7729345",
+      "enName": "China: Guangdong: Zhaoqing: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:肇庆:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.16,
+      0.13,
+      0.13,
+      0.13
+    ]
+  },
+  {
+    "meta": {
+      "code": "R0068118",
+      "enName": "China: Guangdong: Huizhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:惠州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.04,
+      0.02,
+      0.0,
+      0.02
+    ]
+  },
+  {
+    "meta": {
+      "code": "P5700673",
+      "enName": "China: Guangdong: Meizhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:梅州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.1,
+      0.1,
+      0.09,
+      0.08
+    ]
+  },
+  {
+    "meta": {
+      "code": "R4681375",
+      "enName": "China: Guangdong: Shanwei: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:汕尾:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231"
+    ],
+    "value": [
+      0.03,
+      0.03,
+      0.03
+    ]
+  },
+  {
+    "meta": {
+      "code": "J4474507",
+      "enName": "China: Guangdong: Shaoguan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:韶关:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.63,
+      0.42,
+      0.42,
+      0.39
+    ]
+  },
+  {
+    "meta": {
+      "code": "B6472617",
+      "enName": "China: Guangdong: Guangzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:广州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20191231"
+    ],
+    "value": [
+      0.01
+    ]
+  },
+  {
+    "meta": {
+      "code": "R8667297",
+      "enName": "China: Guangzhou: No. of Employed Persons: Urban Non-private Units: Mining",
+      "name": "广州:就业人员数:城镇非私营单位:采矿业",
+      "enSource": "Guangzhou Municipal Bureau of Statistics",
+      "source": "广州市统计局",
+      "enUnit": "person",
+      "unit": "人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20240531"
+    },
+    "date": [
+      "20131231",
+      "20181231",
+      "20191231",
+      "20201231",
+      "20211231",
+      "20221231"
+    ],
+    "value": [
+      181.0,
+      1.0,
+      117.0,
+      31.0,
+      108.0,
+      114.0
+    ]
+  },
+  {
+    "meta": {
+      "code": "O3714404",
+      "enName": "China: Guangdong: Zhuhai: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:珠海:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.03,
+      0.03,
+      0.03,
+      0.02
+    ]
+  }
+]

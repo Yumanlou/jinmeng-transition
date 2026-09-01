@@ -1,0 +1,9 @@
+(1)	(2)	(3)	(5)	(7)	(9)
+VARIABLES	coal_share_pctg	ln_co2	gtfp_level	gml_index	industrial_so2
+did	0.0585***	0.0578	1.2601***	0.1861***	-35.3251***
+ddd	-0.0659***	-0.0823***	-0.0917	-0.1095***	20.2417***
+Observations	480	527	510	510	510
+R-squared	0.9344	0.9925	0.7418	0.2651	0.8757
+Province FE	YES	YES	YES	YES	YES
+Year FE	YES	YES	YES	YES	YES
+Cluster	province_id	province_id	province_id	province_id	province_id

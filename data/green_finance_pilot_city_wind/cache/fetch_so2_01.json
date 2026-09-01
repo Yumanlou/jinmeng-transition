@@ -1,0 +1,46 @@
+[
+  {
+    "meta": {
+      "code": "V2563025",
+      "enName": "China: Guangdong: Zhuhai: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:珠海:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    },
+    "date": [
+      "20051231",
+      "20191231"
+    ],
+    "value": [
+      38000.0,
+      1904.01
+    ]
+  },
+  {
+    "meta": {
+      "code": "R3301066",
+      "enName": "China: Guangdong: Shantou: Discharged Volume of Sulphur Dioxide",
+      "name": "广东:汕头:二氧化硫排放量",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "ton",
+      "unit": "吨",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20230110"
+    },
+    "date": [
+      "20051231",
+      "20191231"
+    ],
+    "value": [
+      27000.0,
+      3383.21
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "meta": {
+      "code": "O9211532",
+      "enName": "China: Zhejiang: Jinhua: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:金华:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "V5773309",
+      "enName": "China: Zhejiang: Huzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:湖州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "K4387878",
+      "enName": "China: Zhejiang: Wenzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:温州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "D8801958",
+      "enName": "China: Zhejiang: Shaoxing: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:绍兴:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "A9930590",
+      "enName": "China: Zhejiang: Quzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:衢州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "N0982931",
+      "enName": "China: Zhejiang: Zhoushan: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:舟山:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "U2213872",
+      "enName": "China: Zhejiang: Taizhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:台州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "L9980903",
+      "enName": "China: Zhejiang: Ningbo: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:宁波:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "P3962771",
+      "enName": "China: Zhejiang: Lishui: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:丽水:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "Y9060563",
+      "enName": "China: Zhejiang: Hangzhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "浙江:杭州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  }
+]

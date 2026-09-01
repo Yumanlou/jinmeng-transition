@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"data\": {\"code\": 0, \"message\": \"OK\", \"data\": [{\"meta\": {\"code\": \"S5132648\", \"enName\": \"China: Shandong: Power Input\", \"name\": \"中国:山东:输入电量\", \"enSource\": \"Wind\", \"source\": \"Wind\", \"enUnit\": \"10000 kwh\", \"unit\": \"万千瓦时\", \"enFreq\": \"month\", \"freq\": \"月\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20260702\"}}, {\"meta\": {\"code\": \"U9892501\", \"enName\": \"China: Shandong: Total Primary Energy Supply: Sending Out to Other Provinces: Physical Quantity: Electricity\", \"name\": \"中国:山东:可供本地区消费的能源量:本省(区、市)调出量:实物量:电力\", \"enSource\": \"China Energy Statistical Yearbook\", \"source\": \"中国能源统计年鉴\", \"enUnit\": \"100 million kwh\", \"unit\": \"亿千瓦时\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"100bn \", \"magnitude\": \"千亿\", \"updateDate\": \"20240430\"}}, {\"meta\": {\"code\": \"D7399470\", \"enName\": \"China: Shandong: Total Available Coal Consumption: Transferred-in from Other Provinces (Autonomous Regions, Municipalities)\", \"name\": \"山东:可供消费的煤炭总量:外省(区、市)调入量\", \"enSource\": \"Statistics Bureau of Shandong Province\", \"source\": \"山东省统计局\", \"enUnit\": \"10000 tons\", \"unit\": \"万吨\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10k \", \"magnitude\": \"万\", \"updateDate\": \"20260224\"}}]}, \"error\": null}"
+    }
+  ],
+  "isError": false
+}

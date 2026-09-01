@@ -1,0 +1,1560 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/val87ed8",
+    "id": "val87ed8",
+    "slide": 5,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Two Content",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 540
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Arial",
+        "complexScriptTypeface": "Arial"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Arial",
+        "complexScriptTypeface": "Arial"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "微软雅黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Two Content",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Holder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/3",
+          "id": "3",
+          "name": "Holder 3",
+          "bbox": [
+            48,
+            124.2,
+            417.6,
+            356.4
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "Holder 4",
+          "bbox": [
+            494.4,
+            124.2,
+            417.6,
+            356.4
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "Holder 5",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/6",
+          "id": "6",
+          "name": "Holder 6",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/7",
+          "id": "7",
+          "name": "Holder 7",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "bg1",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Holder 2",
+          "bbox": [
+            47.43,
+            54.78,
+            865.13,
+            24
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Holder 3",
+          "bbox": [
+            32.79,
+            141.44,
+            894.43,
+            291.87
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Holder 4",
+          "bbox": [
+            326.4,
+            502.2,
+            307.2,
+            27
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Holder 5",
+          "bbox": [
+            48,
+            502.2,
+            220.8,
+            27
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Holder 6",
+          "bbox": [
+            691.2,
+            502.2,
+            220.8,
+            27
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4nap4r6",
+      "id": "9",
+      "name": "object 9",
+      "bbox": [
+        71.84,
+        126.4,
+        249.6,
+        40.8
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#001F5F"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1w7mp0bi",
+      "id": "10",
+      "name": "object 10",
+      "bbox": [
+        505.81,
+        177.07,
+        370.74,
+        131.73
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image.png",
+        "contentType": "image/png",
+        "byteLength": 12172
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "11",
+      "name": "object 11",
+      "bbox": [
+        513.42,
+        324.24,
+        363.13,
+        131.41
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image2.png",
+        "contentType": "image/png",
+        "byteLength": 12747
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "12",
+      "name": "object 12",
+      "bbox": [
+        579.02,
+        232.02,
+        249.33,
+        14.67
+      ],
+      "geometry": "rect",
+      "text": "模型结论",
+      "textPreview": "模型结论",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "模型结论"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "模型结论",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 100000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "模型结论",
+              "fontSize": 12,
+              "typeface": "微软雅黑",
+              "color": "#404040"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "13",
+      "name": "object 13",
+      "bbox": [
+        579.02,
+        253.62,
+        249.33,
+        43.2
+      ],
+      "geometry": "rect",
+      "text": "三重交互为负且显著，不支持低碳基础自动放大新能源替代。",
+      "textPreview": "三重交互为负且显著，不支持低碳基础自动放大新能源替代。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三重交互为负且显著，不支持低碳基础自动放"
+          },
+          {
+            "index": 2,
+            "text": "大新能源替代。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三重交互为负且显著，不支持低碳基础自动放大新能源替代。",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "三重交互为负且显著，不支持低碳基础自动放大新能源替代。",
+              "fontSize": 12,
+              "typeface": "微软雅黑",
+              "color": "#404040"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "14",
+      "name": "object 14",
+      "bbox": [
+        581.12,
+        378.87,
+        249.33,
+        14.53
+      ],
+      "geometry": "rect",
+      "text": "案例补充",
+      "textPreview": "案例补充",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "案例补充"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "案例补充",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 100000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "案例补充",
+              "fontSize": 12,
+              "typeface": "微软雅黑",
+              "color": "#404040"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "15",
+      "name": "object 15",
+      "bbox": [
+        581.12,
+        400.47,
+        249.33,
+        43.2
+      ],
+      "geometry": "rect",
+      "text": "晋蒙文本反映政策注意力和后验承接表现，不承担全国因果识别。",
+      "textPreview": "晋蒙文本反映政策注意力和后验承接表现，不承担全国因果识别。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "晋蒙文本反映政策注意力和后验承接表现，不"
+          },
+          {
+            "index": 2,
+            "text": "承担全国因果识别。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "晋蒙文本反映政策注意力和后验承接表现，不承担全国因果识别。",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "晋蒙文本反映政策注意力和后验承接表现，不承担全国因果识别。",
+              "fontSize": 12,
+              "typeface": "微软雅黑",
+              "color": "#404040"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2t83itg",
+      "id": "16",
+      "name": "object 16",
+      "bbox": [
+        152.18,
+        137.17,
+        77.4,
+        22.4
+      ],
+      "geometry": "rect",
+      "text": "条件路径",
+      "textPreview": "条件路径",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "条件路径"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "条件路径",
+          "marginLeft": 12700,
+          "lineSpacingPercent": 100000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "条件路径",
+              "fontSize": 18.67,
+              "typeface": "微软雅黑",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh0fepkz",
+      "id": "17",
+      "name": "object 17",
+      "bbox": [
+        22.9,
+        18.22,
+        15.79,
+        75.75
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image3.png",
+        "contentType": "image/png",
+        "byteLength": 1132
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "21",
+      "name": "object 21",
+      "bbox": [
+        752.16,
+        0,
+        207.87,
+        156.6
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#091F5F"
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "22",
+      "name": "object 22",
+      "bbox": [
+        706.88,
+        27.07,
+        92.27,
+        92.33
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#091F5F"
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/fyxobm58",
+      "id": "28",
+      "name": "图片 23",
+      "bbox": [
+        779.98,
+        41.54,
+        155.8,
+        35.66
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image4.png",
+        "contentType": "image/png",
+        "byteLength": 7318
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image4.png",
+        "contentType": "image/png",
+        "byteLength": 7318
+      }
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "26",
+      "name": "object 3",
+      "bbox": [
+        44.53,
+        32.4,
+        204.73,
+        16.13
+      ],
+      "geometry": "rect",
+      "text": "EMPIRICAL RESULTS  /  04",
+      "textPreview": "EMPIRICAL RESULTS  /  04",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "Calibri",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "EMPIRICAL RESULTS  /  04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "EMPIRICAL RESULTS  /  04",
+          "marginLeft": 12700,
+          "runs": [
+            {
+              "index": 1,
+              "text": "EMPIRICAL RESULTS  /  04",
+              "fontSize": 14,
+              "typeface": "微软雅黑"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "27",
+      "name": "object 4",
+      "bbox": [
+        44.53,
+        49.2,
+        204.73,
+        57.47
+      ],
+      "geometry": "rect",
+      "text": "承接条件：低碳禀赋并非充分条件",
+      "textPreview": "承接条件：低碳禀赋并非充分条件",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 24,
+        "typeface": "微软雅黑",
+        "color": "#404040",
+        "bold": true,
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "承接条件：低碳禀"
+          },
+          {
+            "index": 2,
+            "text": "赋并非充分条件"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "承接条件：低碳禀赋并非充分条件",
+          "marginLeft": 12700,
+          "runs": [
+            {
+              "index": 1,
+              "text": "承接条件：低碳禀赋并非充分条件"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "23",
+      "name": "object 5",
+      "bbox": [
+        92,
+        453,
+        386,
+        57.6
+      ],
+      "geometry": "rect",
+      "text": "注：三重差分包含低阶交互项；政策文本仅刻画后验政策注意力。",
+      "textPreview": "注：三重差分包含低阶交互项；政策文本仅刻画后验政策注意力。",
+      "resolvedFontSize": 9.51,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 9.51,
+        "typeface": "微软雅黑",
+        "color": "#536273",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "注：三重差分包含低阶交互项；政策文本仅刻画后验政策注意力。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "注：三重差分包含低阶交互项；政策文本仅刻画后验政策注意力。",
+          "marginLeft": 12700,
+          "indent": 0,
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "注：三重差分包含低阶交互项；政策文本仅刻画后验政策注意力。",
+              "fontSize": 9.51,
+              "typeface": "微软雅黑",
+              "color": "#536273"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/ulwval87",
+      "id": "29",
+      "bbox": [
+        92,
+        205,
+        386,
+        102
+      ],
+      "text": "低碳禀赋检验 | 风电发电 | 风光发电\n后期低碳禀赋 | 0.0309 | 0.0908*\n三重交互 | -0.0927** | -0.2363**",
+      "textPreview": "低碳禀赋检验 | 风电发电 | 风光发电 | 后期低碳禀赋 | 0.0309 | 0.0908* | 三重交互 | -0.0927** | -0.2363**",
+      "rows": 3,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            92,
+            205,
+            164,
+            34
+          ],
+          "text": "低碳禀赋检验",
+          "textPreview": "低碳禀赋检验",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "低碳禀赋检验",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "低碳禀赋检验"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            256,
+            205,
+            111,
+            34
+          ],
+          "text": "风电发电",
+          "textPreview": "风电发电",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "风电发电",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "风电发电"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            367,
+            205,
+            111,
+            34
+          ],
+          "text": "风光发电",
+          "textPreview": "风光发电",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "风光发电",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "风光发电"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            92,
+            239,
+            164,
+            34
+          ],
+          "text": "后期低碳禀赋",
+          "textPreview": "后期低碳禀赋",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "后期低碳禀赋",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "后期低碳禀赋"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            256,
+            239,
+            111,
+            34
+          ],
+          "text": "0.0309",
+          "textPreview": "0.0309",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.0309",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.0309"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            367,
+            239,
+            111,
+            34
+          ],
+          "text": "0.0908*",
+          "textPreview": "0.0908*",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.0908*",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.0908*"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            92,
+            273,
+            164,
+            34
+          ],
+          "text": "三重交互",
+          "textPreview": "三重交互",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "三重交互",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "三重交互"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            256,
+            273,
+            111,
+            34
+          ],
+          "text": "-0.0927**",
+          "textPreview": "-0.0927**",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "-0.0927**",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "-0.0927**"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            367,
+            273,
+            111,
+            34
+          ],
+          "text": "-0.2363**",
+          "textPreview": "-0.2363**",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "-0.2363**",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "-0.2363**"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/4nap4r65",
+      "id": "30",
+      "bbox": [
+        92,
+        333,
+        386,
+        102
+      ],
+      "text": "晋蒙政策文本 | 词频 | 覆盖比例\n绿色金融 | 0.3062* | 0.0382**\n煤炭清洁治理 | 9.3511*** | 0.1361***",
+      "textPreview": "晋蒙政策文本 | 词频 | 覆盖比例 | 绿色金融 | 0.3062* | 0.0382** | 煤炭清洁治理 | 9.3511*** | 0.1361***",
+      "rows": 3,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            92,
+            333,
+            164,
+            34
+          ],
+          "text": "晋蒙政策文本",
+          "textPreview": "晋蒙政策文本",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "晋蒙政策文本",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "晋蒙政策文本"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            256,
+            333,
+            111,
+            34
+          ],
+          "text": "词频",
+          "textPreview": "词频",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "词频",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "词频"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            367,
+            333,
+            111,
+            34
+          ],
+          "text": "覆盖比例",
+          "textPreview": "覆盖比例",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "覆盖比例",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "覆盖比例"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            92,
+            367,
+            164,
+            34
+          ],
+          "text": "绿色金融",
+          "textPreview": "绿色金融",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "绿色金融",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "绿色金融"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            256,
+            367,
+            111,
+            34
+          ],
+          "text": "0.3062*",
+          "textPreview": "0.3062*",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.3062*",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.3062*"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            367,
+            367,
+            111,
+            34
+          ],
+          "text": "0.0382**",
+          "textPreview": "0.0382**",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.0382**",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.0382**"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            92,
+            401,
+            164,
+            34
+          ],
+          "text": "煤炭清洁治理",
+          "textPreview": "煤炭清洁治理",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "煤炭清洁治理",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "煤炭清洁治理"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            256,
+            401,
+            111,
+            34
+          ],
+          "text": "9.3511***",
+          "textPreview": "9.3511***",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9.3511***",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9.3511***"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            367,
+            401,
+            111,
+            34
+          ],
+          "text": "0.1361***",
+          "textPreview": "0.1361***",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.1361***",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.1361***"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

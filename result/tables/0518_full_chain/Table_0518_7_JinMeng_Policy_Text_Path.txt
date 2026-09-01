@@ -1,0 +1,17 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+VARIABLES	green_finance_per_10k_chars	green_finance_doc_share	coal_clean_per_10k_chars	coal_clean_doc_share	pollution_control_per_10k_chars	pollution_control_doc_share	renewable_per_10k_chars	renewable_doc_share
+								
+nmg_post2012	0.3062*	0.0382**	9.3511***	0.1361***	0.1263	0.0299	1.2466	0.0102
+	(0.1577)	(0.0145)	(2.4313)	(0.0398)	(0.7338)	(0.0203)	(1.6355)	(0.0167)
+Constant	0.2726***	0.0623***	5.4261***	0.1681***	1.7414***	0.1000***	2.0251***	0.0984***
+	(0.0602)	(0.0055)	(0.8777)	(0.0145)	(0.2658)	(0.0074)	(0.6299)	(0.0062)
+								
+Observations	44	44	44	44	44	44	44	44
+R-squared	0.6552	0.8581	0.8905	0.8585	0.6290	0.8402	0.6534	0.8879
+Design	Two-province text path	Two-province text path	Two-province text path	Two-province text path	Two-province text path	Two-province text path	Two-province text path	Two-province text path
+Interpretation	Inner Mongolia relative to Shanxi after 2012	Inner Mongolia relative to Shanxi after 2012	Inner Mongolia relative to Shanxi after 2012	Inner Mongolia relative to Shanxi after 2012	Inner Mongolia relative to Shanxi after 2012	Inner Mongolia relative to Shanxi after 2012	Inner Mongolia relative to Shanxi after 2012	Inner Mongolia relative to Shanxi after 2012
+Province FE	YES	YES	YES	YES	YES	YES	YES	YES
+Year FE	YES	YES	YES	YES	YES	YES	YES	YES
+Inference	Descriptive only	Descriptive only	Descriptive only	Descriptive only	Descriptive only	Descriptive only	Descriptive only	Descriptive only
+Robust standard errors in parentheses								
+*** p<0.01, ** p<0.05, * p<0.1								

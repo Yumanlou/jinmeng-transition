@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"data\": {\"code\": 0, \"message\": \"OK\", \"data\": [{\"meta\": {\"code\": \"Z7383628\", \"enName\": \"China: Hainan: Newly Connected Capacity: Household Distributed Photovoltaic Power Generation\", \"name\": \"中国:海南:新增装机容量:户用分布式光伏发电\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"quarterly\", \"freq\": \"季\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20260519\"}}, {\"meta\": {\"code\": \"S5132860\", \"enName\": \"China: Hainan: Newly Connected Capacity: Photovoltaic Power Generation\", \"name\": \"中国:海南:新增并网容量:光伏发电\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"quarterly\", \"freq\": \"季\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20260519\"}}, {\"meta\": {\"code\": \"S5132893\", \"enName\": \"China: Hainan: Newly Connected Capacity: Centralized Photovoltaic Power Station\", \"name\": \"中国:海南:新增并网容量:集中式光伏电站\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"quarterly\", \"freq\": \"季\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20260519\"}}, {\"meta\": {\"code\": \"S5133807\", \"enName\": \"China: Hainan: Cumulative Grid-connected Capacity: Distributed Photovoltaic Power Generation\", \"name\": \"中国:海南:累计并网容量:分布式光伏发电\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"quarterly\", \"freq\": \"季\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20260519\"}}]}, \"error\": null}"
+    }
+  ],
+  "isError": false
+}

@@ -1,0 +1,20 @@
+Continuous-exposure event-study; base period = 2011
+
+Outcome: gtfp_level
+Pre-trend joint test F = 1.42008705835314, p = .256991969921935
+
+Outcome: gml_index
+Pre-trend joint test F = .7123059301021647, p = .5525829183530828
+
+Outcome: industrial_so2
+Pre-trend joint test F = 2.887270689348405, p = .0525148002135369
+
+Outcome: coalshare5
+Pre-trend joint test F = .2789743484463745, p = .8401022329125105
+
+Outcome: therm_gen_sh
+Pre-trend joint test F = 6.534202845447296, p = .0016391042821374
+
+Outcome: windsolar_gen_sh
+Pre-trend joint test F = ., p = .
+

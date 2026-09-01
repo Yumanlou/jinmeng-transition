@@ -1,0 +1,394 @@
+[
+  {
+    "meta": {
+      "code": "U3511483",
+      "enName": "China: Guangdong: Foshan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:佛山:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.04,
+      0.04,
+      0.01,
+      0.01
+    ]
+  },
+  {
+    "meta": {
+      "code": "V1073652",
+      "enName": "China: Guangdong: Yangjiang: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:阳江:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ]
+  },
+  {
+    "meta": {
+      "code": "A3180786",
+      "enName": "China: Guangdong: Qingyuan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:清远:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.04,
+      0.04,
+      0.03,
+      0.03
+    ]
+  },
+  {
+    "meta": {
+      "code": "Q1687303",
+      "enName": "China: Guangdong: Qingyuan City: No. of Employed Persons: Urban Non-private Units: Mining",
+      "name": "广东:清远:就业人员数:城镇非私营单位:采矿业",
+      "enSource": "Qingyuan Municipal Bureau of Statistics",
+      "source": "清远市统计局",
+      "enUnit": "person",
+      "unit": "人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20240918"
+    },
+    "date": [
+      "20131231",
+      "20141231",
+      "20151231",
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231",
+      "20201231",
+      "20211231",
+      "20221231"
+    ],
+    "value": [
+      263.0,
+      479.0,
+      505.0,
+      426.0,
+      392.0,
+      331.0,
+      288.0,
+      348.0,
+      354.0,
+      150.0
+    ]
+  },
+  {
+    "meta": {
+      "code": "Q9558373",
+      "enName": "China: Guangdong: Dongguan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:东莞:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "meta": {
+      "code": "B3669186",
+      "enName": "China: Guangdong: Chaozhou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:潮州:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "meta": {
+      "code": "R1107461",
+      "enName": "China: Guangdong: Jieyang: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:揭阳:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20191231"
+    ],
+    "value": [
+      0.0
+    ]
+  },
+  {
+    "meta": {
+      "code": "C5775102",
+      "enName": "China: Guangdong: Yunfu: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:云浮:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.3,
+      0.25,
+      0.22,
+      0.22
+    ]
+  },
+  {
+    "meta": {
+      "code": "Z5582485",
+      "enName": "China: Guangdong: Heyuan: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:河源:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.07,
+      0.07,
+      0.04,
+      0.02
+    ]
+  },
+  {
+    "meta": {
+      "code": "O9308928",
+      "enName": "China: Guangdong: Shenzhen: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:深圳:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      0.4,
+      0.37,
+      0.37,
+      0.37
+    ]
+  },
+  {
+    "meta": {
+      "code": "Q5802327",
+      "enName": "China: Guangdong: Shantou: No. of Employed Persons: Urban Units: Mining",
+      "name": "广东:汕头:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231"
+    ],
+    "value": [
+      0.07,
+      0.07,
+      0.01
+    ]
+  },
+  {
+    "meta": {
+      "code": "Q9519715",
+      "enName": "China: Xinjiang: Turpan: No. of Employed Persons: Urban Units: Mining",
+      "name": "新疆:吐鲁番:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240718"
+    },
+    "date": [
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      1.8,
+      1.63,
+      1.49
+    ]
+  },
+  {
+    "meta": {
+      "code": "K6207564",
+      "enName": "China: Xinjiang: Urumchi: No. of Employed Persons: Urban Units: Mining",
+      "name": "新疆:乌鲁木齐:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      1.5,
+      1.46,
+      1.19,
+      1.11
+    ]
+  },
+  {
+    "meta": {
+      "code": "H0657635",
+      "enName": "China: Xinjiang: Karamay: No. of Employed Persons: Urban Units: Mining",
+      "name": "新疆:克拉玛依:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      6.78,
+      6.63,
+      6.32,
+      5.67
+    ]
+  }
+]

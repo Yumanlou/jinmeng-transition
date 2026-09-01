@@ -1,0 +1,670 @@
+[
+  {
+    "meta": {
+      "code": "D0288367",
+      "enName": "China: Guangdong: Dongguan: Number of Employees: Urban Non Private Sector",
+      "name": "广东:东莞:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "N9444254",
+      "enName": "China: Guangdong: Guangzhou: No. of Employed Persons: Urban Units",
+      "name": "广东:广州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "Y1457101",
+      "enName": "China: Guangdong: Guangzhou: Number of Employees: Urban Non Private Sector",
+      "name": "广东:广州:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "K9853066",
+      "enName": "China: Guangdong: Shaoguan: No. of Employed Persons: Urban Units",
+      "name": "广东:韶关:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "K3609783",
+      "enName": "China: Guangdong: Shaoguan: Number of Employees: Urban Non Private Sector",
+      "name": "广东:韶关:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "F0883989",
+      "enName": "China: Guangdong: Shenzhen: No. of Employed Persons: Urban Units",
+      "name": "广东:深圳:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "R3314505",
+      "enName": "China: Guangdong: Shenzhen: Number of Employees: Urban Non Private Sector",
+      "name": "广东:深圳:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "O0759709",
+      "enName": "China: Guangdong: Heyuan: No. of Employed Persons: Urban Units",
+      "name": "广东:河源:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "O5761851",
+      "enName": "China: Guangdong: Heyuan: Number of Employees: Urban Non Private Sector",
+      "name": "广东:河源:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "A7308565",
+      "enName": "China: Guangdong: Chaozhou: No. of Employed Persons: Urban Units",
+      "name": "广东:潮州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "W9921797",
+      "enName": "China: Guangdong: Chaozhou: Number of Employees: Urban Non Private Sector",
+      "name": "广东:潮州:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "P9384320",
+      "enName": "China: Guangdong: Jieyang: No. of Employed Persons: Urban Units",
+      "name": "广东:揭阳:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "A2043614",
+      "enName": "China: Guangdong: Jieyang: Number of Employees: Urban Non Private Sector",
+      "name": "广东:揭阳:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "V0028327",
+      "enName": "China: Guangdong: Zhongshan: Number of Employees: Urban Non Private Sector",
+      "name": "广东:中山:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "V5947814",
+      "enName": "China: Guangdong: Zhuhai: Number of Employees: Urban Non Private Sector",
+      "name": "广东:珠海:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "T5428643",
+      "enName": "China: Guangdong: Zhuhai: No. of Employed Persons: Urban Units",
+      "name": "广东:珠海:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "D4400608",
+      "enName": "China: Guangdong: Foshan: Number of Employees: Urban Non Private Sector",
+      "name": "广东:佛山:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "Y1832086",
+      "enName": "China: Guangdong: Foshan: No. of Employed Persons: Urban Units",
+      "name": "广东:佛山:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "V9492202",
+      "enName": "China: Guangdong: Meizhou: Number of Employees: Urban Non Private Sector",
+      "name": "广东:梅州:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "B4036642",
+      "enName": "China: Guangdong: Meizhou: No. of Employed Persons: Urban Units",
+      "name": "广东:梅州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "K5638143",
+      "enName": "China: Guangdong: Yangjiang: Number of Employees: Urban Non Private Sector",
+      "name": "广东:阳江:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "L7451548",
+      "enName": "China: Guangdong: Yangjiang: No. of Employed Persons: Urban Units",
+      "name": "广东:阳江:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "D7591079",
+      "enName": "China: Guangdong: Qingyuan: Number of Employees: Urban Non Private Sector",
+      "name": "广东:清远:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "O6244401",
+      "enName": "China: Guangdong: Qingyuan: No. of Employed Persons: Urban Units",
+      "name": "广东:清远:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "V8259588",
+      "enName": "China: Guangdong: Yunfu: Number of Employees: Urban Non Private Sector",
+      "name": "广东:云浮:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "R9270316",
+      "enName": "China: Guangdong: Yunfu: No. of Employed Persons: Urban Units",
+      "name": "广东:云浮:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "W9667151",
+      "enName": "China: Guangdong: Shantou: Number of Employees: Urban Non Private Sector",
+      "name": "广东:汕头:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "Z9643085",
+      "enName": "China: Guangdong: Shantou: No. of Employed Persons: Urban Units",
+      "name": "广东:汕头:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "R9147181",
+      "enName": "China: Guangdong: Jiangmen: No. of Employed Persons: Urban Units",
+      "name": "广东:江门:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "A0166399",
+      "enName": "China: Guangdong: Jiangmen: Number of Employees: Urban Non Private Sector",
+      "name": "广东:江门:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "Z3661616",
+      "enName": "China: Guangdong: Zhanjiang: No. of Employed Persons: Urban Units",
+      "name": "广东:湛江:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "P4965154",
+      "enName": "China: Guangdong: Zhanjiang: Number of Employees: Urban Non Private Sector",
+      "name": "广东:湛江:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "Q6354816",
+      "enName": "China: Guangdong: Maoming: No. of Employed Persons: Urban Units",
+      "name": "广东:茂名:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "K8158266",
+      "enName": "China: Guangdong: Maoming: Number of Employees: Urban Non Private Sector",
+      "name": "广东:茂名:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "V2818296",
+      "enName": "China: Guangdong: Shanwei: Number of Employees: Urban Non Private Sector",
+      "name": "广东:汕尾:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "D6134673",
+      "enName": "China: Guangdong: Shanwei: No. of Employed Persons: Urban Units",
+      "name": "广东:汕尾:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "O1389845",
+      "enName": "China: Guangdong: Zhaoqing: Number of Employees: Urban Non Private Sector",
+      "name": "广东:肇庆:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "J9731186",
+      "enName": "China: Guangdong: Zhaoqing: No. of Employed Persons: Urban Units",
+      "name": "广东:肇庆:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "C4461371",
+      "enName": "China: Guangdong: Huizhou: Number of Employees: Urban Non Private Sector",
+      "name": "广东:惠州:就业人员数:城镇非私营单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240605"
+    }
+  },
+  {
+    "meta": {
+      "code": "D6771630",
+      "enName": "China: Guangdong: Huizhou: No. of Employed Persons: Urban Units",
+      "name": "广东:惠州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "M6022778",
+      "enName": "China: Guangdong: Dongguan: No. of Employed Persons: Urban Units",
+      "name": "广东:东莞:就业人员数:城镇单位",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "person",
+      "unit": "人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20221104"
+    }
+  },
+  {
+    "meta": {
+      "code": "M6022779",
+      "enName": "China: Guangdong: Zhongshan: No. of Employed Persons: Urban Units",
+      "name": "广东:中山:就业人员数:城镇单位",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "person",
+      "unit": "人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20221104"
+    }
+  }
+]

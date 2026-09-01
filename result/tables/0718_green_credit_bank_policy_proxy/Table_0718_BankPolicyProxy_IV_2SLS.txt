@@ -1,0 +1,16 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)
+VARIABLES	energy5_int	coalterm_int	industrial_so2	coalshare5	ln_co2	therm_cap_sh	therm_gen_sh
+							
+gc_proxy_z_full	-9.5164	-19.5158	-5,897.5503	-20.9125	-0.0056	-0.0052	-0.0400
+	(494.5534)	(1,010.1210)	(305,188.8218)	(1,080.6951)	(0.1171)	(0.0332)	(0.0256)
+gc_proxy_z_x_resdep	0.6123	1.3036	399.4701	1.4563	0.1104	-0.0456	-0.0082
+	(34.3970)	(70.2482)	(21,221.0878)	(75.1456)	(0.1086)	(0.0430)	(0.0314)
+							
+Observations	464	464	464	464	480	480	477
+R-squared	-2,923.5110	-17,557.0018	-19,834.9496	-28,722.4262	-0.4724	0.1389	-0.2801
+Province FE	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Year FE	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Cluster	Province	Province	Province	Province	Province	Province	Province
+KP rk Wald F	weakf	weakf	weakf	weakf	weakf	weakf	weakf
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

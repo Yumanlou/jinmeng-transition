@@ -1,0 +1,27 @@
+{
+  "source_file": "2005-2022年绿色信贷水平.XLSX",
+  "source_sha256": "452cddb7a7727366a74da23d770d89a45516b39b71fe55ffeae1f073e3c79e4c",
+  "sector_years": [
+    2007,
+    2022
+  ],
+  "baseline_years": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "province_n": 31,
+  "post_iv_observations": 341,
+  "main_instrument": "iv_bartik_gc_relative_z",
+  "alternative_instrument": "iv_bartik_gc_level_z",
+  "construction": "Negative weighted sum of leave-one-province-out national changes in six energy-intensive industries' interest-expense shares; weights are fixed province exposures from 2007-2011.",
+  "identification_warning": "National industry financing shocks may directly affect provincial energy use, pollution, and output. The exclusion restriction is not established, so this instrument is exploratory rather than a main causal design.",
+  "source_anomaly": "Hubei 2007 ferrous interest expense is stored as text '11．44．' and omitted by the workbook's reported SUM formula; the sector panel sets it to zero to reconcile exactly with the paper's green-credit proxy.",
+  "correlations_2012_2022": {
+    "relative_iv_with_green_credit_proxy": -0.12854065807361192,
+    "level_iv_with_green_credit_proxy": -0.17329095730705643,
+    "relative_with_level_iv": 0.8291375865271549
+  }
+}

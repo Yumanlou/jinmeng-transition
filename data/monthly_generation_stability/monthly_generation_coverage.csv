@@ -1,0 +1,6 @@
+﻿technology,provinces,first_year,last_year,ytd_observations,monthly_increments,combined_jan_feb,negative_increments
+hydro,30,2000,2023,8121,7767,299,46
+nuclear,8,2000,2023,1355,1271,71,0
+solar,20,2016,2023,1700,1526,140,14
+thermal,31,2000,2023,8575,8245,311,13
+wind,30,2013,2023,3624,3284,330,10

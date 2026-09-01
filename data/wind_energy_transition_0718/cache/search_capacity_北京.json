@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"data\": {\"code\": 0, \"message\": \"OK\", \"data\": [{\"meta\": {\"code\": \"N0181959\", \"enName\": \"China: New Installed Capacity: New Energy: Solar Power\", \"name\": \"中国:当年新增装机容量:新能源:太阳能\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20251128\"}}, {\"meta\": {\"code\": \"L1004707\", \"enName\": \"China: New Installed Capacity: New Energy: Wind Power\", \"name\": \"中国:当年新增装机容量:新能源:风电\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"10000 kw\", \"unit\": \"万千瓦\", \"enFreq\": \"yearly\", \"freq\": \"年\", \"enMagnitude\": \"10mn \", \"magnitude\": \"千万\", \"updateDate\": \"20251128\"}}, {\"meta\": {\"code\": \"C7916637\", \"enName\": \"China: Installed Power Generation Capacity: Photovltaic: YTD\", \"name\": \"中国:发电装机容量:光伏:累计值\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"100 million kw\", \"unit\": \"亿千瓦\", \"enFreq\": \"quarterly\", \"freq\": \"季\", \"enMagnitude\": \"100bn \", \"magnitude\": \"千亿\", \"updateDate\": \"20260428\"}}, {\"meta\": {\"code\": \"Z4823591\", \"enName\": \"China: Installed Power Generation Capacity: Wind Power: YTD\", \"name\": \"中国:发电装机容量:风电:累计值\", \"enSource\": \"National Energy Administration\", \"source\": \"国家能源局\", \"enUnit\": \"100 million kw\", \"unit\": \"亿千瓦\", \"enFreq\": \"quarterly\", \"freq\": \"季\", \"enMagnitude\": \"100bn \", \"magnitude\": \"千亿\", \"updateDate\": \"20260428\"}}]}, \"error\": null}"
+    }
+  ],
+  "isError": false
+}

@@ -1,0 +1,428 @@
+[
+  {
+    "meta": {
+      "code": "L7451548",
+      "enName": "China: Guangdong: Yangjiang: No. of Employed Persons: Urban Units",
+      "name": "广东:阳江:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      24.25,
+      23.74,
+      20.08,
+      20.46
+    ]
+  },
+  {
+    "meta": {
+      "code": "O6244401",
+      "enName": "China: Guangdong: Qingyuan: No. of Employed Persons: Urban Units",
+      "name": "广东:清远:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      32.55,
+      32.9,
+      35.28,
+      32.84
+    ]
+  },
+  {
+    "meta": {
+      "code": "R9270316",
+      "enName": "China: Guangdong: Yunfu: No. of Employed Persons: Urban Units",
+      "name": "广东:云浮:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      21.81,
+      19.43,
+      18.36,
+      19.13
+    ]
+  },
+  {
+    "meta": {
+      "code": "Z9643085",
+      "enName": "China: Guangdong: Shantou: No. of Employed Persons: Urban Units",
+      "name": "广东:汕头:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      57.45,
+      59.62,
+      58.95,
+      52.4
+    ]
+  },
+  {
+    "meta": {
+      "code": "R9147181",
+      "enName": "China: Guangdong: Jiangmen: No. of Employed Persons: Urban Units",
+      "name": "广东:江门:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      59.54,
+      56.71,
+      64.32,
+      59.01
+    ]
+  },
+  {
+    "meta": {
+      "code": "Z3661616",
+      "enName": "China: Guangdong: Zhanjiang: No. of Employed Persons: Urban Units",
+      "name": "广东:湛江:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      52.32,
+      50.87,
+      53.5,
+      45.85
+    ]
+  },
+  {
+    "meta": {
+      "code": "Q6354816",
+      "enName": "China: Guangdong: Maoming: No. of Employed Persons: Urban Units",
+      "name": "广东:茂名:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      46.46,
+      49.36,
+      46.34,
+      49.59
+    ]
+  },
+  {
+    "meta": {
+      "code": "D6134673",
+      "enName": "China: Guangdong: Shanwei: No. of Employed Persons: Urban Units",
+      "name": "广东:汕尾:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      23.76,
+      20.4,
+      19.83,
+      18.18
+    ]
+  },
+  {
+    "meta": {
+      "code": "J9731186",
+      "enName": "China: Guangdong: Zhaoqing: No. of Employed Persons: Urban Units",
+      "name": "广东:肇庆:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      42.35,
+      39.29,
+      38.62,
+      35.11
+    ]
+  },
+  {
+    "meta": {
+      "code": "D6771630",
+      "enName": "China: Guangdong: Huizhou: No. of Employed Persons: Urban Units",
+      "name": "广东:惠州:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      96.09,
+      98.76,
+      95.13,
+      100.61
+    ]
+  },
+  {
+    "meta": {
+      "code": "M6022778",
+      "enName": "China: Guangdong: Dongguan: No. of Employed Persons: Urban Units",
+      "name": "广东:东莞:就业人员数:城镇单位",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "person",
+      "unit": "人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20221104"
+    },
+    "date": [
+      "20151231",
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231",
+      "20201231",
+      "20211231"
+    ],
+    "value": [
+      2322753.0,
+      2312387.0,
+      2423988.0,
+      2424150.0,
+      2873275.0,
+      2863056.18,
+      2872900.0
+    ]
+  },
+  {
+    "meta": {
+      "code": "M6022779",
+      "enName": "China: Guangdong: Zhongshan: No. of Employed Persons: Urban Units",
+      "name": "广东:中山:就业人员数:城镇单位",
+      "enSource": "Guangdong Provincial Bureau of Statistics",
+      "source": "广东省统计局",
+      "enUnit": "person",
+      "unit": "人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "updateDate": "20221104"
+    },
+    "date": [
+      "20151231",
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231",
+      "20201231",
+      "20211231"
+    ],
+    "value": [
+      829382.0,
+      809462.0,
+      778995.0,
+      763362.0,
+      764244.0,
+      753353.9,
+      786600.0
+    ]
+  },
+  {
+    "meta": {
+      "code": "N8685129",
+      "enName": "China: Xinjiang: Karamay: No. of Employed Persons: Urban Units",
+      "name": "新疆:克拉玛依:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      16.73,
+      17.64,
+      17.72,
+      14.91
+    ]
+  },
+  {
+    "meta": {
+      "code": "X6262787",
+      "enName": "China: Xinjiang: Urumchi: No. of Employed Persons: Urban Units",
+      "name": "新疆:乌鲁木齐:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    },
+    "date": [
+      "20161231",
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      72.67,
+      72.37,
+      73.2,
+      77.7
+    ]
+  },
+  {
+    "meta": {
+      "code": "N0707904",
+      "enName": "China: Xinjiang: Turpan: No. of Employed Persons: Urban Units",
+      "name": "新疆:吐鲁番:就业人员数:城镇单位",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240718"
+    },
+    "date": [
+      "20171231",
+      "20181231",
+      "20191231"
+    ],
+    "value": [
+      14.67,
+      16.2,
+      16.21
+    ]
+  }
+]

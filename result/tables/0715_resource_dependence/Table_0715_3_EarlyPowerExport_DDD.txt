@@ -1,0 +1,21 @@
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	therm_cap_sh	therm_gen_sh	wind_cap_sh	wind_gen_sh	windsolar_gen_sh
+					
+coalexp_post16	0.0709	0.2616**	0.1068**	0.0302	-0.0061
+	(0.1355)	(0.1130)	(0.0517)	(0.0232)	(0.0484)
+post16_grid_export_z	0.0112	-0.0379	-0.0257	0.0105	0.0015
+	(0.0630)	(0.0692)	(0.0321)	(0.0107)	(0.0195)
+ddd_grid_export16_z	-0.0095	0.0369	0.0258	-0.0326	-0.0269
+	(0.1219)	(0.1282)	(0.0602)	(0.0211)	(0.0361)
+Constant	-0.7316	0.1227	0.9097*	1.3280***	1.8921***
+	(0.8297)	(0.7531)	(0.4892)	(0.2763)	(0.4326)
+					
+Observations	493	491	278	319	319
+R-squared	0.9369	0.9509	0.9299	0.8881	0.8834
+Condition	2015 early power export proxy	2015 early power export proxy	2015 early power export proxy	2015 early power export proxy	2015 early power export proxy
+Policy breakpoint	2016	2016	2016	2016	2016
+Province FE	YES	YES	YES	YES	YES
+Year FE	YES	YES	YES	YES	YES
+Cluster	province_id	province_id	province_id	province_id	province_id
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

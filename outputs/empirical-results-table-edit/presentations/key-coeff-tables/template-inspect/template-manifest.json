@@ -1,0 +1,103 @@
+{
+  "sourcePptx": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/output/实证结果汇报_四页.pptx",
+  "workspace": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables",
+  "outDir": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect",
+  "generatedAt": "2026-05-27T14:53:31.749Z",
+  "slideCount": 4,
+  "slideArtifacts": [
+    {
+      "slide": 1,
+      "previewPath": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/source-slides/source-slide-01.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-01.png",
+      "layoutPath": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/layouts/source-slide-01.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-01.layout.json"
+    },
+    {
+      "slide": 2,
+      "previewPath": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/source-slides/source-slide-02.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-02.png",
+      "layoutPath": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/layouts/source-slide-02.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-02.layout.json"
+    },
+    {
+      "slide": 3,
+      "previewPath": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/source-slides/source-slide-03.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-03.png",
+      "layoutPath": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/layouts/source-slide-03.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-03.layout.json"
+    },
+    {
+      "slide": 4,
+      "previewPath": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/source-slides/source-slide-04.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-04.png",
+      "layoutPath": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/layouts/source-slide-04.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-04.layout.json"
+    }
+  ],
+  "inspectPath": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/template-inspect.ndjson",
+  "inspectRelativePath": "template-inspect/template-inspect.ndjson",
+  "inspectTruncated": false,
+  "inspectMetadata": {
+    "revision": "zcr3bg",
+    "target": {
+      "id": "pr/cf9ctj"
+    },
+    "kind": {
+      "requested": "slide,textbox,shape,image,table,chart",
+      "tokens": [
+        "slide",
+        "textbox",
+        "shape",
+        "image",
+        "table",
+        "chart"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  },
+  "extractedMedia": [
+    {
+      "entry": "ppt/media/image.png",
+      "path": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/assets/ppt/media/image.png",
+      "relativePath": "template-inspect/assets/ppt/media/image.png",
+      "bytes": 12172
+    },
+    {
+      "entry": "ppt/media/image2.png",
+      "path": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/assets/ppt/media/image2.png",
+      "relativePath": "template-inspect/assets/ppt/media/image2.png",
+      "bytes": 12747
+    },
+    {
+      "entry": "ppt/media/image3.png",
+      "path": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/assets/ppt/media/image3.png",
+      "relativePath": "template-inspect/assets/ppt/media/image3.png",
+      "bytes": 1132
+    },
+    {
+      "entry": "ppt/media/image4.png",
+      "path": "/Users/yumanlou/Library/CloudStorage/OneDrive-email.cufe.edu.cn/2026/寒假/晋蒙转型/outputs/empirical-results-table-edit/presentations/key-coeff-tables/template-inspect/assets/ppt/media/image4.png",
+      "relativePath": "template-inspect/assets/ppt/media/image4.png",
+      "bytes": 7318
+    }
+  ],
+  "fonts": [
+    "+mj-lt",
+    "+mn-lt",
+    "Arial",
+    "Calibri",
+    "微软雅黑"
+  ],
+  "packageParts": {
+    "mediaCount": 4,
+    "slideXmlCount": 4,
+    "chartCount": 0,
+    "tableSlideCount": 0
+  }
+}

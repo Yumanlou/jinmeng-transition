@@ -1,0 +1,9 @@
+﻿province,year,variable,value,previous_value,flag
+Qinghai,2015,coal_transfer_out_abs_10k_ton,10.0,1117.9,year_to_year_ratio_ge_20
+Hainan,2014,electricity_transfer_in_100m_kwh,6.04,0.22,year_to_year_ratio_ge_20
+Hainan,2016,electricity_transfer_in_100m_kwh,0.48,10.3,year_to_year_ratio_ge_20
+Heilongjiang,2012,electricity_transfer_in_100m_kwh,0.02,90.36,year_to_year_ratio_ge_20
+Heilongjiang,2013,electricity_transfer_in_100m_kwh,1.4,0.02,year_to_year_ratio_ge_20
+Heilongjiang,2016,electricity_transfer_in_100m_kwh,69.8,0.48,year_to_year_ratio_ge_20
+Neimenggu,2013,electricity_transfer_out_abs_100m_kwh,138931.0,1337.4,year_to_year_ratio_ge_20
+Neimenggu,2014,electricity_transfer_out_abs_100m_kwh,1450.31,138931.0,year_to_year_ratio_ge_20

@@ -1,0 +1,66 @@
+[
+  {
+    "meta": {
+      "code": "B1685534",
+      "enName": "China: Xinjiang: Hami: No. of Employed Persons: Urban Units: Mining",
+      "name": "新疆:哈密地区:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "Q9519715",
+      "enName": "China: Xinjiang: Turpan: No. of Employed Persons: Urban Units: Mining",
+      "name": "新疆:吐鲁番:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20240718"
+    }
+  },
+  {
+    "meta": {
+      "code": "K6207564",
+      "enName": "China: Xinjiang: Urumchi: No. of Employed Persons: Urban Units: Mining",
+      "name": "新疆:乌鲁木齐:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  },
+  {
+    "meta": {
+      "code": "H0657635",
+      "enName": "China: Xinjiang: Karamay: No. of Employed Persons: Urban Units: Mining",
+      "name": "新疆:克拉玛依:就业人员数:城镇单位:采矿业",
+      "enSource": "Compliation of Statistics",
+      "source": "统计资料汇编",
+      "enUnit": "10000 persons",
+      "unit": "万人",
+      "enFreq": "yearly",
+      "freq": "年",
+      "enMagnitude": "10k ",
+      "magnitude": "万",
+      "updateDate": "20230531"
+    }
+  }
+]

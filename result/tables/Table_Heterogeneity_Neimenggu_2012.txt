@@ -1,0 +1,17 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)
+VARIABLES	coal_share_pctg	ln_co2	ln_co2	gtfp_level	gtfp_level	gml_index	gml_index	industrial_so2	industrial_so2	industrial_wastewater	industrial_wastewater
+											
+did_nmg	0.0590***	0.0595	0.0595	1.1791***	1.1791***	0.1808***	0.1808***	-34.2803***	-34.2803***	20,189.5421***	20,189.5421***
+	(0.0190)	(0.0414)	(0.0414)	(0.2051)	(0.2051)	(0.0143)	(0.0143)	(5.7617)	(5.7617)	(6,973.9887)	(6,973.9887)
+Constant	0.9914	17.7159***	17.7159***	-21.7653***	-21.7653***	0.0375	0.0375	-330.4822*	-330.4822*	-309413.5938*	-309413.5938*
+	(0.6741)	(0.6841)	(0.6841)	(4.7268)	(4.7268)	(0.5945)	(0.5945)	(178.0803)	(178.0803)	(162,053.0686)	(162,053.0686)
+											
+Observations	480	527	527	510	510	510	510	510	510	510	510
+R-squared	0.9344	0.9925	0.9925	0.7363	0.7363	0.2641	0.2641	0.8747	0.8747	0.9094	0.9094
+Policy breakpoint	2012	2012	2012	2012	2012	2012	2012	2012	2012	2012	2012
+Treated province	Neimenggu	Neimenggu	Neimenggu	Neimenggu	Neimenggu	Neimenggu	Neimenggu	Neimenggu	Neimenggu	Neimenggu	Neimenggu
+Province FE	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES
+Year FE	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES
+Cluster	province_id	province_id	province_id	province_id	province_id	province_id	province_id	province_id	province_id	province_id	province_id
+Robust standard errors in parentheses											
+*** p<0.01, ** p<0.05, * p<0.1											

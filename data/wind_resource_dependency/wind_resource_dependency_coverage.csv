@@ -1,0 +1,10 @@
+﻿series_type,series_count,province_count,observation_count,min_year,max_year
+mining_employment,31,31,650,2003,2023
+urban_nonprivate_employment,31,31,651,2003,2023
+coal_mining_assets,26,26,465,2000,2023
+industrial_assets,30,30,644,2000,2023
+state_owned_industrial_assets,31,31,628,2000,2023
+resource_tax_revenue,31,31,705,2000,2023
+mining_tax_revenue,31,31,434,2010,2023
+raw_coal_output,6,6,110,2000,2023
+public_budget_revenue,31,31,698,2000,2023
