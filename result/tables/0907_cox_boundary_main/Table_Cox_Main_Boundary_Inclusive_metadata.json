@@ -1,0 +1,31 @@
+{
+  "table": "result\\tables\\0907_cox_boundary_main\\Table_Cox_Main_Boundary_Inclusive.csv",
+  "figure_png": "result\\figures\\0907_cox_boundary_main\\Figure_2_retirement_evidence_boundary_inclusive.png",
+  "figure_pdf": "result\\figures\\0907_cox_boundary_main\\Figure_2_retirement_evidence_boundary_inclusive.pdf",
+  "source_results_csv": "result\\tables\\0907_cox_boundary_sensitivity\\cox_boundary_primary_comparison.csv",
+  "source_results_sha256": "06028eb3566e08ea35c78395088d408236fc7cdc755ca4b45a254690790fb3fa",
+  "specification": "end_of_reported_year",
+  "annual_time_convention": "retirement event time = reported retired_year + 1; event period assigned by reported retired_year",
+  "contributing_units": 4326,
+  "modeled_retirement_events": 1078,
+  "unit_period_intervals": 12470,
+  "software": {
+    "lifelines": "0.30.0"
+  },
+  "exposure": "standardized continuous pre-policy provincial coal exposure (per 1 SD)",
+  "controls": [
+    "capacity_100mw",
+    "vintage_decade"
+  ],
+  "standard_errors": "province-clustered robust standard errors",
+  "left_truncation": "entry_age",
+  "ties_handling": "lifelines CoxPHFitter default",
+  "panel_a": {
+    "cohort": "coal units operating at the start of 2012",
+    "cohort_units": 2409,
+    "high_exposure_units": 1390,
+    "low_exposure_units": 1019,
+    "reported_2012_retirements_retained": 30,
+    "reported_2012_retirement_duration": 1.0
+  }
+}

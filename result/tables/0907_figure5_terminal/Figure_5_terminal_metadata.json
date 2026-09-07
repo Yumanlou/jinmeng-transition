@@ -1,0 +1,49 @@
+{
+  "candidate": "terminal",
+  "created_date": "2026-09-07",
+  "source_panel": "data/final_data.1.3.4_did_full_resource_v2_credit_greencredit_natural_cleanproxy_tide_absorption_monthly_reliability_policyworkreports_projectlifecycle_0721.csv",
+  "source_panel_sha256": "e1889c7ae9678fd497be2452df091d3305e7c2a13315a6aa9e6f762b6bd509f5",
+  "panel_a_source_fields": {
+    "Coal": "coal_terminal_10k_tce_approx",
+    "Oil products": "oil_terminal_10k_tce_approx",
+    "LPG": "lpg_terminal_10k_tce_approx",
+    "Natural gas": "gas_terminal_10k_tce_approx",
+    "Electricity": "electricity_terminal_10k_tce_approx"
+  },
+  "panel_a_aggregation": "For each year and energy component, sum the approximate 10k-tce values across provinces; divide each component national sum by the sum of the five component national sums; multiply by 100.",
+  "missing_value_handling": "Pandas groupby.sum skips missing values, matching the 0822 script. Nonmissing province counts are recorded by field and year in the audit CSV. All five panel (a) fields have 30 nonmissing provinces in every year 2006-2022.",
+  "panel_a_endpoint_shares_percent": {
+    "2006": {
+      "Coal": 44.84363591213767,
+      "Oil products": 28.577849129949882,
+      "LPG": 2.315629626403769,
+      "Natural gas": 3.8552727847082773,
+      "Electricity": 20.407612546800415
+    },
+    "2022": {
+      "Coal": 21.122400862574786,
+      "Oil products": 29.044407151794182,
+      "LPG": 2.6659474299972925,
+      "Natural gas": 11.509896415682277,
+      "Electricity": 35.65734813995146
+    }
+  },
+  "panel_a_title": "(a) Constructed five-energy final-use composition",
+  "panel_a_y_axis": "Share of constructed five-energy final use (%)",
+  "suggested_figure_note": "Panel (a) uses a constructed five-energy final-use basket based on the terminal-consumption fields for coal, oil products, LPG, natural gas, and electricity. Values are annual sums across provinces before shares are computed. The basket is constructed and approximate, and is not a total-primary-energy measure; electricity should not be interpreted as a clean-energy category.",
+  "panels_b_c": "Recomputed without definition changes using the 0822 plotting logic; years 2006-2023.",
+  "figure_files": [
+    "result/figures/0907_figure5_terminal/Figure_5_annual_composition_shares_terminal.png",
+    "result/figures/0907_figure5_terminal/Figure_5_annual_composition_shares_terminal.pdf"
+  ],
+  "audit_csv_files": [
+    "result/tables/0907_figure5_terminal/Figure_5_panel_a_terminal_audit.csv",
+    "result/tables/0907_figure5_terminal/Figure_5_panels_bc_audit.csv"
+  ],
+  "old_assets_overwritten": false,
+  "panel_a_year_range_inclusive": [
+    2006,
+    2022
+  ],
+  "panel_a_number_of_years": 17
+}
