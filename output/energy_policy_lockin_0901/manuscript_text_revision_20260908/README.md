@@ -19,6 +19,8 @@ The original manuscript was not overwritten. This revised copy was generated fro
    - 2016-2020: HR 1.127, p=0.573, 95% CI [0.744, 1.708], 327 events
    - 2021-2025: HR 1.110, p=0.622, 95% CI [0.733, 1.681], 140 events
 
+   The Figure 2 note also states the end-of-reported-year annual-time convention used by the main Cox specification.
+
 3. Added the missing Cox hazard-ratio table to the Word manuscript.
 
 4. Added the missing supporting provincial fixed-effect results table:
