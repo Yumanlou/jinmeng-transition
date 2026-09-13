@@ -17,11 +17,10 @@ The manuscript links figure PDFs from the repository-level `result/figures/` fol
 - `../../../../result/figures/0907_cox_boundary_main/Figure_2_retirement_evidence_boundary_inclusive.pdf`
 - `../../../../result/figures/energy_policy_lockin_0820/Figure_3_constraint_typology.pdf`
 - `../../../../result/figures/energy_policy_lockin_0820/Figure_4_case_lifecycles.pdf`
-- `../../../../result/figures/0907_figure5_terminal/Figure_5_annual_composition_shares_terminal.pdf`
+- `../../../../result/figures/0911_figure5_terminal_layout_fix/Figure_5_annual_composition_shares_terminal_layout_fixed.pdf`
 
 Build command from this folder:
 
 ```bash
 latexmk -pdf -interaction=nonstopmode manuscript_text_revised.tex
 ```
-

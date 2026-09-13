@@ -72,8 +72,8 @@ Use the following figure files when linking or replacing images in the manuscrip
    - `result/figures/energy_policy_lockin_0820/Figure_4_case_lifecycles.png`
 
 5. Figure 5:
-   - `result/figures/0907_figure5_terminal/Figure_5_annual_composition_shares_terminal.pdf`
-   - `result/figures/0907_figure5_terminal/Figure_5_annual_composition_shares_terminal.png`
+   - `result/figures/0911_figure5_terminal_layout_fix/Figure_5_annual_composition_shares_terminal_layout_fixed.pdf`
+   - `result/figures/0911_figure5_terminal_layout_fix/Figure_5_annual_composition_shares_terminal_layout_fixed.png`
 
 No empirical scripts, source data, old result files, or bibliography source files were modified in this package.
 
