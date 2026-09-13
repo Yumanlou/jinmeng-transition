@@ -1,0 +1,48 @@
+{
+  "candidate": "terminal_layout_fix",
+  "created_date": "2026-09-11",
+  "purpose": "Layout-only repair of the audited 0907 terminal/final-use Figure 5; no data or definition changes.",
+  "plot_input_files": [
+    "result/tables/0907_figure5_terminal/Figure_5_panel_a_terminal_audit.csv",
+    "result/tables/0907_figure5_terminal/Figure_5_panels_bc_audit.csv"
+  ],
+  "plot_input_sha256": {
+    "Figure_5_panel_a_terminal_audit.csv": "4f6742e1925c3d8303cda76e4810217b1dc6fb5288dd42b82545d5aef0bb4c33",
+    "Figure_5_panels_bc_audit.csv": "b9c70db8571ccf671e65e475c7253ea7d44fb77afae3c8baae020b0154d0259d"
+  },
+  "data_consistency": {
+    "panel_a_byte_identical_to_0907_csv": true,
+    "panels_bc_byte_identical_to_0907_csv": true,
+    "maximum_absolute_numeric_difference": 0
+  },
+  "panel_a_definition": "National annual sums of coal, oil products, LPG, natural gas, and electricity terminal-consumption fields in approximate 10k-tce units; each component divided by the five-component national sum.",
+  "panel_a_endpoint_coal_share_percent": {
+    "2006": 44.8436359121,
+    "2022": 21.1224008626
+  },
+  "panel_a_nonmissing_provinces": "30 for each of the five fields in every year 2006-2022, unchanged from the 0907 audit CSV.",
+  "panels_b_c_definition": "Unchanged from the 0907 terminal Figure 5: national provincial sums; thermal versus non-thermal shares of installed capacity and electricity generation.",
+  "layout_changes_only": [
+    "Increased canvas height and explicit left margin",
+    "Increased vertical space between panels",
+    "Wrapped each y-axis label onto two lines",
+    "Added safe exterior padding around legends and axes",
+    "Retained 0907 colors, titles, legends, year ticks, and 0-100 scales"
+  ],
+  "figure_files": [
+    "result/figures/0911_figure5_terminal_layout_fix/Figure_5_annual_composition_shares_terminal_layout_fixed.png",
+    "result/figures/0911_figure5_terminal_layout_fix/Figure_5_annual_composition_shares_terminal_layout_fixed.pdf"
+  ],
+  "audit_files": [
+    "result/tables/0911_figure5_terminal_layout_fix/Figure_5_panel_a_terminal_audit.csv",
+    "result/tables/0911_figure5_terminal_layout_fix/Figure_5_panels_bc_audit.csv",
+    "result/tables/0911_figure5_terminal_layout_fix/Figure_5_terminal_layout_fix_data_consistency.csv"
+  ],
+  "figure_sha256": {
+    "png": "ab3a309801828330dc84aacfeb07a3138ad450c26e42f2c0bda0ebecb54e3bfa",
+    "pdf": "000cdd32a4939385610f7f742032e13077d3ba9638e16a2acee8a34b28af42a6"
+  },
+  "source_0907_assets_overwritten": false,
+  "data_or_variable_definition_changed": false,
+  "rendering_engine": "SVG rendered by Microsoft Edge 152 via Playwright; PDF retains vector chart elements."
+}
